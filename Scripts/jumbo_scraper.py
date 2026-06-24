@@ -6,27 +6,25 @@ from playwright.sync_api import sync_playwright
 from urllib.parse import urljoin
 import lxml
 from collections import Counter
+import numpy as np
 
-def save_page_as_html(url, destination):
-    output_path = Path(destination)
-    output_path.parent.mkdir(parents=True, exist_ok=True)
+def save_page_as_html(url, destination_folder):
+    output_folder = Path(destination_folder)
+    output_folder.mkdir(parents=True, exist_ok=True)
+
+    filename = url.rstrip("/").split("/")[-1] + ".html"
+    output_path = output_folder / filename
 
     with sync_playwright() as playwright:
         browser = playwright.chromium.launch(headless=True)
         try:
             page = browser.new_page(locale="nl-NL")
-            page.goto(
-                url,
-                wait_until="domcontentloaded",
-                timeout=60_000,
-            )
+            page.goto(url, wait_until="domcontentloaded", timeout=60_000)
             html = page.content()
-            output_path.write_text(
-                html,
-                encoding="utf-8",
-            )
+            output_path.write_text(html, encoding="utf-8")
             print(f"Page title: {page.title()}")
             print(f"Saved to: {output_path.resolve()}")
+
         finally:
             browser.close()
 
@@ -98,19 +96,35 @@ def find_product_links(folder_link):
     unique_links = set(product_links)
     return unique_links
 
+def save_product_pages(links, destination_folder):
+    faulty_links = []
+    for link in links:
+        output_folder = Path(destination_folder)
+
+        filename = link.rstrip("/").split("/")[-1] + ".html"
+        output_path = output_folder / filename
+
+        if output_path.exists():
+            print(f"Already processed: {output_path.name}")
+            continue
+
+        try:
+            save_page_as_html(url = link, destination_folder = destination_folder)
+        except:
+            print(f"Skipped invalid file path for link: {link}")
+            faulty_links.append(link)
+            continue
+    print(faulty_links)
+
 def main():
-
-    # file_name = "jumbo_magere_yoghurt.html"    
-    # save_as_html(url = "https://www.jumbo.com/producten/campina-magere-yoghurt-1-l-527014PAK",
-    #             destination = Path.cwd()/"Data"/"Raw"/file_name
-    # )
+    source_folder = Path.cwd()/"Data"/"Raw"/"Jumbo"/"Yoghurt_Jumbo"
+    destination_folder = Path.cwd()/"Data"/"Raw"/"Jumbo"/"Individual_products"
+    category_url = "https://www.jumbo.com/producten/zuivel,-boter-en-eieren/yoghurt-en-kwark/yoghurt-en-skyr/"
     
-    # folder_name = "Yoghurt_Jumbo"
-    # save_overviews_as_html(category_url = "https://www.jumbo.com/producten/zuivel,-boter-en-eieren/yoghurt-en-kwark/yoghurt-en-skyr/"
-    #                       ,destination = Path.cwd()/"Data"/"Raw"/folder_name, page_size = 24, max_pages = 9)
+    # save_overviews_as_html(category_url = category_url ,destination = source_folder, page_size = 24, max_pages = 9)
 
-    folder_name = "Yoghurt_Jumbo"
-    links = find_product_links(folder_link = Path.cwd()/"Data"/"Raw"/folder_name)
+    links = find_product_links(folder_link = source_folder)
 
-
+    save_product_pages(links,destination_folder)
+    
 main()
