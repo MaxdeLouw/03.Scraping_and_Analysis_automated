@@ -71,8 +71,7 @@ def make_clean_dataframe(raw_df, supermarket_name):
 
     clean_df["Source_File"] = raw_df["Source_File"]
     clean_df["Date_Added"] = pd.to_datetime(
-        raw_df["Date_Added"],
-        errors="coerce"
+        raw_df["Date_Added"]
     ).dt.date
 
     clean_df["Supermarket"] = supermarket_name
@@ -82,15 +81,21 @@ def make_clean_dataframe(raw_df, supermarket_name):
     clean_df["Product_Name"] = raw_df["Product_Name"].str.replace(" ", "_")
     clean_df["Brand"] = raw_df["Product_Name"].str.split(" ").str[0]
 
-    clean_df["Product_Price"] = raw_df["Product_Price"].apply(clean_price).round(1)
-    clean_df["Price_Per_Unit"] = raw_df["Price_Per_Unit"].apply(clean_unit_price).round(1)
+    product_price = raw_df["Product_Price"].apply(clean_price)
+    price_per_unit = raw_df["Price_Per_Unit"].apply(clean_unit_price)
 
-    # Weight is estimated from product price and unit price per kg.
-    clean_df["Weight_g"] = (
-        clean_df["Product_Price"]
-        / clean_df["Price_Per_Unit"]
-        * 1000
-    ).round(1)
+    clean_df["Product_Price"] = product_price.round(1)
+    clean_df["Price_Per_Unit"] = price_per_unit.round(1)
+
+    # Weight is estimated from product price and unit price.
+    weight_g = product_price / price_per_unit * 1000
+
+    if supermarket_name == "PLUS":
+        weight_g = weight_g.where(weight_g <= 2500, weight_g / 10)
+        weight_g = weight_g.where(weight_g >= 100, weight_g * 10)
+
+    clean_df["Weight_g"] = weight_g.round(1)
+    clean_df["Price_Per_kg"] = (clean_df["Product_Price"] * 1000 / clean_df['Weight_g']).round(1)
 
     energy_kj_100_g = raw_df["Energy_kj_100_g"].apply(clean_energy_kj)
     clean_df["Energy_kcal_100_g"] = (energy_kj_100_g / 4.184).round(1)
@@ -101,15 +106,15 @@ def make_clean_dataframe(raw_df, supermarket_name):
     protein_100_g = raw_df["Protein_100_g"].apply(clean_nutrient)
     salt_100_g = raw_df["Salt_100_g"].apply(clean_nutrient)
 
-    # Product-level nutrient values are calculated from the per-100g values.
     clean_df["Fats_In_Product_g"] = (fats_100_g * clean_df["Weight_g"] / 100).round(1)
     clean_df["Carbs_In_Product_g"] = (carbs_100_g * clean_df["Weight_g"] / 100).round(1)
     clean_df["Sugars_In_Product_g"] = (sugars_100_g * clean_df["Weight_g"] / 100).round(1)
     clean_df["Protein_In_Product_g"] = (protein_100_g * clean_df["Weight_g"] / 100).round(1)
     clean_df["Salt_In_Product_g"] = (salt_100_g * clean_df["Weight_g"] / 100).round(1)
 
-    return clean_df
+    clean_df = clean_df.dropna(subset=["Energy_kcal_100_g"]).reset_index(drop=True)
 
+    return clean_df
 
 # Save helper
 def save_dataframe(df, output_path):
