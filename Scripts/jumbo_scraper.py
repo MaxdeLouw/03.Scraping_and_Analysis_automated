@@ -144,12 +144,12 @@ def main():
 
     category_url = "https://www.jumbo.com/producten/zuivel,-boter-en-eieren/yoghurt-en-kwark/yoghurt-en-skyr/"
 
-    # save_overviews_as_html(
-    #     category_url=category_url,
-    #     destination=source_folder,
-    #     page_size=24,
-    #     max_pages=9,
-    # )
+    save_overviews_as_html(
+        category_url=category_url,
+        destination=source_folder,
+        page_size=24,
+        max_pages=9,
+    )
 
     links = find_product_links(folder_link=source_folder)
 

@@ -43,7 +43,7 @@ SELECT
 FROM supermarket_products
 WHERE Price_Per_kg IS NOT NULL
 ORDER BY Price_Per_kg DESC
-LIMIT 20;
+LIMIT 5;
 
 -- 06. The most expensive brands
 SELECT 
@@ -52,7 +52,7 @@ SELECT
 FROM supermarket_products
 GROUP BY Brand
 ORDER BY Average_kg_Price DESC
-LIMIT 10;
+LIMIT 5;
 
 -- 07. Cheapest Products
 SELECT
@@ -65,7 +65,7 @@ SELECT
 FROM supermarket_products
 WHERE Price_Per_kg IS NOT NULL
 ORDER BY Price_Per_kg ASC
-LIMIT 20;
+LIMIT 5;
 
 -- 08. Checking number of house brand products compared to others
 SELECT  Supermarket,
@@ -114,7 +114,7 @@ SELECT  Supermarket,
         Round(Protein_In_Product_g / Product_Price,2) AS Protein_per_Euro
 FROM supermarket_products
 ORDER BY Protein_per_Euro DESC
-limit 10;
+limit 5;
 
 -- 11. Cheapest kcals
 SELECT
@@ -127,7 +127,7 @@ SELECT
     ROUND((Energy_kcal_100_g * Weight_g / 100) / Product_Price, 1) AS kcal_per_euro
 FROM supermarket_products
 ORDER BY kcal_per_euro DESC
-LIMIT 10;
+LIMIT 5;
 
 -- 12. Sugar heaviest products
 SELECT
@@ -140,7 +140,7 @@ SELECT
     Product_Price
 FROM supermarket_products
 ORDER BY percentage_sugar DESC
-LIMIT 10;
+LIMIT 5;
 
 -- 13. Sugar lightest
 
@@ -155,7 +155,7 @@ SELECT
 FROM supermarket_products
 WHERE Sugars_In_Product_g IS NOT NULL
 ORDER BY percentage_sugar ASC
-LIMIT 10;
+LIMIT 5;
 
 -- 14. Highest protein, lowest sugar
 
@@ -174,4 +174,4 @@ WHERE
 ORDER BY
     Protein_In_Product_g DESC,
     Sugars_In_Product_g ASC
-LIMIT 10;
+LIMIT 5;

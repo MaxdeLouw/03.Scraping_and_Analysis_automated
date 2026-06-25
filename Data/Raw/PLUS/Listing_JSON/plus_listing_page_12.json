@@ -1,1 +1,1207 @@
-{"versionInfo": {"hasModuleVersionChanged": false, "hasApiVersionChanged": false}, "data": {"TotalPages": 14, "SuggestedSearchTerm": "", "TotalNumberItems": 167, "FilterList": {"List": [{"Filter_Str": {"Name": "Aanbiedingen", "AttributeName": "", "FilterItem": {"List": [{"Name": "Deze week in de aanbieding", "Quantity": "63", "IsSelected": false, "URL": "&tn_fk_ae-aanbieding-filtering=Deze%20week%20in%20de%20aanbieding"}]}}, "IsExpanded": false}, {"Filter_Str": {"Name": "Laagblijvers", "AttributeName": "", "FilterItem": {"List": [{"Name": "Laagblijvers", "Quantity": "22", "IsSelected": false, "URL": "&tn_fk_ae-laagblijvers=Laagblijvers"}]}}, "IsExpanded": false}, {"Filter_Str": {"Name": "Merk", "AttributeName": "", "FilterItem": {"List": [{"Name": "Melkan", "Quantity": "26", "IsSelected": false, "URL": "&tn_fk_merk=Melkan"}, {"Name": "Almhof", "Quantity": "17", "IsSelected": false, "URL": "&tn_fk_merk=Almhof"}, {"Name": "Arla", "Quantity": "15", "IsSelected": false, "URL": "&tn_fk_merk=Arla"}, {"Name": "Campina", "Quantity": "15", "IsSelected": false, "URL": "&tn_fk_merk=Campina"}, {"Name": "Melkunie", "Quantity": "15", "IsSelected": false, "URL": "&tn_fk_merk=Melkunie"}, {"Name": "Isey Skyr", "Quantity": "10", "IsSelected": false, "URL": "&tn_fk_merk=Isey%20Skyr"}, {"Name": "Optimel", "Quantity": "10", "IsSelected": false, "URL": "&tn_fk_merk=Optimel"}, {"Name": "Zuivelhoeve", "Quantity": "8", "IsSelected": false, "URL": "&tn_fk_merk=Zuivelhoeve"}, {"Name": "Activia", "Quantity": "6", "IsSelected": false, "URL": "&tn_fk_merk=Activia"}, {"Name": "Alpro", "Quantity": "6", "IsSelected": false, "URL": "&tn_fk_merk=Alpro"}, {"Name": "XXL Fit", "Quantity": "6", "IsSelected": false, "URL": "&tn_fk_merk=XXL%20Fit"}, {"Name": "Biologisch PLUS", "Quantity": "5", "IsSelected": false, "URL": "&tn_fk_merk=Biologisch%20PLUS"}, {"Name": "Den Eelder", "Quantity": "4", "IsSelected": false, "URL": "&tn_fk_merk=Den%20Eelder"}, {"Name": "Dodoni", "Quantity": "4", "IsSelected": false, "URL": "&tn_fk_merk=Dodoni"}, {"Name": "PLUS", "Quantity": "4", "IsSelected": false, "URL": "&tn_fk_merk=PLUS"}, {"Name": "Zuivelmeester", "Quantity": "4", "IsSelected": false, "URL": "&tn_fk_merk=Zuivelmeester"}, {"Name": "Danone", "Quantity": "3", "IsSelected": false, "URL": "&tn_fk_merk=Danone"}, {"Name": "BIO+", "Quantity": "2", "IsSelected": false, "URL": "&tn_fk_merk=BIO%2B"}, {"Name": "Danio", "Quantity": "2", "IsSelected": false, "URL": "&tn_fk_merk=Danio"}, {"Name": "Elinas", "Quantity": "2", "IsSelected": false, "URL": "&tn_fk_merk=Elinas"}, {"Name": "Pur Natur", "Quantity": "2", "IsSelected": false, "URL": "&tn_fk_merk=Pur%20Natur"}, {"Name": "Nestl\u00e9", "Quantity": "1", "IsSelected": false, "URL": "&tn_fk_merk=Nestl%C3%A9"}]}}, "IsExpanded": false}, {"Filter_Str": {"Name": "Nutri-Score", "AttributeName": "", "FilterItem": {"List": [{"Name": "Score A", "Quantity": "38", "IsSelected": false, "URL": "&tn_fk_ae-nutriscore=Score%20A"}, {"Name": "Score B", "Quantity": "16", "IsSelected": false, "URL": "&tn_fk_ae-nutriscore=Score%20B"}, {"Name": "Score C", "Quantity": "16", "IsSelected": false, "URL": "&tn_fk_ae-nutriscore=Score%20C"}]}}, "IsExpanded": false}, {"Filter_Str": {"Name": "Keurmerk", "AttributeName": "", "FilterItem": {"List": [{"Name": "Planetproof", "Quantity": "25", "IsSelected": false, "URL": "&tn_fk_ae-keurmerken=Planetproof"}, {"Name": "Biologisch", "Quantity": "10", "IsSelected": false, "URL": "&tn_fk_ae-keurmerken=Biologisch"}]}}, "IsExpanded": false}, {"Filter_Str": {"Name": "Dieet", "AttributeName": "", "FilterItem": {"List": [{"Name": "Vegetarisch", "Quantity": "54", "IsSelected": false, "URL": "&tn_fk_ae-dieet=Vegetarisch"}, {"Name": "Vegan", "Quantity": "9", "IsSelected": false, "URL": "&tn_fk_ae-dieet=Vegan"}]}}, "IsExpanded": false}, {"Filter_Str": {"Name": "Verpakking", "AttributeName": "", "FilterItem": {"List": [{"Name": "4 of 6 pack", "Quantity": "8", "IsSelected": false, "URL": "&tn_fk_ae-verpakking-bier=4%20of%206%20pack"}]}}, "IsExpanded": false}]}, "TotalSelectedFilters": 0, "SortList": {"List": [{"Name": "Meest gewild", "IsSelected": false, "URL": "&tn_sort=Sorteeroptie%3A%20populariteit-zoekresultaten-ecop-v2"}, {"Name": "Prijs hoog-laag", "IsSelected": false, "URL": "&tn_sort=Prijs%20aflopend"}, {"Name": "Prijs laag-hoog", "IsSelected": false, "URL": "&tn_sort=Prijs%20oplopend"}]}, "Offer": {"Name": "", "AttributeName": "", "FilterItem": {"List": [], "EmptyListItem": {"Name": "", "Quantity": "0", "IsSelected": false, "URL": ""}}}, "SuggestedTerm": "", "RedirectURL": "", "IsExternalURL": false, "IsRedirectToNotFound": false, "ProductList": {"List": [{"PLP_Str": {"SKU": "243408", "Brand": "Melkan", "Name": "Melkan Griekse stijl 0,1%", "Product_Subtitle": "Per 150 g", "Slug": "melkan-griekse-stijl-0-1-kuipje-150-g-243408", "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/243408_M/b8bf0d589f692ff329255982bf48c942/243408.png", "ImageLabel": "", "MetaTitle": "Melkan Griekse stijl 0,1% 150 Gram - PLUS", "MetaDescription": "Bestel Melkan Griekse stijl 0,1% 150 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.", "OriginalPrice": "0.79", "NewPrice": "0.0", "Quantity": 0, "LineItemId": "", "IsProductOverMajorityAge": false, "Logos": {"PLPInUpperLeft": {"List": [], "EmptyListItem": {"Name": "", "LongDescription": "", "URL": "", "Order": 0}}, "PLPAboveTitle": {"List": [], "EmptyListItem": {"Name": "", "LongDescription": "", "URL": "", "Order": 0}}, "PLPBehindSizeUnit": {"List": [], "EmptyListItem": {"Name": "", "LongDescription": "", "URL": "", "Order": 0}}}, "EAN": "", "Packging": "Kuipje", "Categories": {"List": [{"Name": "Zuivel, eieren, boter"}, {"Name": "Verse zuivel"}, {"Name": "Yoghurt"}]}, "IsAvailable": true, "PromotionLabel": "", "PromotionBasedLabel": "", "PromotionStartDate": "1900-01-01", "PromotionEndDate": "1900-01-01", "IsFreeDeliveryOffer": false, "IsOfflineSaleOnly": false, "MaxOrderLimit": 199, "CitrusAdId": "", "IsLocalItem": false}, "BadgeQuantity": 0}, {"PLP_Str": {"SKU": "816383", "Brand": "Isey Skyr", "Name": "Isey Skyr Pouch peach", "Product_Subtitle": "Per 140 g", "Slug": "isey-skyr-pouch-peach-stazak-140-g-816383", "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/816383_M/570a0736224853addfebd7e011e96ed6/816383.png", "ImageLabel": "", "MetaTitle": "Isey Skyr Pouch peach 140 Gram - PLUS", "MetaDescription": "Bestel Isey Skyr Pouch peach 140 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.", "OriginalPrice": "1.89", "NewPrice": "0", "Quantity": 0, "LineItemId": "", "IsProductOverMajorityAge": false, "Logos": {"PLPInUpperLeft": {"List": [], "EmptyListItem": {"Name": "", "LongDescription": "", "URL": "", "Order": 0}}, "PLPAboveTitle": {"List": [], "EmptyListItem": {"Name": "", "LongDescription": "", "URL": "", "Order": 0}}, "PLPBehindSizeUnit": {"List": [], "EmptyListItem": {"Name": "", "LongDescription": "", "URL": "", "Order": 0}}}, "EAN": "", "Packging": "Stazak", "Categories": {"List": [{"Name": "Zuivel, eieren, boter"}, {"Name": "Verse zuivel"}, {"Name": "Yoghurt"}]}, "IsAvailable": true, "PromotionLabel": "", "PromotionBasedLabel": "", "PromotionStartDate": "1900-01-01", "PromotionEndDate": "1900-01-01", "IsFreeDeliveryOffer": false, "IsOfflineSaleOnly": false, "MaxOrderLimit": 199, "CitrusAdId": "", "IsLocalItem": false}, "BadgeQuantity": 0}, {"PLP_Str": {"SKU": "811499", "Brand": "Melkan", "Name": "Melkan roomyoghurt stracciatella", "Product_Subtitle": "Per 1 kg", "Slug": "melkan-roomyoghurt-stracciatella-emmer-1-kg-811499", "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/811499_M/ff7c2736abfc32efc834ca886d0b933d/811499.png", "ImageLabel": "", "MetaTitle": "Melkan roomyoghurt stracciatella 1 Kilogram - PLUS", "MetaDescription": "Bestel Melkan roomyoghurt stracciatella 1 Kilogram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.", "OriginalPrice": "2.39", "NewPrice": "0", "Quantity": 0, "LineItemId": "", "IsProductOverMajorityAge": false, "Logos": {"PLPInUpperLeft": {"List": [], "EmptyListItem": {"Name": "", "LongDescription": "", "URL": "", "Order": 0}}, "PLPAboveTitle": {"List": [], "EmptyListItem": {"Name": "", "LongDescription": "", "URL": "", "Order": 0}}, "PLPBehindSizeUnit": {"List": [], "EmptyListItem": {"Name": "", "LongDescription": "", "URL": "", "Order": 0}}}, "EAN": "", "Packging": "Emmer", "Categories": {"List": [{"Name": "Zuivel, eieren, boter"}, {"Name": "Verse zuivel"}, {"Name": "Yoghurt"}]}, "IsAvailable": true, "PromotionLabel": "", "PromotionBasedLabel": "", "PromotionStartDate": "1900-01-01", "PromotionEndDate": "1900-01-01", "IsFreeDeliveryOffer": false, "IsOfflineSaleOnly": false, "MaxOrderLimit": 199, "CitrusAdId": "", "IsLocalItem": false}, "BadgeQuantity": 0}, {"PLP_Str": {"SKU": "965090", "Brand": "Melkan", "Name": "Melkan Protein pouch vanille", "Product_Subtitle": "Per 200 g", "Slug": "melkan-protein-pouch-vanille-stazak-200-g-965090", "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/965090_M/fe11a1a568e89938700c1a976b88d63e/965090.png", "ImageLabel": "", "MetaTitle": "Melkan Protein pouch vanille 200 Gram - PLUS", "MetaDescription": "Bestel Melkan Protein pouch vanille 200 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.", "OriginalPrice": "1.49", "NewPrice": "0", "Quantity": 0, "LineItemId": "", "IsProductOverMajorityAge": false, "Logos": {"PLPInUpperLeft": {"List": [{"Name": "Laagblijver", "LongDescription": "Laagblijver", "URL": "https://images.ctfassets.net/s0lodsnpsezb/L_QUxHX0xBQUdCTElKVkVS_M/7cb565a0915afed22256044f7eab44b4/laagblijvers.webp", "Order": 129}]}, "PLPAboveTitle": {"List": [], "EmptyListItem": {"Name": "", "LongDescription": "", "URL": "", "Order": 0}}, "PLPBehindSizeUnit": {"List": [], "EmptyListItem": {"Name": "", "LongDescription": "", "URL": "", "Order": 0}}}, "EAN": "", "Packging": "Stazak", "Categories": {"List": [{"Name": "Zuivel, eieren, boter"}, {"Name": "Verse zuivel"}, {"Name": "Yoghurt"}]}, "IsAvailable": true, "PromotionLabel": "", "PromotionBasedLabel": "", "PromotionStartDate": "1900-01-01", "PromotionEndDate": "1900-01-01", "IsFreeDeliveryOffer": false, "IsOfflineSaleOnly": false, "MaxOrderLimit": 199, "CitrusAdId": "", "IsLocalItem": false}, "BadgeQuantity": 0}, {"PLP_Str": {"SKU": "796326", "Brand": "Campina", "Name": "Campina Extra Proteine Volle Yoghurt", "Product_Subtitle": "Per 1000 ml", "Slug": "campina-extra-proteine-volle-yoghurt-pak-1000-ml-796326", "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/796326_M/5b5041d0c640f33a8636a87a0dc304a6/796326.png", "ImageLabel": "", "MetaTitle": "Campina Extra Proteine Volle Yoghurt 1000 Milliliter - PLUS", "MetaDescription": "Bestel Campina Extra Proteine Volle Yoghurt 1000 Milliliter online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.", "OriginalPrice": "2.29", "NewPrice": "0.0", "Quantity": 0, "LineItemId": "", "IsProductOverMajorityAge": false, "Logos": {"PLPInUpperLeft": {"List": [], "EmptyListItem": {"Name": "", "LongDescription": "", "URL": "", "Order": 0}}, "PLPAboveTitle": {"List": [], "EmptyListItem": {"Name": "", "LongDescription": "", "URL": "", "Order": 0}}, "PLPBehindSizeUnit": {"List": [], "EmptyListItem": {"Name": "", "LongDescription": "", "URL": "", "Order": 0}}}, "EAN": "", "Packging": "Pak", "Categories": {"List": [{"Name": "Zuivel, eieren, boter"}, {"Name": "Verse zuivel"}, {"Name": "Yoghurt"}]}, "IsAvailable": true, "PromotionLabel": "1+1 GRATIS", "PromotionBasedLabel": "", "PromotionStartDate": "2026-06-17", "PromotionEndDate": "2026-06-23", "IsFreeDeliveryOffer": false, "IsOfflineSaleOnly": false, "MaxOrderLimit": 199, "CitrusAdId": "", "IsLocalItem": false}, "BadgeQuantity": 0}, {"PLP_Str": {"SKU": "811402", "Brand": "Danone", "Name": "Danone Skyr Vanille", "Product_Subtitle": "Per 450 g", "Slug": "danone-skyr-vanille-kuipje-450-g-811402", "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/811402_M/c8eaec14056ed2422eb94a7861f07086/811402.png", "ImageLabel": "", "MetaTitle": "Danone Skyr Vanille 450 Gram - PLUS", "MetaDescription": "Bestel Danone Skyr Vanille 450 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.", "OriginalPrice": "2.19", "NewPrice": "0", "Quantity": 0, "LineItemId": "", "IsProductOverMajorityAge": false, "Logos": {"PLPInUpperLeft": {"List": [], "EmptyListItem": {"Name": "", "LongDescription": "", "URL": "", "Order": 0}}, "PLPAboveTitle": {"List": [], "EmptyListItem": {"Name": "", "LongDescription": "", "URL": "", "Order": 0}}, "PLPBehindSizeUnit": {"List": [], "EmptyListItem": {"Name": "", "LongDescription": "", "URL": "", "Order": 0}}}, "EAN": "", "Packging": "Kuipje", "Categories": {"List": [{"Name": "Zuivel, eieren, boter"}, {"Name": "Verse zuivel"}, {"Name": "Yoghurt"}]}, "IsAvailable": true, "PromotionLabel": "", "PromotionBasedLabel": "", "PromotionStartDate": "1900-01-01", "PromotionEndDate": "1900-01-01", "IsFreeDeliveryOffer": false, "IsOfflineSaleOnly": false, "MaxOrderLimit": 199, "CitrusAdId": "", "IsLocalItem": false}, "BadgeQuantity": 0}, {"PLP_Str": {"SKU": "177684", "Brand": "Arla", "Name": "Arla Skyr vanille yoghurt 0% vet XL", "Product_Subtitle": "Per 1000 g", "Slug": "arla-skyr-vanille-yoghurt-0-vet-xl-emmer-1000-g-177684", "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/177684_M/e196bc2d7a7c8d2bf3c5b5d679e79831/177684.png", "ImageLabel": "", "MetaTitle": "Arla Skyr vanille yoghurt 0% vet XL 1000 Gram - PLUS", "MetaDescription": "Bestel Arla Skyr vanille yoghurt 0% vet XL 1000 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.", "OriginalPrice": "4.19", "NewPrice": "0", "Quantity": 0, "LineItemId": "", "IsProductOverMajorityAge": false, "Logos": {"PLPInUpperLeft": {"List": [], "EmptyListItem": {"Name": "", "LongDescription": "", "URL": "", "Order": 0}}, "PLPAboveTitle": {"List": [], "EmptyListItem": {"Name": "", "LongDescription": "", "URL": "", "Order": 0}}, "PLPBehindSizeUnit": {"List": [], "EmptyListItem": {"Name": "", "LongDescription": "", "URL": "", "Order": 0}}}, "EAN": "", "Packging": "Emmer", "Categories": {"List": [{"Name": "Zuivel, eieren, boter"}, {"Name": "Verse zuivel"}, {"Name": "Yoghurt"}]}, "IsAvailable": true, "PromotionLabel": "", "PromotionBasedLabel": "", "PromotionStartDate": "1900-01-01", "PromotionEndDate": "1900-01-01", "IsFreeDeliveryOffer": false, "IsOfflineSaleOnly": false, "MaxOrderLimit": 199, "CitrusAdId": "", "IsLocalItem": false}, "BadgeQuantity": 0}, {"PLP_Str": {"SKU": "816379", "Brand": "Isey Skyr", "Name": "Isey Skyr Air cherry - chocolate", "Product_Subtitle": "Per 125 g", "Slug": "isey-skyr-air-cherry-chocolate-beker-125-g-816379", "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/816379_M/51b9885c79c81ac57d659a6263b7e95e/816379.png", "ImageLabel": "", "MetaTitle": "Isey Skyr Air cherry - chocolate 125 Gram - PLUS", "MetaDescription": "Bestel Isey Skyr Air cherry - chocolate 125 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.", "OriginalPrice": "1.69", "NewPrice": "0", "Quantity": 0, "LineItemId": "", "IsProductOverMajorityAge": false, "Logos": {"PLPInUpperLeft": {"List": [], "EmptyListItem": {"Name": "", "LongDescription": "", "URL": "", "Order": 0}}, "PLPAboveTitle": {"List": [], "EmptyListItem": {"Name": "", "LongDescription": "", "URL": "", "Order": 0}}, "PLPBehindSizeUnit": {"List": [], "EmptyListItem": {"Name": "", "LongDescription": "", "URL": "", "Order": 0}}}, "EAN": "", "Packging": "Beker", "Categories": {"List": [{"Name": "Zuivel, eieren, boter"}, {"Name": "Verse zuivel"}, {"Name": "Yoghurt"}]}, "IsAvailable": true, "PromotionLabel": "", "PromotionBasedLabel": "", "PromotionStartDate": "1900-01-01", "PromotionEndDate": "1900-01-01", "IsFreeDeliveryOffer": false, "IsOfflineSaleOnly": false, "MaxOrderLimit": 199, "CitrusAdId": "", "IsLocalItem": false}, "BadgeQuantity": 0}, {"PLP_Str": {"SKU": "463194", "Brand": "Arla", "Name": "Arla Skyr Naturel", "Product_Subtitle": "Per 200 g", "Slug": "arla-skyr-naturel-kuipje-200-g-463194", "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/463194_M/d6e908fbeb101b322a8318173b4cd76c/463194.png", "ImageLabel": "", "MetaTitle": "Arla Skyr Naturel 200 Gram - PLUS", "MetaDescription": "Bestel Arla Skyr Naturel 200 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.", "OriginalPrice": "1.49", "NewPrice": "0", "Quantity": 0, "LineItemId": "", "IsProductOverMajorityAge": false, "Logos": {"PLPInUpperLeft": {"List": [], "EmptyListItem": {"Name": "", "LongDescription": "", "URL": "", "Order": 0}}, "PLPAboveTitle": {"List": [], "EmptyListItem": {"Name": "", "LongDescription": "", "URL": "", "Order": 0}}, "PLPBehindSizeUnit": {"List": [], "EmptyListItem": {"Name": "", "LongDescription": "", "URL": "", "Order": 0}}}, "EAN": "", "Packging": "Kuipje", "Categories": {"List": [{"Name": "Zuivel, eieren, boter"}, {"Name": "Verse zuivel"}, {"Name": "Yoghurt"}]}, "IsAvailable": true, "PromotionLabel": "", "PromotionBasedLabel": "", "PromotionStartDate": "1900-01-01", "PromotionEndDate": "1900-01-01", "IsFreeDeliveryOffer": false, "IsOfflineSaleOnly": false, "MaxOrderLimit": 199, "CitrusAdId": "", "IsLocalItem": false}, "BadgeQuantity": 0}, {"PLP_Str": {"SKU": "918405", "Brand": "XXL Fit", "Name": "XXL Fit Fit duo pudding karamel", "Product_Subtitle": "Per 200 g", "Slug": "xxl-fit-fit-duo-pudding-karamel-kuipje-200-g-918405", "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/918405_M/2c94f6371d9ebb0d6498e727e1e45a2d/918405.png", "ImageLabel": "", "MetaTitle": "XXL Fit Fit duo pudding karamel 200 Gram - PLUS", "MetaDescription": "Bestel XXL Fit Fit duo pudding karamel 200 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.", "OriginalPrice": "1.89", "NewPrice": "0", "Quantity": 0, "LineItemId": "", "IsProductOverMajorityAge": false, "Logos": {"PLPInUpperLeft": {"List": [], "EmptyListItem": {"Name": "", "LongDescription": "", "URL": "", "Order": 0}}, "PLPAboveTitle": {"List": [], "EmptyListItem": {"Name": "", "LongDescription": "", "URL": "", "Order": 0}}, "PLPBehindSizeUnit": {"List": [], "EmptyListItem": {"Name": "", "LongDescription": "", "URL": "", "Order": 0}}}, "EAN": "", "Packging": "Kuipje", "Categories": {"List": [{"Name": "Zuivel, eieren, boter"}, {"Name": "Verse zuivel"}, {"Name": "Yoghurt"}]}, "IsAvailable": true, "PromotionLabel": "", "PromotionBasedLabel": "", "PromotionStartDate": "1900-01-01", "PromotionEndDate": "1900-01-01", "IsFreeDeliveryOffer": false, "IsOfflineSaleOnly": false, "MaxOrderLimit": 199, "CitrusAdId": "", "IsLocalItem": false}, "BadgeQuantity": 0}, {"PLP_Str": {"SKU": "463196", "Brand": "Arla", "Name": "Arla Skyr Vanille", "Product_Subtitle": "Per 200 g", "Slug": "arla-skyr-vanille-kuipje-200-g-463196", "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/463196_M/3b47f9851318bd69f512fe321a08ffe6/463196.png", "ImageLabel": "", "MetaTitle": "Arla Skyr Vanille 200 Gram - PLUS", "MetaDescription": "Bestel Arla Skyr Vanille 200 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.", "OriginalPrice": "1.59", "NewPrice": "0", "Quantity": 0, "LineItemId": "", "IsProductOverMajorityAge": false, "Logos": {"PLPInUpperLeft": {"List": [], "EmptyListItem": {"Name": "", "LongDescription": "", "URL": "", "Order": 0}}, "PLPAboveTitle": {"List": [], "EmptyListItem": {"Name": "", "LongDescription": "", "URL": "", "Order": 0}}, "PLPBehindSizeUnit": {"List": [], "EmptyListItem": {"Name": "", "LongDescription": "", "URL": "", "Order": 0}}}, "EAN": "", "Packging": "Kuipje", "Categories": {"List": [{"Name": "Zuivel, eieren, boter"}, {"Name": "Verse zuivel"}, {"Name": "Yoghurt"}]}, "IsAvailable": true, "PromotionLabel": "", "PromotionBasedLabel": "", "PromotionStartDate": "1900-01-01", "PromotionEndDate": "1900-01-01", "IsFreeDeliveryOffer": false, "IsOfflineSaleOnly": false, "MaxOrderLimit": 199, "CitrusAdId": "", "IsLocalItem": false}, "BadgeQuantity": 0}, {"PLP_Str": {"SKU": "796362", "Brand": "XXL Fit", "Name": "XXL Fit Yoghurt Strawberry", "Product_Subtitle": "Per 750 g", "Slug": "xxl-fit-yoghurt-strawberry-emmer-750-g-796362", "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/796362_M/44d3ffeae4f13da16cd363b13f7feadf/796362.png", "ImageLabel": "", "MetaTitle": "XXL Fit Yoghurt Strawberry 750 Gram - PLUS", "MetaDescription": "Bestel XXL Fit Yoghurt Strawberry 750 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.", "OriginalPrice": "3.99", "NewPrice": "0", "Quantity": 0, "LineItemId": "", "IsProductOverMajorityAge": false, "Logos": {"PLPInUpperLeft": {"List": [], "EmptyListItem": {"Name": "", "LongDescription": "", "URL": "", "Order": 0}}, "PLPAboveTitle": {"List": [], "EmptyListItem": {"Name": "", "LongDescription": "", "URL": "", "Order": 0}}, "PLPBehindSizeUnit": {"List": [], "EmptyListItem": {"Name": "", "LongDescription": "", "URL": "", "Order": 0}}}, "EAN": "", "Packging": "Emmer", "Categories": {"List": [{"Name": "Zuivel, eieren, boter"}, {"Name": "Verse zuivel"}, {"Name": "Yoghurt"}]}, "IsAvailable": true, "PromotionLabel": "", "PromotionBasedLabel": "", "PromotionStartDate": "1900-01-01", "PromotionEndDate": "1900-01-01", "IsFreeDeliveryOffer": false, "IsOfflineSaleOnly": false, "MaxOrderLimit": 199, "CitrusAdId": "", "IsLocalItem": false}, "BadgeQuantity": 0}]}, "LocalCategoryID_Out": 1248, "LocalCategoryName_Out": "Yoghurt", "LocalCategoryParentId_Out": 1033, "LocalCategory_h1Title_Out": "Yoghurt", "TweakWiseId": ""}}
+{
+  "versionInfo": {
+    "hasModuleVersionChanged": false,
+    "hasApiVersionChanged": false
+  },
+  "data": {
+    "TotalPages": 14,
+    "SuggestedSearchTerm": "",
+    "TotalNumberItems": 164,
+    "FilterList": {
+      "List": [
+        {
+          "Filter_Str": {
+            "Name": "Aanbiedingen",
+            "AttributeName": "",
+            "FilterItem": {
+              "List": [
+                {
+                  "Name": "Deze week in de aanbieding",
+                  "Quantity": "22",
+                  "IsSelected": false,
+                  "URL": "&tn_fk_ae-aanbieding-filtering=Deze%20week%20in%20de%20aanbieding"
+                }
+              ]
+            }
+          },
+          "IsExpanded": false
+        },
+        {
+          "Filter_Str": {
+            "Name": "Laagblijvers",
+            "AttributeName": "",
+            "FilterItem": {
+              "List": [
+                {
+                  "Name": "Laagblijvers",
+                  "Quantity": "21",
+                  "IsSelected": false,
+                  "URL": "&tn_fk_ae-laagblijvers=Laagblijvers"
+                }
+              ]
+            }
+          },
+          "IsExpanded": false
+        },
+        {
+          "Filter_Str": {
+            "Name": "Merk",
+            "AttributeName": "",
+            "FilterItem": {
+              "List": [
+                {
+                  "Name": "Melkan",
+                  "Quantity": "25",
+                  "IsSelected": false,
+                  "URL": "&tn_fk_merk=Melkan"
+                },
+                {
+                  "Name": "Almhof",
+                  "Quantity": "17",
+                  "IsSelected": false,
+                  "URL": "&tn_fk_merk=Almhof"
+                },
+                {
+                  "Name": "Campina",
+                  "Quantity": "15",
+                  "IsSelected": false,
+                  "URL": "&tn_fk_merk=Campina"
+                },
+                {
+                  "Name": "Melkunie",
+                  "Quantity": "15",
+                  "IsSelected": false,
+                  "URL": "&tn_fk_merk=Melkunie"
+                },
+                {
+                  "Name": "Arla",
+                  "Quantity": "13",
+                  "IsSelected": false,
+                  "URL": "&tn_fk_merk=Arla"
+                },
+                {
+                  "Name": "Isey Skyr",
+                  "Quantity": "10",
+                  "IsSelected": false,
+                  "URL": "&tn_fk_merk=Isey%20Skyr"
+                },
+                {
+                  "Name": "Optimel",
+                  "Quantity": "10",
+                  "IsSelected": false,
+                  "URL": "&tn_fk_merk=Optimel"
+                },
+                {
+                  "Name": "Zuivelhoeve",
+                  "Quantity": "8",
+                  "IsSelected": false,
+                  "URL": "&tn_fk_merk=Zuivelhoeve"
+                },
+                {
+                  "Name": "Activia",
+                  "Quantity": "6",
+                  "IsSelected": false,
+                  "URL": "&tn_fk_merk=Activia"
+                },
+                {
+                  "Name": "Alpro",
+                  "Quantity": "6",
+                  "IsSelected": false,
+                  "URL": "&tn_fk_merk=Alpro"
+                },
+                {
+                  "Name": "XXL Fit",
+                  "Quantity": "6",
+                  "IsSelected": false,
+                  "URL": "&tn_fk_merk=XXL%20Fit"
+                },
+                {
+                  "Name": "Biologisch PLUS",
+                  "Quantity": "5",
+                  "IsSelected": false,
+                  "URL": "&tn_fk_merk=Biologisch%20PLUS"
+                },
+                {
+                  "Name": "Den Eelder",
+                  "Quantity": "4",
+                  "IsSelected": false,
+                  "URL": "&tn_fk_merk=Den%20Eelder"
+                },
+                {
+                  "Name": "Dodoni",
+                  "Quantity": "4",
+                  "IsSelected": false,
+                  "URL": "&tn_fk_merk=Dodoni"
+                },
+                {
+                  "Name": "PLUS",
+                  "Quantity": "4",
+                  "IsSelected": false,
+                  "URL": "&tn_fk_merk=PLUS"
+                },
+                {
+                  "Name": "Zuivelmeester",
+                  "Quantity": "4",
+                  "IsSelected": false,
+                  "URL": "&tn_fk_merk=Zuivelmeester"
+                },
+                {
+                  "Name": "Danone",
+                  "Quantity": "3",
+                  "IsSelected": false,
+                  "URL": "&tn_fk_merk=Danone"
+                },
+                {
+                  "Name": "BIO+",
+                  "Quantity": "2",
+                  "IsSelected": false,
+                  "URL": "&tn_fk_merk=BIO%2B"
+                },
+                {
+                  "Name": "Danio",
+                  "Quantity": "2",
+                  "IsSelected": false,
+                  "URL": "&tn_fk_merk=Danio"
+                },
+                {
+                  "Name": "Elinas",
+                  "Quantity": "2",
+                  "IsSelected": false,
+                  "URL": "&tn_fk_merk=Elinas"
+                },
+                {
+                  "Name": "Pur Natur",
+                  "Quantity": "2",
+                  "IsSelected": false,
+                  "URL": "&tn_fk_merk=Pur%20Natur"
+                },
+                {
+                  "Name": "Nestlé",
+                  "Quantity": "1",
+                  "IsSelected": false,
+                  "URL": "&tn_fk_merk=Nestl%C3%A9"
+                }
+              ]
+            }
+          },
+          "IsExpanded": false
+        },
+        {
+          "Filter_Str": {
+            "Name": "Nutri-Score",
+            "AttributeName": "",
+            "FilterItem": {
+              "List": [
+                {
+                  "Name": "Score A",
+                  "Quantity": "38",
+                  "IsSelected": false,
+                  "URL": "&tn_fk_ae-nutriscore=Score%20A"
+                },
+                {
+                  "Name": "Score B",
+                  "Quantity": "16",
+                  "IsSelected": false,
+                  "URL": "&tn_fk_ae-nutriscore=Score%20B"
+                },
+                {
+                  "Name": "Score C",
+                  "Quantity": "15",
+                  "IsSelected": false,
+                  "URL": "&tn_fk_ae-nutriscore=Score%20C"
+                }
+              ]
+            }
+          },
+          "IsExpanded": false
+        },
+        {
+          "Filter_Str": {
+            "Name": "Keurmerk",
+            "AttributeName": "",
+            "FilterItem": {
+              "List": [
+                {
+                  "Name": "Planetproof",
+                  "Quantity": "25",
+                  "IsSelected": false,
+                  "URL": "&tn_fk_ae-keurmerken=Planetproof"
+                },
+                {
+                  "Name": "Biologisch",
+                  "Quantity": "10",
+                  "IsSelected": false,
+                  "URL": "&tn_fk_ae-keurmerken=Biologisch"
+                }
+              ]
+            }
+          },
+          "IsExpanded": false
+        },
+        {
+          "Filter_Str": {
+            "Name": "Dieet",
+            "AttributeName": "",
+            "FilterItem": {
+              "List": [
+                {
+                  "Name": "Vegetarisch",
+                  "Quantity": "53",
+                  "IsSelected": false,
+                  "URL": "&tn_fk_ae-dieet=Vegetarisch"
+                },
+                {
+                  "Name": "Vegan",
+                  "Quantity": "9",
+                  "IsSelected": false,
+                  "URL": "&tn_fk_ae-dieet=Vegan"
+                }
+              ]
+            }
+          },
+          "IsExpanded": false
+        },
+        {
+          "Filter_Str": {
+            "Name": "Verpakking",
+            "AttributeName": "",
+            "FilterItem": {
+              "List": [
+                {
+                  "Name": "4 of 6 pack",
+                  "Quantity": "8",
+                  "IsSelected": false,
+                  "URL": "&tn_fk_ae-verpakking-bier=4%20of%206%20pack"
+                }
+              ]
+            }
+          },
+          "IsExpanded": false
+        }
+      ]
+    },
+    "TotalSelectedFilters": 0,
+    "SortList": {
+      "List": [
+        {
+          "Name": "Meest gewild",
+          "IsSelected": false,
+          "URL": "&tn_sort=Sorteeroptie%3A%20populariteit-zoekresultaten-ecop-v2"
+        },
+        {
+          "Name": "Prijs hoog-laag",
+          "IsSelected": false,
+          "URL": "&tn_sort=Prijs%20aflopend"
+        },
+        {
+          "Name": "Prijs laag-hoog",
+          "IsSelected": false,
+          "URL": "&tn_sort=Prijs%20oplopend"
+        }
+      ]
+    },
+    "Offer": {
+      "Name": "",
+      "AttributeName": "",
+      "FilterItem": {
+        "List": [],
+        "EmptyListItem": {
+          "Name": "",
+          "Quantity": "0",
+          "IsSelected": false,
+          "URL": ""
+        }
+      }
+    },
+    "SuggestedTerm": "",
+    "RedirectURL": "",
+    "IsExternalURL": false,
+    "IsRedirectToNotFound": false,
+    "ProductList": {
+      "List": [
+        {
+          "PLP_Str": {
+            "SKU": "811499",
+            "Brand": "Melkan",
+            "Name": "Melkan roomyoghurt stracciatella",
+            "Product_Subtitle": "Per 1 kg",
+            "Slug": "melkan-roomyoghurt-stracciatella-emmer-1-kg-811499",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/811499_M/ff7c2736abfc32efc834ca886d0b933d/811499.png",
+            "ImageLabel": "",
+            "MetaTitle": "Melkan roomyoghurt stracciatella 1 Kilogram - PLUS",
+            "MetaDescription": "Bestel Melkan roomyoghurt stracciatella 1 Kilogram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "OriginalPrice": "2.39",
+            "NewPrice": "0.0",
+            "Quantity": 0,
+            "LineItemId": "",
+            "IsProductOverMajorityAge": false,
+            "Logos": {
+              "PLPInUpperLeft": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPAboveTitle": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPBehindSizeUnit": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              }
+            },
+            "EAN": "",
+            "Packging": "Emmer",
+            "Categories": {
+              "List": [
+                {
+                  "Name": "Zuivel, eieren, boter"
+                },
+                {
+                  "Name": "Verse zuivel"
+                },
+                {
+                  "Name": "Yoghurt"
+                }
+              ]
+            },
+            "IsAvailable": true,
+            "PromotionLabel": "",
+            "PromotionBasedLabel": "",
+            "PromotionStartDate": "1900-01-01",
+            "PromotionEndDate": "1900-01-01",
+            "IsFreeDeliveryOffer": false,
+            "IsOfflineSaleOnly": false,
+            "MaxOrderLimit": 199,
+            "CitrusAdId": "",
+            "IsLocalItem": false
+          },
+          "BadgeQuantity": 0
+        },
+        {
+          "PLP_Str": {
+            "SKU": "796326",
+            "Brand": "Campina",
+            "Name": "Campina Extra Proteine Volle Yoghurt",
+            "Product_Subtitle": "Per 1000 ml",
+            "Slug": "campina-extra-proteine-volle-yoghurt-pak-1000-ml-796326",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/796326_M/5b5041d0c640f33a8636a87a0dc304a6/796326.png",
+            "ImageLabel": "",
+            "MetaTitle": "Campina Extra Proteine Volle Yoghurt 1000 Milliliter - PLUS",
+            "MetaDescription": "Bestel Campina Extra Proteine Volle Yoghurt 1000 Milliliter online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "OriginalPrice": "2.29",
+            "NewPrice": "0.0",
+            "Quantity": 0,
+            "LineItemId": "",
+            "IsProductOverMajorityAge": false,
+            "Logos": {
+              "PLPInUpperLeft": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPAboveTitle": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPBehindSizeUnit": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              }
+            },
+            "EAN": "",
+            "Packging": "Pak",
+            "Categories": {
+              "List": [
+                {
+                  "Name": "Zuivel, eieren, boter"
+                },
+                {
+                  "Name": "Verse zuivel"
+                },
+                {
+                  "Name": "Yoghurt"
+                }
+              ]
+            },
+            "IsAvailable": true,
+            "PromotionLabel": "GRATIS BEZORGING BIJ 10.00 EURO",
+            "PromotionBasedLabel": "",
+            "PromotionStartDate": "2026-06-24",
+            "PromotionEndDate": "2026-06-30",
+            "IsFreeDeliveryOffer": true,
+            "IsOfflineSaleOnly": false,
+            "MaxOrderLimit": 199,
+            "CitrusAdId": "",
+            "IsLocalItem": false
+          },
+          "BadgeQuantity": 0
+        },
+        {
+          "PLP_Str": {
+            "SKU": "816379",
+            "Brand": "Isey Skyr",
+            "Name": "Isey Skyr Air cherry - chocolate",
+            "Product_Subtitle": "Per 125 g",
+            "Slug": "isey-skyr-air-cherry-chocolate-beker-125-g-816379",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/816379_M/51b9885c79c81ac57d659a6263b7e95e/816379.png",
+            "ImageLabel": "",
+            "MetaTitle": "Isey Skyr Air cherry - chocolate 125 Gram - PLUS",
+            "MetaDescription": "Bestel Isey Skyr Air cherry - chocolate 125 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "OriginalPrice": "1.69",
+            "NewPrice": "0",
+            "Quantity": 0,
+            "LineItemId": "",
+            "IsProductOverMajorityAge": false,
+            "Logos": {
+              "PLPInUpperLeft": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPAboveTitle": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPBehindSizeUnit": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              }
+            },
+            "EAN": "",
+            "Packging": "Beker",
+            "Categories": {
+              "List": [
+                {
+                  "Name": "Zuivel, eieren, boter"
+                },
+                {
+                  "Name": "Verse zuivel"
+                },
+                {
+                  "Name": "Yoghurt"
+                }
+              ]
+            },
+            "IsAvailable": true,
+            "PromotionLabel": "",
+            "PromotionBasedLabel": "",
+            "PromotionStartDate": "1900-01-01",
+            "PromotionEndDate": "1900-01-01",
+            "IsFreeDeliveryOffer": false,
+            "IsOfflineSaleOnly": false,
+            "MaxOrderLimit": 199,
+            "CitrusAdId": "",
+            "IsLocalItem": false
+          },
+          "BadgeQuantity": 0
+        },
+        {
+          "PLP_Str": {
+            "SKU": "965090",
+            "Brand": "Melkan",
+            "Name": "Melkan Protein pouch vanille",
+            "Product_Subtitle": "Per 200 g",
+            "Slug": "melkan-protein-pouch-vanille-stazak-200-g-965090",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/965090_M/fe11a1a568e89938700c1a976b88d63e/965090.png",
+            "ImageLabel": "",
+            "MetaTitle": "Melkan Protein pouch vanille 200 Gram - PLUS",
+            "MetaDescription": "Bestel Melkan Protein pouch vanille 200 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "OriginalPrice": "1.49",
+            "NewPrice": "0",
+            "Quantity": 0,
+            "LineItemId": "",
+            "IsProductOverMajorityAge": false,
+            "Logos": {
+              "PLPInUpperLeft": {
+                "List": [
+                  {
+                    "Name": "Laagblijver",
+                    "LongDescription": "Laagblijver",
+                    "URL": "https://images.ctfassets.net/s0lodsnpsezb/L_QUxHX0xBQUdCTElKVkVS_M/7cb565a0915afed22256044f7eab44b4/laagblijvers.webp",
+                    "Order": 129
+                  }
+                ]
+              },
+              "PLPAboveTitle": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPBehindSizeUnit": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              }
+            },
+            "EAN": "",
+            "Packging": "Stazak",
+            "Categories": {
+              "List": [
+                {
+                  "Name": "Zuivel, eieren, boter"
+                },
+                {
+                  "Name": "Verse zuivel"
+                },
+                {
+                  "Name": "Yoghurt"
+                }
+              ]
+            },
+            "IsAvailable": true,
+            "PromotionLabel": "",
+            "PromotionBasedLabel": "",
+            "PromotionStartDate": "1900-01-01",
+            "PromotionEndDate": "1900-01-01",
+            "IsFreeDeliveryOffer": false,
+            "IsOfflineSaleOnly": false,
+            "MaxOrderLimit": 199,
+            "CitrusAdId": "",
+            "IsLocalItem": false
+          },
+          "BadgeQuantity": 0
+        },
+        {
+          "PLP_Str": {
+            "SKU": "796330",
+            "Brand": "Campina",
+            "Name": "Campina Extra Proteine Magere Yoghurt",
+            "Product_Subtitle": "Per 1000 ml",
+            "Slug": "campina-extra-proteine-magere-yoghurt-pak-1000-ml-796330",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/796330_M/5243ca287a6837330fa5a9459d359b81/796330.png",
+            "ImageLabel": "",
+            "MetaTitle": "Campina Extra Proteine Magere Yoghurt 1000 Milliliter - PLUS",
+            "MetaDescription": "Bestel Campina Extra Proteine Magere Yoghurt 1000 Milliliter online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "OriginalPrice": "1.99",
+            "NewPrice": "0.0",
+            "Quantity": 0,
+            "LineItemId": "",
+            "IsProductOverMajorityAge": false,
+            "Logos": {
+              "PLPInUpperLeft": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPAboveTitle": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPBehindSizeUnit": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              }
+            },
+            "EAN": "",
+            "Packging": "Pak",
+            "Categories": {
+              "List": [
+                {
+                  "Name": "Zuivel, eieren, boter"
+                },
+                {
+                  "Name": "Verse zuivel"
+                },
+                {
+                  "Name": "Yoghurt"
+                }
+              ]
+            },
+            "IsAvailable": true,
+            "PromotionLabel": "GRATIS BEZORGING BIJ 10.00 EURO",
+            "PromotionBasedLabel": "",
+            "PromotionStartDate": "2026-06-24",
+            "PromotionEndDate": "2026-06-30",
+            "IsFreeDeliveryOffer": true,
+            "IsOfflineSaleOnly": false,
+            "MaxOrderLimit": 199,
+            "CitrusAdId": "",
+            "IsLocalItem": false
+          },
+          "BadgeQuantity": 0
+        },
+        {
+          "PLP_Str": {
+            "SKU": "177684",
+            "Brand": "Arla",
+            "Name": "Arla Skyr vanille yoghurt 0% vet XL",
+            "Product_Subtitle": "Per 1000 g",
+            "Slug": "arla-skyr-vanille-yoghurt-0-vet-xl-emmer-1000-g-177684",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/177684_M/e196bc2d7a7c8d2bf3c5b5d679e79831/177684.png",
+            "ImageLabel": "",
+            "MetaTitle": "Arla Skyr vanille yoghurt 0% vet XL 1000 Gram - PLUS",
+            "MetaDescription": "Bestel Arla Skyr vanille yoghurt 0% vet XL 1000 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "OriginalPrice": "4.19",
+            "NewPrice": "0",
+            "Quantity": 0,
+            "LineItemId": "",
+            "IsProductOverMajorityAge": false,
+            "Logos": {
+              "PLPInUpperLeft": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPAboveTitle": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPBehindSizeUnit": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              }
+            },
+            "EAN": "",
+            "Packging": "Emmer",
+            "Categories": {
+              "List": [
+                {
+                  "Name": "Zuivel, eieren, boter"
+                },
+                {
+                  "Name": "Verse zuivel"
+                },
+                {
+                  "Name": "Yoghurt"
+                }
+              ]
+            },
+            "IsAvailable": true,
+            "PromotionLabel": "",
+            "PromotionBasedLabel": "",
+            "PromotionStartDate": "1900-01-01",
+            "PromotionEndDate": "1900-01-01",
+            "IsFreeDeliveryOffer": false,
+            "IsOfflineSaleOnly": false,
+            "MaxOrderLimit": 199,
+            "CitrusAdId": "",
+            "IsLocalItem": false
+          },
+          "BadgeQuantity": 0
+        },
+        {
+          "PLP_Str": {
+            "SKU": "811402",
+            "Brand": "Danone",
+            "Name": "Danone Skyr Vanille",
+            "Product_Subtitle": "Per 450 g",
+            "Slug": "danone-skyr-vanille-kuipje-450-g-811402",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/811402_M/c8eaec14056ed2422eb94a7861f07086/811402.png",
+            "ImageLabel": "",
+            "MetaTitle": "Danone Skyr Vanille 450 Gram - PLUS",
+            "MetaDescription": "Bestel Danone Skyr Vanille 450 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "OriginalPrice": "2.19",
+            "NewPrice": "0",
+            "Quantity": 0,
+            "LineItemId": "",
+            "IsProductOverMajorityAge": false,
+            "Logos": {
+              "PLPInUpperLeft": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPAboveTitle": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPBehindSizeUnit": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              }
+            },
+            "EAN": "",
+            "Packging": "Kuipje",
+            "Categories": {
+              "List": [
+                {
+                  "Name": "Zuivel, eieren, boter"
+                },
+                {
+                  "Name": "Verse zuivel"
+                },
+                {
+                  "Name": "Yoghurt"
+                }
+              ]
+            },
+            "IsAvailable": true,
+            "PromotionLabel": "",
+            "PromotionBasedLabel": "",
+            "PromotionStartDate": "1900-01-01",
+            "PromotionEndDate": "1900-01-01",
+            "IsFreeDeliveryOffer": false,
+            "IsOfflineSaleOnly": false,
+            "MaxOrderLimit": 199,
+            "CitrusAdId": "",
+            "IsLocalItem": false
+          },
+          "BadgeQuantity": 0
+        },
+        {
+          "PLP_Str": {
+            "SKU": "918405",
+            "Brand": "XXL Fit",
+            "Name": "XXL Fit Fit duo pudding karamel",
+            "Product_Subtitle": "Per 200 g",
+            "Slug": "xxl-fit-fit-duo-pudding-karamel-kuipje-200-g-918405",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/918405_M/2c94f6371d9ebb0d6498e727e1e45a2d/918405.png",
+            "ImageLabel": "",
+            "MetaTitle": "XXL Fit Fit duo pudding karamel 200 Gram - PLUS",
+            "MetaDescription": "Bestel XXL Fit Fit duo pudding karamel 200 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "OriginalPrice": "1.89",
+            "NewPrice": "0",
+            "Quantity": 0,
+            "LineItemId": "",
+            "IsProductOverMajorityAge": false,
+            "Logos": {
+              "PLPInUpperLeft": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPAboveTitle": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPBehindSizeUnit": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              }
+            },
+            "EAN": "",
+            "Packging": "Kuipje",
+            "Categories": {
+              "List": [
+                {
+                  "Name": "Zuivel, eieren, boter"
+                },
+                {
+                  "Name": "Verse zuivel"
+                },
+                {
+                  "Name": "Yoghurt"
+                }
+              ]
+            },
+            "IsAvailable": true,
+            "PromotionLabel": "",
+            "PromotionBasedLabel": "",
+            "PromotionStartDate": "1900-01-01",
+            "PromotionEndDate": "1900-01-01",
+            "IsFreeDeliveryOffer": false,
+            "IsOfflineSaleOnly": false,
+            "MaxOrderLimit": 199,
+            "CitrusAdId": "",
+            "IsLocalItem": false
+          },
+          "BadgeQuantity": 0
+        },
+        {
+          "PLP_Str": {
+            "SKU": "463196",
+            "Brand": "Arla",
+            "Name": "Arla Skyr Vanille",
+            "Product_Subtitle": "Per 200 g",
+            "Slug": "arla-skyr-vanille-kuipje-200-g-463196",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/463196_M/3b47f9851318bd69f512fe321a08ffe6/463196.png",
+            "ImageLabel": "",
+            "MetaTitle": "Arla Skyr Vanille 200 Gram - PLUS",
+            "MetaDescription": "Bestel Arla Skyr Vanille 200 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "OriginalPrice": "1.59",
+            "NewPrice": "0",
+            "Quantity": 0,
+            "LineItemId": "",
+            "IsProductOverMajorityAge": false,
+            "Logos": {
+              "PLPInUpperLeft": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPAboveTitle": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPBehindSizeUnit": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              }
+            },
+            "EAN": "",
+            "Packging": "Kuipje",
+            "Categories": {
+              "List": [
+                {
+                  "Name": "Zuivel, eieren, boter"
+                },
+                {
+                  "Name": "Verse zuivel"
+                },
+                {
+                  "Name": "Yoghurt"
+                }
+              ]
+            },
+            "IsAvailable": true,
+            "PromotionLabel": "",
+            "PromotionBasedLabel": "",
+            "PromotionStartDate": "1900-01-01",
+            "PromotionEndDate": "1900-01-01",
+            "IsFreeDeliveryOffer": false,
+            "IsOfflineSaleOnly": false,
+            "MaxOrderLimit": 199,
+            "CitrusAdId": "",
+            "IsLocalItem": false
+          },
+          "BadgeQuantity": 0
+        },
+        {
+          "PLP_Str": {
+            "SKU": "796362",
+            "Brand": "XXL Fit",
+            "Name": "XXL Fit Yoghurt Strawberry",
+            "Product_Subtitle": "Per 750 g",
+            "Slug": "xxl-fit-yoghurt-strawberry-emmer-750-g-796362",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/796362_M/44d3ffeae4f13da16cd363b13f7feadf/796362.png",
+            "ImageLabel": "",
+            "MetaTitle": "XXL Fit Yoghurt Strawberry 750 Gram - PLUS",
+            "MetaDescription": "Bestel XXL Fit Yoghurt Strawberry 750 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "OriginalPrice": "3.99",
+            "NewPrice": "0",
+            "Quantity": 0,
+            "LineItemId": "",
+            "IsProductOverMajorityAge": false,
+            "Logos": {
+              "PLPInUpperLeft": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPAboveTitle": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPBehindSizeUnit": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              }
+            },
+            "EAN": "",
+            "Packging": "Emmer",
+            "Categories": {
+              "List": [
+                {
+                  "Name": "Zuivel, eieren, boter"
+                },
+                {
+                  "Name": "Verse zuivel"
+                },
+                {
+                  "Name": "Yoghurt"
+                }
+              ]
+            },
+            "IsAvailable": true,
+            "PromotionLabel": "",
+            "PromotionBasedLabel": "",
+            "PromotionStartDate": "1900-01-01",
+            "PromotionEndDate": "1900-01-01",
+            "IsFreeDeliveryOffer": false,
+            "IsOfflineSaleOnly": false,
+            "MaxOrderLimit": 199,
+            "CitrusAdId": "",
+            "IsLocalItem": false
+          },
+          "BadgeQuantity": 0
+        },
+        {
+          "PLP_Str": {
+            "SKU": "249606",
+            "Brand": "Almhof",
+            "Name": "Almhof Hoekje Venetië pistache",
+            "Product_Subtitle": "Per 150 g",
+            "Slug": "almhof-hoekje-venetie-pistache-beker-150-g-249606",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/249606_M/8a8f46f20dcf7106448e1c26b6a24f11/249606.png",
+            "ImageLabel": "",
+            "MetaTitle": "Almhof Hoekje Venetië pistache 150 Gram - PLUS",
+            "MetaDescription": "Bestel Almhof Hoekje Venetië pistache 150 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "OriginalPrice": "1.49",
+            "NewPrice": "0",
+            "Quantity": 0,
+            "LineItemId": "",
+            "IsProductOverMajorityAge": false,
+            "Logos": {
+              "PLPInUpperLeft": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPAboveTitle": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPBehindSizeUnit": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              }
+            },
+            "EAN": "",
+            "Packging": "Beker",
+            "Categories": {
+              "List": [
+                {
+                  "Name": "Zuivel, eieren, boter"
+                },
+                {
+                  "Name": "Verse zuivel"
+                },
+                {
+                  "Name": "Yoghurt"
+                }
+              ]
+            },
+            "IsAvailable": true,
+            "PromotionLabel": "",
+            "PromotionBasedLabel": "",
+            "PromotionStartDate": "1900-01-01",
+            "PromotionEndDate": "1900-01-01",
+            "IsFreeDeliveryOffer": false,
+            "IsOfflineSaleOnly": false,
+            "MaxOrderLimit": 199,
+            "CitrusAdId": "",
+            "IsLocalItem": false
+          },
+          "BadgeQuantity": 0
+        },
+        {
+          "PLP_Str": {
+            "SKU": "463194",
+            "Brand": "Arla",
+            "Name": "Arla Skyr Naturel",
+            "Product_Subtitle": "Per 200 g",
+            "Slug": "arla-skyr-naturel-kuipje-200-g-463194",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/463194_M/d6e908fbeb101b322a8318173b4cd76c/463194.png",
+            "ImageLabel": "",
+            "MetaTitle": "Arla Skyr Naturel 200 Gram - PLUS",
+            "MetaDescription": "Bestel Arla Skyr Naturel 200 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "OriginalPrice": "1.49",
+            "NewPrice": "0",
+            "Quantity": 0,
+            "LineItemId": "",
+            "IsProductOverMajorityAge": false,
+            "Logos": {
+              "PLPInUpperLeft": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPAboveTitle": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPBehindSizeUnit": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              }
+            },
+            "EAN": "",
+            "Packging": "Kuipje",
+            "Categories": {
+              "List": [
+                {
+                  "Name": "Zuivel, eieren, boter"
+                },
+                {
+                  "Name": "Verse zuivel"
+                },
+                {
+                  "Name": "Yoghurt"
+                }
+              ]
+            },
+            "IsAvailable": true,
+            "PromotionLabel": "",
+            "PromotionBasedLabel": "",
+            "PromotionStartDate": "1900-01-01",
+            "PromotionEndDate": "1900-01-01",
+            "IsFreeDeliveryOffer": false,
+            "IsOfflineSaleOnly": false,
+            "MaxOrderLimit": 199,
+            "CitrusAdId": "",
+            "IsLocalItem": false
+          },
+          "BadgeQuantity": 0
+        }
+      ]
+    },
+    "LocalCategoryID_Out": 1248,
+    "LocalCategoryName_Out": "Yoghurt",
+    "LocalCategoryParentId_Out": 1033,
+    "LocalCategory_h1Title_Out": "Yoghurt",
+    "TweakWiseId": ""
+  }
+}
