@@ -17,7 +17,7 @@
               "List": [
                 {
                   "Name": "Deze week in de aanbieding",
-                  "Quantity": "22",
+                  "Quantity": "28",
                   "IsSelected": false,
                   "URL": "&tn_fk_ae-aanbieding-filtering=Deze%20week%20in%20de%20aanbieding"
                 }
@@ -321,6 +321,152 @@
       "List": [
         {
           "PLP_Str": {
+            "SKU": "299302",
+            "Brand": "Almhof",
+            "Name": "Almhof Yoghurt Griekse stijl 0% vet",
+            "Product_Subtitle": "Per 450 g",
+            "Slug": "almhof-yoghurt-griekse-stijl-0-vet-beker-450-g-299302",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/299302_M/059caf6f576a5d000091657bb670ab6f/299302.png",
+            "ImageLabel": "",
+            "MetaTitle": "Almhof Yoghurt Griekse stijl 0% vet 450 Gram - PLUS",
+            "MetaDescription": "Bestel Almhof Yoghurt Griekse stijl 0% vet 450 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "OriginalPrice": "2.29",
+            "NewPrice": "0.0",
+            "Quantity": 0,
+            "LineItemId": "",
+            "IsProductOverMajorityAge": false,
+            "Logos": {
+              "PLPInUpperLeft": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPAboveTitle": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPBehindSizeUnit": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              }
+            },
+            "EAN": "",
+            "Packging": "Beker",
+            "Categories": {
+              "List": [
+                {
+                  "Name": "Zuivel, eieren, boter"
+                },
+                {
+                  "Name": "Verse zuivel"
+                },
+                {
+                  "Name": "Yoghurt"
+                }
+              ]
+            },
+            "IsAvailable": true,
+            "PromotionLabel": "",
+            "PromotionBasedLabel": "",
+            "PromotionStartDate": "1900-01-01",
+            "PromotionEndDate": "1900-01-01",
+            "IsFreeDeliveryOffer": false,
+            "IsOfflineSaleOnly": false,
+            "MaxOrderLimit": 199,
+            "CitrusAdId": "",
+            "IsLocalItem": false
+          },
+          "BadgeQuantity": 0
+        },
+        {
+          "PLP_Str": {
+            "SKU": "640239",
+            "Brand": "Optimel",
+            "Name": "Optimel Yoghurt bosvruchten 0% vet",
+            "Product_Subtitle": "Per 1000 ml",
+            "Slug": "optimel-yoghurt-bosvruchten-0-vet-pak-1000-ml-640239",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/640239_M/28159b1f81fd68e0b08a9e67fd9374b3/640239.png",
+            "ImageLabel": "",
+            "MetaTitle": "Optimel Yoghurt bosvruchten 0% vet 1000 Milliliter - PLUS",
+            "MetaDescription": "Bestel Optimel Yoghurt bosvruchten 0% vet 1000 Milliliter online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "OriginalPrice": "2.49",
+            "NewPrice": "0.0",
+            "Quantity": 0,
+            "LineItemId": "",
+            "IsProductOverMajorityAge": false,
+            "Logos": {
+              "PLPInUpperLeft": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPAboveTitle": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPBehindSizeUnit": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              }
+            },
+            "EAN": "",
+            "Packging": "Pak",
+            "Categories": {
+              "List": [
+                {
+                  "Name": "Zuivel, eieren, boter"
+                },
+                {
+                  "Name": "Verse zuivel"
+                },
+                {
+                  "Name": "Yoghurt"
+                }
+              ]
+            },
+            "IsAvailable": true,
+            "PromotionLabel": "GRATIS BEZORGING BIJ 10.00 EURO",
+            "PromotionBasedLabel": "",
+            "PromotionStartDate": "2026-06-24",
+            "PromotionEndDate": "2026-06-30",
+            "IsFreeDeliveryOffer": true,
+            "IsOfflineSaleOnly": false,
+            "MaxOrderLimit": 199,
+            "CitrusAdId": "",
+            "IsLocalItem": false
+          },
+          "BadgeQuantity": 0
+        },
+        {
+          "PLP_Str": {
             "SKU": "668816",
             "Brand": "Melkan",
             "Name": "Melkan Skyr vanille",
@@ -331,7 +477,7 @@
             "MetaTitle": "Melkan Skyr vanille 500 Gram - PLUS",
             "MetaDescription": "Bestel Melkan Skyr vanille 500 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
             "OriginalPrice": "1.89",
-            "NewPrice": "0.0",
+            "NewPrice": "0",
             "Quantity": 0,
             "LineItemId": "",
             "IsProductOverMajorityAge": false,
@@ -385,6 +531,79 @@
             "PromotionBasedLabel": "",
             "PromotionStartDate": "1900-01-01",
             "PromotionEndDate": "1900-01-01",
+            "IsFreeDeliveryOffer": false,
+            "IsOfflineSaleOnly": false,
+            "MaxOrderLimit": 199,
+            "CitrusAdId": "",
+            "IsLocalItem": false
+          },
+          "BadgeQuantity": 0
+        },
+        {
+          "PLP_Str": {
+            "SKU": "426304",
+            "Brand": "Zuivelhoeve",
+            "Name": "Zuivelhoeve Boer'n Yoghurt Muesli Mango Passie",
+            "Product_Subtitle": "Per 170 g",
+            "Slug": "zuivelhoeve-boer-n-yoghurt-muesli-mango-passie-kuipje-170-g-426304",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/426304_M/5410ec3b08c71cbc509b1bcb65c4cdd7/426304.png",
+            "ImageLabel": "",
+            "MetaTitle": "Zuivelhoeve Boer'n Yoghurt Muesli Mango Passie 170 Gram - PLUS",
+            "MetaDescription": "Bestel Zuivelhoeve Boer'n Yoghurt Muesli Mango Passie 170 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "OriginalPrice": "1.89",
+            "NewPrice": "1.0",
+            "Quantity": 0,
+            "LineItemId": "",
+            "IsProductOverMajorityAge": false,
+            "Logos": {
+              "PLPInUpperLeft": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPAboveTitle": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPBehindSizeUnit": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              }
+            },
+            "EAN": "",
+            "Packging": "Kuipje",
+            "Categories": {
+              "List": [
+                {
+                  "Name": "Zuivel, eieren, boter"
+                },
+                {
+                  "Name": "Verse zuivel"
+                },
+                {
+                  "Name": "Yoghurt"
+                }
+              ]
+            },
+            "IsAvailable": true,
+            "PromotionLabel": "",
+            "PromotionBasedLabel": "",
+            "PromotionStartDate": "2026-06-24",
+            "PromotionEndDate": "2026-06-30",
             "IsFreeDeliveryOffer": false,
             "IsOfflineSaleOnly": false,
             "MaxOrderLimit": 199,
@@ -541,6 +760,79 @@
         },
         {
           "PLP_Str": {
+            "SKU": "772765",
+            "Brand": "Melkan",
+            "Name": "Melkan Griekse stijl yoghurt 10% vet",
+            "Product_Subtitle": "Per 500 g",
+            "Slug": "melkan-griekse-stijl-yoghurt-10-vet-beker-500-g-772765",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/772765_M/2f0361a1e6192e3ab98aee4bc6a78cbb/772765.png",
+            "ImageLabel": "",
+            "MetaTitle": "Melkan Griekse stijl yoghurt 10% vet 500 Gram - PLUS",
+            "MetaDescription": "Bestel Melkan Griekse stijl yoghurt 10% vet 500 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "OriginalPrice": "1.69",
+            "NewPrice": "0",
+            "Quantity": 0,
+            "LineItemId": "",
+            "IsProductOverMajorityAge": false,
+            "Logos": {
+              "PLPInUpperLeft": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPAboveTitle": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPBehindSizeUnit": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              }
+            },
+            "EAN": "",
+            "Packging": "Beker",
+            "Categories": {
+              "List": [
+                {
+                  "Name": "Zuivel, eieren, boter"
+                },
+                {
+                  "Name": "Verse zuivel"
+                },
+                {
+                  "Name": "Yoghurt"
+                }
+              ]
+            },
+            "IsAvailable": true,
+            "PromotionLabel": "",
+            "PromotionBasedLabel": "",
+            "PromotionStartDate": "1900-01-01",
+            "PromotionEndDate": "1900-01-01",
+            "IsFreeDeliveryOffer": false,
+            "IsOfflineSaleOnly": false,
+            "MaxOrderLimit": 199,
+            "CitrusAdId": "",
+            "IsLocalItem": false
+          },
+          "BadgeQuantity": 0
+        },
+        {
+          "PLP_Str": {
             "SKU": "831093",
             "Brand": "Almhof",
             "Name": "Almhof Roomyoghurt walnoot-Griekse honing",
@@ -614,29 +906,30 @@
         },
         {
           "PLP_Str": {
-            "SKU": "772765",
-            "Brand": "Melkan",
-            "Name": "Melkan Griekse stijl yoghurt 10% vet",
+            "SKU": "869493",
+            "Brand": "Zuivelmeester",
+            "Name": "Zuivelmeester Roeryoghurt",
             "Product_Subtitle": "Per 500 g",
-            "Slug": "melkan-griekse-stijl-yoghurt-10-vet-beker-500-g-772765",
-            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/772765_M/2f0361a1e6192e3ab98aee4bc6a78cbb/772765.png",
+            "Slug": "zuivelmeester-roeryoghurt-pak-500-g-869493",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/869493_M/eb2f7375504e58e12e772921dd74f5b5/869493.png",
             "ImageLabel": "",
-            "MetaTitle": "Melkan Griekse stijl yoghurt 10% vet 500 Gram - PLUS",
-            "MetaDescription": "Bestel Melkan Griekse stijl yoghurt 10% vet 500 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
-            "OriginalPrice": "1.69",
+            "MetaTitle": "Zuivelmeester Roeryoghurt 500 Gram - PLUS",
+            "MetaDescription": "Bestel Zuivelmeester Roeryoghurt 500 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "OriginalPrice": "0.78",
             "NewPrice": "0",
             "Quantity": 0,
             "LineItemId": "",
             "IsProductOverMajorityAge": false,
             "Logos": {
               "PLPInUpperLeft": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
+                "List": [
+                  {
+                    "Name": "Laagblijver",
+                    "LongDescription": "Laagblijver",
+                    "URL": "https://images.ctfassets.net/s0lodsnpsezb/L_QUxHX0xBQUdCTElKVkVS_M/7cb565a0915afed22256044f7eab44b4/laagblijvers.webp",
+                    "Order": 129
+                  }
+                ]
               },
               "PLPAboveTitle": {
                 "List": [],
@@ -658,7 +951,7 @@
               }
             },
             "EAN": "",
-            "Packging": "Beker",
+            "Packging": "Pak",
             "Categories": {
               "List": [
                 {
@@ -833,153 +1126,6 @@
         },
         {
           "PLP_Str": {
-            "SKU": "869493",
-            "Brand": "Zuivelmeester",
-            "Name": "Zuivelmeester Roeryoghurt",
-            "Product_Subtitle": "Per 500 g",
-            "Slug": "zuivelmeester-roeryoghurt-pak-500-g-869493",
-            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/869493_M/eb2f7375504e58e12e772921dd74f5b5/869493.png",
-            "ImageLabel": "",
-            "MetaTitle": "Zuivelmeester Roeryoghurt 500 Gram - PLUS",
-            "MetaDescription": "Bestel Zuivelmeester Roeryoghurt 500 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
-            "OriginalPrice": "0.78",
-            "NewPrice": "0",
-            "Quantity": 0,
-            "LineItemId": "",
-            "IsProductOverMajorityAge": false,
-            "Logos": {
-              "PLPInUpperLeft": {
-                "List": [
-                  {
-                    "Name": "Laagblijver",
-                    "LongDescription": "Laagblijver",
-                    "URL": "https://images.ctfassets.net/s0lodsnpsezb/L_QUxHX0xBQUdCTElKVkVS_M/7cb565a0915afed22256044f7eab44b4/laagblijvers.webp",
-                    "Order": 129
-                  }
-                ]
-              },
-              "PLPAboveTitle": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              },
-              "PLPBehindSizeUnit": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              }
-            },
-            "EAN": "",
-            "Packging": "Pak",
-            "Categories": {
-              "List": [
-                {
-                  "Name": "Zuivel, eieren, boter"
-                },
-                {
-                  "Name": "Verse zuivel"
-                },
-                {
-                  "Name": "Yoghurt"
-                }
-              ]
-            },
-            "IsAvailable": true,
-            "PromotionLabel": "",
-            "PromotionBasedLabel": "",
-            "PromotionStartDate": "1900-01-01",
-            "PromotionEndDate": "1900-01-01",
-            "IsFreeDeliveryOffer": false,
-            "IsOfflineSaleOnly": false,
-            "MaxOrderLimit": 199,
-            "CitrusAdId": "",
-            "IsLocalItem": false
-          },
-          "BadgeQuantity": 0
-        },
-        {
-          "PLP_Str": {
-            "SKU": "845965",
-            "Brand": "Activia",
-            "Name": "Activia Yoghurt Muesli Naturel",
-            "Product_Subtitle": "Per 4 st",
-            "Slug": "activia-yoghurt-muesli-naturel-set-4-st-845965",
-            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/845965_M/2f642a2684390505832bb5a4716206bf/845965.png",
-            "ImageLabel": "",
-            "MetaTitle": "Activia Yoghurt Muesli Naturel 4 Stuks - PLUS",
-            "MetaDescription": "Bestel Activia Yoghurt Muesli Naturel 4 Stuks online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
-            "OriginalPrice": "2.99",
-            "NewPrice": "0",
-            "Quantity": 0,
-            "LineItemId": "",
-            "IsProductOverMajorityAge": false,
-            "Logos": {
-              "PLPInUpperLeft": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              },
-              "PLPAboveTitle": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              },
-              "PLPBehindSizeUnit": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              }
-            },
-            "EAN": "",
-            "Packging": "Set",
-            "Categories": {
-              "List": [
-                {
-                  "Name": "Zuivel, eieren, boter"
-                },
-                {
-                  "Name": "Verse zuivel"
-                },
-                {
-                  "Name": "Yoghurt"
-                }
-              ]
-            },
-            "IsAvailable": true,
-            "PromotionLabel": "",
-            "PromotionBasedLabel": "",
-            "PromotionStartDate": "1900-01-01",
-            "PromotionEndDate": "1900-01-01",
-            "IsFreeDeliveryOffer": false,
-            "IsOfflineSaleOnly": false,
-            "MaxOrderLimit": 199,
-            "CitrusAdId": "",
-            "IsLocalItem": false
-          },
-          "BadgeQuantity": 0
-        },
-        {
-          "PLP_Str": {
             "SKU": "375211",
             "Brand": "Alpro",
             "Name": "Alpro Plantaardige Variatie Yoghurt Perzik",
@@ -1043,152 +1189,6 @@
             "PromotionBasedLabel": "",
             "PromotionStartDate": "1900-01-01",
             "PromotionEndDate": "1900-01-01",
-            "IsFreeDeliveryOffer": false,
-            "IsOfflineSaleOnly": false,
-            "MaxOrderLimit": 199,
-            "CitrusAdId": "",
-            "IsLocalItem": false
-          },
-          "BadgeQuantity": 0
-        },
-        {
-          "PLP_Str": {
-            "SKU": "997578",
-            "Brand": "Almhof",
-            "Name": "Almhof 0% vet yoghurt Perzik Maracuja",
-            "Product_Subtitle": "Per 500 g",
-            "Slug": "almhof-0-vet-yoghurt-perzik-maracuja-beker-500-g-997578",
-            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/997578_M/77e136a0c37af89791a7994ea7e85415/997578.png",
-            "ImageLabel": "",
-            "MetaTitle": "Almhof 0% vet yoghurt Perzik Maracuja 500 Gram - PLUS",
-            "MetaDescription": "Bestel Almhof 0% vet yoghurt Perzik Maracuja 500 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
-            "OriginalPrice": "1.95",
-            "NewPrice": "0",
-            "Quantity": 0,
-            "LineItemId": "",
-            "IsProductOverMajorityAge": false,
-            "Logos": {
-              "PLPInUpperLeft": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              },
-              "PLPAboveTitle": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              },
-              "PLPBehindSizeUnit": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              }
-            },
-            "EAN": "",
-            "Packging": "Beker",
-            "Categories": {
-              "List": [
-                {
-                  "Name": "Zuivel, eieren, boter"
-                },
-                {
-                  "Name": "Verse zuivel"
-                },
-                {
-                  "Name": "Yoghurt"
-                }
-              ]
-            },
-            "IsAvailable": true,
-            "PromotionLabel": "",
-            "PromotionBasedLabel": "",
-            "PromotionStartDate": "1900-01-01",
-            "PromotionEndDate": "1900-01-01",
-            "IsFreeDeliveryOffer": false,
-            "IsOfflineSaleOnly": false,
-            "MaxOrderLimit": 199,
-            "CitrusAdId": "",
-            "IsLocalItem": false
-          },
-          "BadgeQuantity": 0
-        },
-        {
-          "PLP_Str": {
-            "SKU": "426304",
-            "Brand": "Zuivelhoeve",
-            "Name": "Zuivelhoeve Boer'n Yoghurt Muesli Mango Passie",
-            "Product_Subtitle": "Per 170 g",
-            "Slug": "zuivelhoeve-boer-n-yoghurt-muesli-mango-passie-kuipje-170-g-426304",
-            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/426304_M/5410ec3b08c71cbc509b1bcb65c4cdd7/426304.png",
-            "ImageLabel": "",
-            "MetaTitle": "Zuivelhoeve Boer'n Yoghurt Muesli Mango Passie 170 Gram - PLUS",
-            "MetaDescription": "Bestel Zuivelhoeve Boer'n Yoghurt Muesli Mango Passie 170 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
-            "OriginalPrice": "1.89",
-            "NewPrice": "1.0",
-            "Quantity": 0,
-            "LineItemId": "",
-            "IsProductOverMajorityAge": false,
-            "Logos": {
-              "PLPInUpperLeft": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              },
-              "PLPAboveTitle": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              },
-              "PLPBehindSizeUnit": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              }
-            },
-            "EAN": "",
-            "Packging": "Kuipje",
-            "Categories": {
-              "List": [
-                {
-                  "Name": "Zuivel, eieren, boter"
-                },
-                {
-                  "Name": "Verse zuivel"
-                },
-                {
-                  "Name": "Yoghurt"
-                }
-              ]
-            },
-            "IsAvailable": true,
-            "PromotionLabel": "",
-            "PromotionBasedLabel": "",
-            "PromotionStartDate": "2026-06-24",
-            "PromotionEndDate": "2026-06-30",
             "IsFreeDeliveryOffer": false,
             "IsOfflineSaleOnly": false,
             "MaxOrderLimit": 199,

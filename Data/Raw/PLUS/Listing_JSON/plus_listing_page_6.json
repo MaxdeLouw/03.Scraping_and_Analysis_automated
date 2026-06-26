@@ -17,7 +17,7 @@
               "List": [
                 {
                   "Name": "Deze week in de aanbieding",
-                  "Quantity": "22",
+                  "Quantity": "28",
                   "IsSelected": false,
                   "URL": "&tn_fk_ae-aanbieding-filtering=Deze%20week%20in%20de%20aanbieding"
                 }
@@ -321,6 +321,152 @@
       "List": [
         {
           "PLP_Str": {
+            "SKU": "845965",
+            "Brand": "Activia",
+            "Name": "Activia Yoghurt Muesli Naturel",
+            "Product_Subtitle": "Per 4 st",
+            "Slug": "activia-yoghurt-muesli-naturel-set-4-st-845965",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/845965_M/2f642a2684390505832bb5a4716206bf/845965.png",
+            "ImageLabel": "",
+            "MetaTitle": "Activia Yoghurt Muesli Naturel 4 Stuks - PLUS",
+            "MetaDescription": "Bestel Activia Yoghurt Muesli Naturel 4 Stuks online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "OriginalPrice": "2.99",
+            "NewPrice": "0.0",
+            "Quantity": 0,
+            "LineItemId": "",
+            "IsProductOverMajorityAge": false,
+            "Logos": {
+              "PLPInUpperLeft": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPAboveTitle": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPBehindSizeUnit": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              }
+            },
+            "EAN": "",
+            "Packging": "Set",
+            "Categories": {
+              "List": [
+                {
+                  "Name": "Zuivel, eieren, boter"
+                },
+                {
+                  "Name": "Verse zuivel"
+                },
+                {
+                  "Name": "Yoghurt"
+                }
+              ]
+            },
+            "IsAvailable": true,
+            "PromotionLabel": "",
+            "PromotionBasedLabel": "",
+            "PromotionStartDate": "1900-01-01",
+            "PromotionEndDate": "1900-01-01",
+            "IsFreeDeliveryOffer": false,
+            "IsOfflineSaleOnly": false,
+            "MaxOrderLimit": 199,
+            "CitrusAdId": "",
+            "IsLocalItem": false
+          },
+          "BadgeQuantity": 0
+        },
+        {
+          "PLP_Str": {
+            "SKU": "997578",
+            "Brand": "Almhof",
+            "Name": "Almhof 0% vet yoghurt Perzik Maracuja",
+            "Product_Subtitle": "Per 500 g",
+            "Slug": "almhof-0-vet-yoghurt-perzik-maracuja-beker-500-g-997578",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/997578_M/77e136a0c37af89791a7994ea7e85415/997578.png",
+            "ImageLabel": "",
+            "MetaTitle": "Almhof 0% vet yoghurt Perzik Maracuja 500 Gram - PLUS",
+            "MetaDescription": "Bestel Almhof 0% vet yoghurt Perzik Maracuja 500 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "OriginalPrice": "1.95",
+            "NewPrice": "0",
+            "Quantity": 0,
+            "LineItemId": "",
+            "IsProductOverMajorityAge": false,
+            "Logos": {
+              "PLPInUpperLeft": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPAboveTitle": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPBehindSizeUnit": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              }
+            },
+            "EAN": "",
+            "Packging": "Beker",
+            "Categories": {
+              "List": [
+                {
+                  "Name": "Zuivel, eieren, boter"
+                },
+                {
+                  "Name": "Verse zuivel"
+                },
+                {
+                  "Name": "Yoghurt"
+                }
+              ]
+            },
+            "IsAvailable": true,
+            "PromotionLabel": "",
+            "PromotionBasedLabel": "",
+            "PromotionStartDate": "1900-01-01",
+            "PromotionEndDate": "1900-01-01",
+            "IsFreeDeliveryOffer": false,
+            "IsOfflineSaleOnly": false,
+            "MaxOrderLimit": 199,
+            "CitrusAdId": "",
+            "IsLocalItem": false
+          },
+          "BadgeQuantity": 0
+        },
+        {
+          "PLP_Str": {
             "SKU": "640230",
             "Brand": "Activia",
             "Name": "Activia Yoghurt Aardbei",
@@ -331,7 +477,7 @@
             "MetaTitle": "Activia Yoghurt Aardbei 4 Stuks - PLUS",
             "MetaDescription": "Bestel Activia Yoghurt Aardbei 4 Stuks online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
             "OriginalPrice": "2.99",
-            "NewPrice": "0.0",
+            "NewPrice": "0",
             "Quantity": 0,
             "LineItemId": "",
             "IsProductOverMajorityAge": false,
@@ -467,6 +613,79 @@
         },
         {
           "PLP_Str": {
+            "SKU": "287927",
+            "Brand": "Optimel",
+            "Name": "Optimel Yoghurt Griekse stijl vanille 0% vet",
+            "Product_Subtitle": "Per 450 g",
+            "Slug": "optimel-yoghurt-griekse-stijl-vanille-0-vet-beker-450-g-287927",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/287927_M/0789e3e3c2dc6c33e62e02e80e1f1f11/287927.png",
+            "ImageLabel": "",
+            "MetaTitle": "Optimel Yoghurt Griekse stijl vanille 0% vet 450 Gram - PLUS",
+            "MetaDescription": "Bestel Optimel Yoghurt Griekse stijl vanille 0% vet 450 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "OriginalPrice": "2.49",
+            "NewPrice": "0.0",
+            "Quantity": 0,
+            "LineItemId": "",
+            "IsProductOverMajorityAge": false,
+            "Logos": {
+              "PLPInUpperLeft": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPAboveTitle": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPBehindSizeUnit": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              }
+            },
+            "EAN": "",
+            "Packging": "Beker",
+            "Categories": {
+              "List": [
+                {
+                  "Name": "Zuivel, eieren, boter"
+                },
+                {
+                  "Name": "Verse zuivel"
+                },
+                {
+                  "Name": "Yoghurt"
+                }
+              ]
+            },
+            "IsAvailable": true,
+            "PromotionLabel": "GRATIS BEZORGING BIJ 10.00 EURO",
+            "PromotionBasedLabel": "",
+            "PromotionStartDate": "2026-06-24",
+            "PromotionEndDate": "2026-06-30",
+            "IsFreeDeliveryOffer": true,
+            "IsOfflineSaleOnly": false,
+            "MaxOrderLimit": 199,
+            "CitrusAdId": "",
+            "IsLocalItem": false
+          },
+          "BadgeQuantity": 0
+        },
+        {
+          "PLP_Str": {
             "SKU": "816896",
             "Brand": "Arla",
             "Name": "Arla Skyr peach & passionfr 0% vet",
@@ -531,6 +750,79 @@
             "PromotionStartDate": "1900-01-01",
             "PromotionEndDate": "1900-01-01",
             "IsFreeDeliveryOffer": false,
+            "IsOfflineSaleOnly": false,
+            "MaxOrderLimit": 199,
+            "CitrusAdId": "",
+            "IsLocalItem": false
+          },
+          "BadgeQuantity": 0
+        },
+        {
+          "PLP_Str": {
+            "SKU": "45377",
+            "Brand": "Optimel",
+            "Name": "Optimel Yoghurt vanille 0% vet",
+            "Product_Subtitle": "Per 1000 ml",
+            "Slug": "optimel-yoghurt-vanille-0-vet-pak-1000-ml-45377",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/45377_M/f540a3fbd21fffc33dfe9e3b3d972639/45377.png",
+            "ImageLabel": "",
+            "MetaTitle": "Optimel Yoghurt vanille 0% vet 1000 Milliliter - PLUS",
+            "MetaDescription": "Bestel Optimel Yoghurt vanille 0% vet 1000 Milliliter online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "OriginalPrice": "2.49",
+            "NewPrice": "0.0",
+            "Quantity": 0,
+            "LineItemId": "",
+            "IsProductOverMajorityAge": false,
+            "Logos": {
+              "PLPInUpperLeft": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPAboveTitle": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPBehindSizeUnit": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              }
+            },
+            "EAN": "",
+            "Packging": "Pak",
+            "Categories": {
+              "List": [
+                {
+                  "Name": "Zuivel, eieren, boter"
+                },
+                {
+                  "Name": "Verse zuivel"
+                },
+                {
+                  "Name": "Yoghurt"
+                }
+              ]
+            },
+            "IsAvailable": true,
+            "PromotionLabel": "GRATIS BEZORGING BIJ 10.00 EURO",
+            "PromotionBasedLabel": "",
+            "PromotionStartDate": "2026-06-24",
+            "PromotionEndDate": "2026-06-30",
+            "IsFreeDeliveryOffer": true,
             "IsOfflineSaleOnly": false,
             "MaxOrderLimit": 199,
             "CitrusAdId": "",
@@ -686,225 +978,6 @@
         },
         {
           "PLP_Str": {
-            "SKU": "45377",
-            "Brand": "Optimel",
-            "Name": "Optimel Yoghurt vanille 0% vet",
-            "Product_Subtitle": "Per 1000 ml",
-            "Slug": "optimel-yoghurt-vanille-0-vet-pak-1000-ml-45377",
-            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/45377_M/f540a3fbd21fffc33dfe9e3b3d972639/45377.png",
-            "ImageLabel": "",
-            "MetaTitle": "Optimel Yoghurt vanille 0% vet 1000 Milliliter - PLUS",
-            "MetaDescription": "Bestel Optimel Yoghurt vanille 0% vet 1000 Milliliter online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
-            "OriginalPrice": "2.49",
-            "NewPrice": "0.0",
-            "Quantity": 0,
-            "LineItemId": "",
-            "IsProductOverMajorityAge": false,
-            "Logos": {
-              "PLPInUpperLeft": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              },
-              "PLPAboveTitle": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              },
-              "PLPBehindSizeUnit": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              }
-            },
-            "EAN": "",
-            "Packging": "Pak",
-            "Categories": {
-              "List": [
-                {
-                  "Name": "Zuivel, eieren, boter"
-                },
-                {
-                  "Name": "Verse zuivel"
-                },
-                {
-                  "Name": "Yoghurt"
-                }
-              ]
-            },
-            "IsAvailable": true,
-            "PromotionLabel": "GRATIS BEZORGING BIJ 10.00 EURO",
-            "PromotionBasedLabel": "",
-            "PromotionStartDate": "2026-06-24",
-            "PromotionEndDate": "2026-06-30",
-            "IsFreeDeliveryOffer": true,
-            "IsOfflineSaleOnly": false,
-            "MaxOrderLimit": 199,
-            "CitrusAdId": "",
-            "IsLocalItem": false
-          },
-          "BadgeQuantity": 0
-        },
-        {
-          "PLP_Str": {
-            "SKU": "287927",
-            "Brand": "Optimel",
-            "Name": "Optimel Yoghurt Griekse stijl vanille 0% vet",
-            "Product_Subtitle": "Per 450 g",
-            "Slug": "optimel-yoghurt-griekse-stijl-vanille-0-vet-beker-450-g-287927",
-            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/287927_M/0789e3e3c2dc6c33e62e02e80e1f1f11/287927.png",
-            "ImageLabel": "",
-            "MetaTitle": "Optimel Yoghurt Griekse stijl vanille 0% vet 450 Gram - PLUS",
-            "MetaDescription": "Bestel Optimel Yoghurt Griekse stijl vanille 0% vet 450 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
-            "OriginalPrice": "2.49",
-            "NewPrice": "0.0",
-            "Quantity": 0,
-            "LineItemId": "",
-            "IsProductOverMajorityAge": false,
-            "Logos": {
-              "PLPInUpperLeft": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              },
-              "PLPAboveTitle": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              },
-              "PLPBehindSizeUnit": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              }
-            },
-            "EAN": "",
-            "Packging": "Beker",
-            "Categories": {
-              "List": [
-                {
-                  "Name": "Zuivel, eieren, boter"
-                },
-                {
-                  "Name": "Verse zuivel"
-                },
-                {
-                  "Name": "Yoghurt"
-                }
-              ]
-            },
-            "IsAvailable": true,
-            "PromotionLabel": "GRATIS BEZORGING BIJ 10.00 EURO",
-            "PromotionBasedLabel": "",
-            "PromotionStartDate": "2026-06-24",
-            "PromotionEndDate": "2026-06-30",
-            "IsFreeDeliveryOffer": true,
-            "IsOfflineSaleOnly": false,
-            "MaxOrderLimit": 199,
-            "CitrusAdId": "",
-            "IsLocalItem": false
-          },
-          "BadgeQuantity": 0
-        },
-        {
-          "PLP_Str": {
-            "SKU": "796320",
-            "Brand": "Campina",
-            "Name": "Campina High Protein Griekse Stijl Yogh 5%",
-            "Product_Subtitle": "Per 450 g",
-            "Slug": "campina-high-protein-griekse-stijl-yogh-5-kuipje-450-g-796320",
-            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/796320_M/b4cf168bd219d664676de60a0b3b26b3/796320.png",
-            "ImageLabel": "",
-            "MetaTitle": "Campina High Protein Griekse Stijl Yogh 5% 450 Gram - PLUS",
-            "MetaDescription": "Bestel Campina High Protein Griekse Stijl Yogh 5% 450 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
-            "OriginalPrice": "2.19",
-            "NewPrice": "0",
-            "Quantity": 0,
-            "LineItemId": "",
-            "IsProductOverMajorityAge": false,
-            "Logos": {
-              "PLPInUpperLeft": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              },
-              "PLPAboveTitle": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              },
-              "PLPBehindSizeUnit": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              }
-            },
-            "EAN": "",
-            "Packging": "Kuipje",
-            "Categories": {
-              "List": [
-                {
-                  "Name": "Zuivel, eieren, boter"
-                },
-                {
-                  "Name": "Verse zuivel"
-                },
-                {
-                  "Name": "Yoghurt"
-                }
-              ]
-            },
-            "IsAvailable": true,
-            "PromotionLabel": "",
-            "PromotionBasedLabel": "",
-            "PromotionStartDate": "1900-01-01",
-            "PromotionEndDate": "1900-01-01",
-            "IsFreeDeliveryOffer": false,
-            "IsOfflineSaleOnly": false,
-            "MaxOrderLimit": 199,
-            "CitrusAdId": "",
-            "IsLocalItem": false
-          },
-          "BadgeQuantity": 0
-        },
-        {
-          "PLP_Str": {
             "SKU": "898358",
             "Brand": "Alpro",
             "Name": "Alpro Plantaardige Variatie Yoghurt Bosbes",
@@ -978,88 +1051,15 @@
         },
         {
           "PLP_Str": {
-            "SKU": "766833",
-            "Brand": "Melkunie",
-            "Name": "Melkunie Protein kwark aardbei",
-            "Product_Subtitle": "Per 200 g",
-            "Slug": "melkunie-protein-kwark-aardbei-beker-200-g-766833",
-            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/766833_M/6d025a94bb35c996e3e48b934304811b/766833.png",
+            "SKU": "796320",
+            "Brand": "Campina",
+            "Name": "Campina High Protein Griekse Stijl Yogh 5%",
+            "Product_Subtitle": "Per 450 g",
+            "Slug": "campina-high-protein-griekse-stijl-yogh-5-kuipje-450-g-796320",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/796320_M/b4cf168bd219d664676de60a0b3b26b3/796320.png",
             "ImageLabel": "",
-            "MetaTitle": "Melkunie Protein kwark aardbei 200 Gram - PLUS",
-            "MetaDescription": "Bestel Melkunie Protein kwark aardbei 200 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
-            "OriginalPrice": "1.59",
-            "NewPrice": "0",
-            "Quantity": 0,
-            "LineItemId": "",
-            "IsProductOverMajorityAge": false,
-            "Logos": {
-              "PLPInUpperLeft": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              },
-              "PLPAboveTitle": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              },
-              "PLPBehindSizeUnit": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              }
-            },
-            "EAN": "",
-            "Packging": "Beker",
-            "Categories": {
-              "List": [
-                {
-                  "Name": "Zuivel, eieren, boter"
-                },
-                {
-                  "Name": "Verse zuivel"
-                },
-                {
-                  "Name": "Yoghurt"
-                }
-              ]
-            },
-            "IsAvailable": true,
-            "PromotionLabel": "",
-            "PromotionBasedLabel": "",
-            "PromotionStartDate": "1900-01-01",
-            "PromotionEndDate": "1900-01-01",
-            "IsFreeDeliveryOffer": false,
-            "IsOfflineSaleOnly": false,
-            "MaxOrderLimit": 199,
-            "CitrusAdId": "",
-            "IsLocalItem": false
-          },
-          "BadgeQuantity": 0
-        },
-        {
-          "PLP_Str": {
-            "SKU": "869443",
-            "Brand": "Almhof",
-            "Name": "Almhof Halfvolle fruityoghurt kers",
-            "Product_Subtitle": "Per 500 g",
-            "Slug": "almhof-halfvolle-fruityoghurt-kers-beker-500-g-869443",
-            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/869443_M/37e0426faccf38b1f70c658ba36bd2e5/869443.png",
-            "ImageLabel": "",
-            "MetaTitle": "Almhof Halfvolle fruityoghurt kers 500 Gram - PLUS",
-            "MetaDescription": "Bestel Almhof Halfvolle fruityoghurt kers 500 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "MetaTitle": "Campina High Protein Griekse Stijl Yogh 5% 450 Gram - PLUS",
+            "MetaDescription": "Bestel Campina High Protein Griekse Stijl Yogh 5% 450 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
             "OriginalPrice": "2.19",
             "NewPrice": "0",
             "Quantity": 0,
@@ -1095,7 +1095,7 @@
               }
             },
             "EAN": "",
-            "Packging": "Beker",
+            "Packging": "Kuipje",
             "Categories": {
               "List": [
                 {

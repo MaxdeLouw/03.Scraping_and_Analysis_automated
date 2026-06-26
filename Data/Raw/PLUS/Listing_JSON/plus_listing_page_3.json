@@ -17,7 +17,7 @@
               "List": [
                 {
                   "Name": "Deze week in de aanbieding",
-                  "Quantity": "22",
+                  "Quantity": "28",
                   "IsSelected": false,
                   "URL": "&tn_fk_ae-aanbieding-filtering=Deze%20week%20in%20de%20aanbieding"
                 }
@@ -321,6 +321,79 @@
       "List": [
         {
           "PLP_Str": {
+            "SKU": "531567",
+            "Brand": "Melkunie",
+            "Name": "Melkunie Breaker Stracciatella Yoghurt",
+            "Product_Subtitle": "Per 200 g",
+            "Slug": "melkunie-breaker-stracciatella-yoghurt-stuk-200-g-531567",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/531567_M/a94acdad7229493daa819775c0b1b3f6/531567.png",
+            "ImageLabel": "",
+            "MetaTitle": "Melkunie Breaker Stracciatella Yoghurt 200 Gram - PLUS",
+            "MetaDescription": "Bestel Melkunie Breaker Stracciatella Yoghurt 200 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "OriginalPrice": "1.69",
+            "NewPrice": "0.0",
+            "Quantity": 0,
+            "LineItemId": "",
+            "IsProductOverMajorityAge": false,
+            "Logos": {
+              "PLPInUpperLeft": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPAboveTitle": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPBehindSizeUnit": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              }
+            },
+            "EAN": "",
+            "Packging": "Stuk",
+            "Categories": {
+              "List": [
+                {
+                  "Name": "Zuivel, eieren, boter"
+                },
+                {
+                  "Name": "Verse zuivel"
+                },
+                {
+                  "Name": "Yoghurt"
+                }
+              ]
+            },
+            "IsAvailable": true,
+            "PromotionLabel": "",
+            "PromotionBasedLabel": "",
+            "PromotionStartDate": "1900-01-01",
+            "PromotionEndDate": "1900-01-01",
+            "IsFreeDeliveryOffer": false,
+            "IsOfflineSaleOnly": false,
+            "MaxOrderLimit": 199,
+            "CitrusAdId": "",
+            "IsLocalItem": false
+          },
+          "BadgeQuantity": 0
+        },
+        {
+          "PLP_Str": {
             "SKU": "984283",
             "Brand": "Almhof",
             "Name": "Almhof Roomyoghurt Spaanse sinaasappel",
@@ -331,7 +404,7 @@
             "MetaTitle": "Almhof Roomyoghurt Spaanse sinaasappel 500 Gram - PLUS",
             "MetaDescription": "Bestel Almhof Roomyoghurt Spaanse sinaasappel 500 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
             "OriginalPrice": "2.59",
-            "NewPrice": "0.0",
+            "NewPrice": "0",
             "Quantity": 0,
             "LineItemId": "",
             "IsProductOverMajorityAge": false,
@@ -760,79 +833,6 @@
         },
         {
           "PLP_Str": {
-            "SKU": "367573",
-            "Brand": "Melkunie",
-            "Name": "Melkunie Breaker vanille Yoghurt",
-            "Product_Subtitle": "Per 200 g",
-            "Slug": "melkunie-breaker-vanille-yoghurt-stazak-200-g-367573",
-            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/367573_M/173fbfbe8d8af51552de1cd6c7362ad3/367573.png",
-            "ImageLabel": "",
-            "MetaTitle": "Melkunie Breaker vanille Yoghurt 200 Gram - PLUS",
-            "MetaDescription": "Bestel Melkunie Breaker vanille Yoghurt 200 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
-            "OriginalPrice": "1.59",
-            "NewPrice": "0",
-            "Quantity": 0,
-            "LineItemId": "",
-            "IsProductOverMajorityAge": false,
-            "Logos": {
-              "PLPInUpperLeft": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              },
-              "PLPAboveTitle": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              },
-              "PLPBehindSizeUnit": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              }
-            },
-            "EAN": "",
-            "Packging": "Stazak",
-            "Categories": {
-              "List": [
-                {
-                  "Name": "Zuivel, eieren, boter"
-                },
-                {
-                  "Name": "Verse zuivel"
-                },
-                {
-                  "Name": "Yoghurt"
-                }
-              ]
-            },
-            "IsAvailable": true,
-            "PromotionLabel": "",
-            "PromotionBasedLabel": "",
-            "PromotionStartDate": "1900-01-01",
-            "PromotionEndDate": "1900-01-01",
-            "IsFreeDeliveryOffer": false,
-            "IsOfflineSaleOnly": false,
-            "MaxOrderLimit": 199,
-            "CitrusAdId": "",
-            "IsLocalItem": false
-          },
-          "BadgeQuantity": 0
-        },
-        {
-          "PLP_Str": {
             "SKU": "322587",
             "Brand": "Zuivelhoeve",
             "Name": "Zuivelhoeve Boer'n Yoghurt muesli aardbei",
@@ -906,16 +906,16 @@
         },
         {
           "PLP_Str": {
-            "SKU": "648955",
-            "Brand": "Den Eelder",
-            "Name": "Den Eelder Boeren volle yoghurt",
-            "Product_Subtitle": "Per 1000 ml",
-            "Slug": "den-eelder-boeren-volle-yoghurt-pak-1000-ml-648955",
-            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/648955_M/052f14d236b8ce0416ee1623cf696f9e/648955.png",
+            "SKU": "367573",
+            "Brand": "Melkunie",
+            "Name": "Melkunie Breaker vanille Yoghurt",
+            "Product_Subtitle": "Per 200 g",
+            "Slug": "melkunie-breaker-vanille-yoghurt-stazak-200-g-367573",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/367573_M/173fbfbe8d8af51552de1cd6c7362ad3/367573.png",
             "ImageLabel": "",
-            "MetaTitle": "Den Eelder Boeren volle yoghurt 1000 Milliliter - PLUS",
-            "MetaDescription": "Bestel Den Eelder Boeren volle yoghurt 1000 Milliliter online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
-            "OriginalPrice": "2.19",
+            "MetaTitle": "Melkunie Breaker vanille Yoghurt 200 Gram - PLUS",
+            "MetaDescription": "Bestel Melkunie Breaker vanille Yoghurt 200 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "OriginalPrice": "1.59",
             "NewPrice": "0",
             "Quantity": 0,
             "LineItemId": "",
@@ -950,7 +950,7 @@
               }
             },
             "EAN": "",
-            "Packging": "Pak",
+            "Packging": "Stazak",
             "Categories": {
               "List": [
                 {
@@ -1052,6 +1052,79 @@
         },
         {
           "PLP_Str": {
+            "SKU": "648955",
+            "Brand": "Den Eelder",
+            "Name": "Den Eelder Boeren volle yoghurt",
+            "Product_Subtitle": "Per 1000 ml",
+            "Slug": "den-eelder-boeren-volle-yoghurt-pak-1000-ml-648955",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/648955_M/052f14d236b8ce0416ee1623cf696f9e/648955.png",
+            "ImageLabel": "",
+            "MetaTitle": "Den Eelder Boeren volle yoghurt 1000 Milliliter - PLUS",
+            "MetaDescription": "Bestel Den Eelder Boeren volle yoghurt 1000 Milliliter online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "OriginalPrice": "2.19",
+            "NewPrice": "0",
+            "Quantity": 0,
+            "LineItemId": "",
+            "IsProductOverMajorityAge": false,
+            "Logos": {
+              "PLPInUpperLeft": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPAboveTitle": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPBehindSizeUnit": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              }
+            },
+            "EAN": "",
+            "Packging": "Pak",
+            "Categories": {
+              "List": [
+                {
+                  "Name": "Zuivel, eieren, boter"
+                },
+                {
+                  "Name": "Verse zuivel"
+                },
+                {
+                  "Name": "Yoghurt"
+                }
+              ]
+            },
+            "IsAvailable": true,
+            "PromotionLabel": "",
+            "PromotionBasedLabel": "",
+            "PromotionStartDate": "1900-01-01",
+            "PromotionEndDate": "1900-01-01",
+            "IsFreeDeliveryOffer": false,
+            "IsOfflineSaleOnly": false,
+            "MaxOrderLimit": 199,
+            "CitrusAdId": "",
+            "IsLocalItem": false
+          },
+          "BadgeQuantity": 0
+        },
+        {
+          "PLP_Str": {
             "SKU": "284191",
             "Brand": "Arla",
             "Name": "Arla Skyr aardbei yoghurt 0% vet",
@@ -1097,79 +1170,6 @@
             },
             "EAN": "",
             "Packging": "Beker",
-            "Categories": {
-              "List": [
-                {
-                  "Name": "Zuivel, eieren, boter"
-                },
-                {
-                  "Name": "Verse zuivel"
-                },
-                {
-                  "Name": "Yoghurt"
-                }
-              ]
-            },
-            "IsAvailable": true,
-            "PromotionLabel": "",
-            "PromotionBasedLabel": "",
-            "PromotionStartDate": "1900-01-01",
-            "PromotionEndDate": "1900-01-01",
-            "IsFreeDeliveryOffer": false,
-            "IsOfflineSaleOnly": false,
-            "MaxOrderLimit": 199,
-            "CitrusAdId": "",
-            "IsLocalItem": false
-          },
-          "BadgeQuantity": 0
-        },
-        {
-          "PLP_Str": {
-            "SKU": "842589",
-            "Brand": "Elinas",
-            "Name": "Elinas Griekse stijl yoghurt honing 4-pack",
-            "Product_Subtitle": "Per 600 g",
-            "Slug": "elinas-griekse-stijl-yoghurt-honing-4-pack-pak-600-g-842589",
-            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/842589_M/d5731cac11c8be77b214120d5e5090de/842589.png",
-            "ImageLabel": "",
-            "MetaTitle": "Elinas Griekse stijl yoghurt honing 4-pack 600 Gram - PLUS",
-            "MetaDescription": "Bestel Elinas Griekse stijl yoghurt honing 4-pack 600 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
-            "OriginalPrice": "2.29",
-            "NewPrice": "0",
-            "Quantity": 0,
-            "LineItemId": "",
-            "IsProductOverMajorityAge": false,
-            "Logos": {
-              "PLPInUpperLeft": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              },
-              "PLPAboveTitle": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              },
-              "PLPBehindSizeUnit": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              }
-            },
-            "EAN": "",
-            "Packging": "Pak",
             "Categories": {
               "List": [
                 {

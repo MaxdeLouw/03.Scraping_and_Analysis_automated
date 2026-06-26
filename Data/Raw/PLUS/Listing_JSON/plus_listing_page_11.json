@@ -17,7 +17,7 @@
               "List": [
                 {
                   "Name": "Deze week in de aanbieding",
-                  "Quantity": "22",
+                  "Quantity": "28",
                   "IsSelected": false,
                   "URL": "&tn_fk_ae-aanbieding-filtering=Deze%20week%20in%20de%20aanbieding"
                 }
@@ -394,6 +394,225 @@
         },
         {
           "PLP_Str": {
+            "SKU": "670732",
+            "Brand": "Isey Skyr",
+            "Name": "Isey Skyr Mandarin pie",
+            "Product_Subtitle": "Per 140 g",
+            "Slug": "isey-skyr-mandarin-pie-stazak-140-g-670732",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/670732_M/3489142687a6c9925851ac82cfe66edc/670732.png",
+            "ImageLabel": "",
+            "MetaTitle": "Isey Skyr Mandarin pie 140 Gram - PLUS",
+            "MetaDescription": "Bestel Isey Skyr Mandarin pie 140 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "OriginalPrice": "1.99",
+            "NewPrice": "0",
+            "Quantity": 0,
+            "LineItemId": "",
+            "IsProductOverMajorityAge": false,
+            "Logos": {
+              "PLPInUpperLeft": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPAboveTitle": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPBehindSizeUnit": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              }
+            },
+            "EAN": "",
+            "Packging": "Stazak",
+            "Categories": {
+              "List": [
+                {
+                  "Name": "Zuivel, eieren, boter"
+                },
+                {
+                  "Name": "Verse zuivel"
+                },
+                {
+                  "Name": "Yoghurt"
+                }
+              ]
+            },
+            "IsAvailable": true,
+            "PromotionLabel": "",
+            "PromotionBasedLabel": "",
+            "PromotionStartDate": "1900-01-01",
+            "PromotionEndDate": "1900-01-01",
+            "IsFreeDeliveryOffer": false,
+            "IsOfflineSaleOnly": false,
+            "MaxOrderLimit": 199,
+            "CitrusAdId": "",
+            "IsLocalItem": false
+          },
+          "BadgeQuantity": 0
+        },
+        {
+          "PLP_Str": {
+            "SKU": "670730",
+            "Brand": "Isey Skyr",
+            "Name": "Isey Skyr Framboos Granaatappel",
+            "Product_Subtitle": "Per 140 g",
+            "Slug": "isey-skyr-framboos-granaatappel-stazak-140-g-670730",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/670730_M/59f115b5360e0bf8f435c99e1849a7b1/670730.png",
+            "ImageLabel": "",
+            "MetaTitle": "Isey Skyr Framboos Granaatappel 140 Gram - PLUS",
+            "MetaDescription": "Bestel Isey Skyr Framboos Granaatappel 140 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "OriginalPrice": "1.89",
+            "NewPrice": "0",
+            "Quantity": 0,
+            "LineItemId": "",
+            "IsProductOverMajorityAge": false,
+            "Logos": {
+              "PLPInUpperLeft": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPAboveTitle": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPBehindSizeUnit": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              }
+            },
+            "EAN": "",
+            "Packging": "Stazak",
+            "Categories": {
+              "List": [
+                {
+                  "Name": "Zuivel, eieren, boter"
+                },
+                {
+                  "Name": "Verse zuivel"
+                },
+                {
+                  "Name": "Yoghurt"
+                }
+              ]
+            },
+            "IsAvailable": true,
+            "PromotionLabel": "",
+            "PromotionBasedLabel": "",
+            "PromotionStartDate": "1900-01-01",
+            "PromotionEndDate": "1900-01-01",
+            "IsFreeDeliveryOffer": false,
+            "IsOfflineSaleOnly": false,
+            "MaxOrderLimit": 199,
+            "CitrusAdId": "",
+            "IsLocalItem": false
+          },
+          "BadgeQuantity": 0
+        },
+        {
+          "PLP_Str": {
+            "SKU": "840217",
+            "Brand": "Activia",
+            "Name": "Activia Yoghurt Naturel",
+            "Product_Subtitle": "Per 4 st",
+            "Slug": "activia-yoghurt-naturel-set-4-st-840217",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/840217_M/44243c144f8d23d21508a34b70cbea0c/840217.png",
+            "ImageLabel": "",
+            "MetaTitle": "Activia Yoghurt Naturel 4 Stuks - PLUS",
+            "MetaDescription": "Bestel Activia Yoghurt Naturel 4 Stuks online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "OriginalPrice": "2.39",
+            "NewPrice": "0",
+            "Quantity": 0,
+            "LineItemId": "",
+            "IsProductOverMajorityAge": false,
+            "Logos": {
+              "PLPInUpperLeft": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPAboveTitle": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPBehindSizeUnit": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              }
+            },
+            "EAN": "",
+            "Packging": "Set",
+            "Categories": {
+              "List": [
+                {
+                  "Name": "Zuivel, eieren, boter"
+                },
+                {
+                  "Name": "Verse zuivel"
+                },
+                {
+                  "Name": "Yoghurt"
+                }
+              ]
+            },
+            "IsAvailable": true,
+            "PromotionLabel": "",
+            "PromotionBasedLabel": "",
+            "PromotionStartDate": "1900-01-01",
+            "PromotionEndDate": "1900-01-01",
+            "IsFreeDeliveryOffer": false,
+            "IsOfflineSaleOnly": false,
+            "MaxOrderLimit": 199,
+            "CitrusAdId": "",
+            "IsLocalItem": false
+          },
+          "BadgeQuantity": 0
+        },
+        {
+          "PLP_Str": {
             "SKU": "305891",
             "Brand": "Almhof",
             "Name": "Almhof Hoekje kers",
@@ -439,79 +658,6 @@
             },
             "EAN": "",
             "Packging": "Beker",
-            "Categories": {
-              "List": [
-                {
-                  "Name": "Zuivel, eieren, boter"
-                },
-                {
-                  "Name": "Verse zuivel"
-                },
-                {
-                  "Name": "Yoghurt"
-                }
-              ]
-            },
-            "IsAvailable": true,
-            "PromotionLabel": "",
-            "PromotionBasedLabel": "",
-            "PromotionStartDate": "1900-01-01",
-            "PromotionEndDate": "1900-01-01",
-            "IsFreeDeliveryOffer": false,
-            "IsOfflineSaleOnly": false,
-            "MaxOrderLimit": 199,
-            "CitrusAdId": "",
-            "IsLocalItem": false
-          },
-          "BadgeQuantity": 0
-        },
-        {
-          "PLP_Str": {
-            "SKU": "299105",
-            "Brand": "Zuivelhoeve",
-            "Name": "Zuivelhoeve Boer'n Yoghurt Bosvruchten",
-            "Product_Subtitle": "Per 750 g",
-            "Slug": "zuivelhoeve-boer-n-yoghurt-bosvruchten-emmer-750-g-299105",
-            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/299105_M/1718e4bc689833a02909c66557d11115/299105.png",
-            "ImageLabel": "",
-            "MetaTitle": "Zuivelhoeve Boer'n Yoghurt Bosvruchten 750 Gram - PLUS",
-            "MetaDescription": "Bestel Zuivelhoeve Boer'n Yoghurt Bosvruchten 750 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
-            "OriginalPrice": "2.99",
-            "NewPrice": "0",
-            "Quantity": 0,
-            "LineItemId": "",
-            "IsProductOverMajorityAge": false,
-            "Logos": {
-              "PLPInUpperLeft": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              },
-              "PLPAboveTitle": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              },
-              "PLPBehindSizeUnit": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              }
-            },
-            "EAN": "",
-            "Packging": "Emmer",
             "Categories": {
               "List": [
                 {
@@ -613,16 +759,16 @@
         },
         {
           "PLP_Str": {
-            "SKU": "869523",
-            "Brand": "Alpro",
-            "Name": "Alpro Plantaardige Variatie Yoghurt Vanille",
-            "Product_Subtitle": "Per 500 g",
-            "Slug": "alpro-plantaardige-variatie-yoghurt-vanille-beker-500-g-869523",
-            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/869523_M/bec7bf59fbf57088735952d42e4c63f5/869523.png",
+            "SKU": "299105",
+            "Brand": "Zuivelhoeve",
+            "Name": "Zuivelhoeve Boer'n Yoghurt Bosvruchten",
+            "Product_Subtitle": "Per 750 g",
+            "Slug": "zuivelhoeve-boer-n-yoghurt-bosvruchten-emmer-750-g-299105",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/299105_M/1718e4bc689833a02909c66557d11115/299105.png",
             "ImageLabel": "",
-            "MetaTitle": "Alpro Plantaardige Variatie Yoghurt Vanille 500 Gram - PLUS",
-            "MetaDescription": "Bestel Alpro Plantaardige Variatie Yoghurt Vanille 500 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
-            "OriginalPrice": "2.79",
+            "MetaTitle": "Zuivelhoeve Boer'n Yoghurt Bosvruchten 750 Gram - PLUS",
+            "MetaDescription": "Bestel Zuivelhoeve Boer'n Yoghurt Bosvruchten 750 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "OriginalPrice": "2.99",
             "NewPrice": "0",
             "Quantity": 0,
             "LineItemId": "",
@@ -657,7 +803,7 @@
               }
             },
             "EAN": "",
-            "Packging": "Beker",
+            "Packging": "Emmer",
             "Categories": {
               "List": [
                 {
@@ -686,16 +832,16 @@
         },
         {
           "PLP_Str": {
-            "SKU": "299249",
-            "Brand": "BIO+",
-            "Name": "BIO+ Yoghurt Griekse stijl 10% vet",
+            "SKU": "869523",
+            "Brand": "Alpro",
+            "Name": "Alpro Plantaardige Variatie Yoghurt Vanille",
             "Product_Subtitle": "Per 500 g",
-            "Slug": "bio-yoghurt-griekse-stijl-10-vet-beker-500-g-299249",
-            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/299249_M/5ce6d813f1ddc51e8ccecabffb8e2faa/299249.png",
+            "Slug": "alpro-plantaardige-variatie-yoghurt-vanille-beker-500-g-869523",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/869523_M/bec7bf59fbf57088735952d42e4c63f5/869523.png",
             "ImageLabel": "",
-            "MetaTitle": "BIO+ Yoghurt Griekse stijl 10% vet 500 Gram - PLUS",
-            "MetaDescription": "Bestel BIO+ Yoghurt Griekse stijl 10% vet 500 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
-            "OriginalPrice": "1.72",
+            "MetaTitle": "Alpro Plantaardige Variatie Yoghurt Vanille 500 Gram - PLUS",
+            "MetaDescription": "Bestel Alpro Plantaardige Variatie Yoghurt Vanille 500 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "OriginalPrice": "2.79",
             "NewPrice": "0",
             "Quantity": 0,
             "LineItemId": "",
@@ -905,89 +1051,16 @@
         },
         {
           "PLP_Str": {
-            "SKU": "647905",
-            "Brand": "Isey Skyr",
-            "Name": "Isey Skyr Blueberry Pie",
-            "Product_Subtitle": "Per 400 g",
-            "Slug": "isey-skyr-blueberry-pie-kuipje-400-g-647905",
-            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/647905_M/ef24a87736ee3799b67ee3f1f20465b2/647905.png",
+            "SKU": "299249",
+            "Brand": "BIO+",
+            "Name": "BIO+ Yoghurt Griekse stijl 10% vet",
+            "Product_Subtitle": "Per 500 g",
+            "Slug": "bio-yoghurt-griekse-stijl-10-vet-beker-500-g-299249",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/299249_M/5ce6d813f1ddc51e8ccecabffb8e2faa/299249.png",
             "ImageLabel": "",
-            "MetaTitle": "Isey Skyr Blueberry Pie 400 Gram - PLUS",
-            "MetaDescription": "Bestel Isey Skyr Blueberry Pie 400 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
-            "OriginalPrice": "2.99",
-            "NewPrice": "0",
-            "Quantity": 0,
-            "LineItemId": "",
-            "IsProductOverMajorityAge": false,
-            "Logos": {
-              "PLPInUpperLeft": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              },
-              "PLPAboveTitle": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              },
-              "PLPBehindSizeUnit": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              }
-            },
-            "EAN": "",
-            "Packging": "Kuipje",
-            "Categories": {
-              "List": [
-                {
-                  "Name": "Zuivel, eieren, boter"
-                },
-                {
-                  "Name": "Verse zuivel"
-                },
-                {
-                  "Name": "Yoghurt"
-                }
-              ]
-            },
-            "IsAvailable": true,
-            "PromotionLabel": "",
-            "PromotionBasedLabel": "",
-            "PromotionStartDate": "1900-01-01",
-            "PromotionEndDate": "1900-01-01",
-            "IsFreeDeliveryOffer": false,
-            "IsOfflineSaleOnly": false,
-            "MaxOrderLimit": 199,
-            "CitrusAdId": "",
-            "IsLocalItem": false
-          },
-          "BadgeQuantity": 0
-        },
-        {
-          "PLP_Str": {
-            "SKU": "935812",
-            "Brand": "XXL Fit",
-            "Name": "XXL Fit Yoghurt granola aardbei",
-            "Product_Subtitle": "Per 200 g",
-            "Slug": "xxl-fit-yoghurt-granola-aardbei-beker-200-g-935812",
-            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/935812_M/2cd479c059c7fbad6dc0ba7ffffe8c76/935812.png",
-            "ImageLabel": "",
-            "MetaTitle": "XXL Fit Yoghurt granola aardbei 200 Gram - PLUS",
-            "MetaDescription": "Bestel XXL Fit Yoghurt granola aardbei 200 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
-            "OriginalPrice": "1.99",
+            "MetaTitle": "BIO+ Yoghurt Griekse stijl 10% vet 500 Gram - PLUS",
+            "MetaDescription": "Bestel BIO+ Yoghurt Griekse stijl 10% vet 500 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "OriginalPrice": "1.72",
             "NewPrice": "0",
             "Quantity": 0,
             "LineItemId": "",
@@ -1051,89 +1124,16 @@
         },
         {
           "PLP_Str": {
-            "SKU": "816383",
+            "SKU": "647905",
             "Brand": "Isey Skyr",
-            "Name": "Isey Skyr Pouch peach",
-            "Product_Subtitle": "Per 140 g",
-            "Slug": "isey-skyr-pouch-peach-stazak-140-g-816383",
-            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/816383_M/570a0736224853addfebd7e011e96ed6/816383.png",
+            "Name": "Isey Skyr Blueberry Pie",
+            "Product_Subtitle": "Per 400 g",
+            "Slug": "isey-skyr-blueberry-pie-kuipje-400-g-647905",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/647905_M/ef24a87736ee3799b67ee3f1f20465b2/647905.png",
             "ImageLabel": "",
-            "MetaTitle": "Isey Skyr Pouch peach 140 Gram - PLUS",
-            "MetaDescription": "Bestel Isey Skyr Pouch peach 140 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
-            "OriginalPrice": "1.89",
-            "NewPrice": "0",
-            "Quantity": 0,
-            "LineItemId": "",
-            "IsProductOverMajorityAge": false,
-            "Logos": {
-              "PLPInUpperLeft": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              },
-              "PLPAboveTitle": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              },
-              "PLPBehindSizeUnit": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              }
-            },
-            "EAN": "",
-            "Packging": "Stazak",
-            "Categories": {
-              "List": [
-                {
-                  "Name": "Zuivel, eieren, boter"
-                },
-                {
-                  "Name": "Verse zuivel"
-                },
-                {
-                  "Name": "Yoghurt"
-                }
-              ]
-            },
-            "IsAvailable": true,
-            "PromotionLabel": "",
-            "PromotionBasedLabel": "",
-            "PromotionStartDate": "1900-01-01",
-            "PromotionEndDate": "1900-01-01",
-            "IsFreeDeliveryOffer": false,
-            "IsOfflineSaleOnly": false,
-            "MaxOrderLimit": 199,
-            "CitrusAdId": "",
-            "IsLocalItem": false
-          },
-          "BadgeQuantity": 0
-        },
-        {
-          "PLP_Str": {
-            "SKU": "243408",
-            "Brand": "Melkan",
-            "Name": "Melkan Griekse stijl 0,1%",
-            "Product_Subtitle": "Per 150 g",
-            "Slug": "melkan-griekse-stijl-0-1-kuipje-150-g-243408",
-            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/243408_M/b8bf0d589f692ff329255982bf48c942/243408.png",
-            "ImageLabel": "",
-            "MetaTitle": "Melkan Griekse stijl 0,1% 150 Gram - PLUS",
-            "MetaDescription": "Bestel Melkan Griekse stijl 0,1% 150 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
-            "OriginalPrice": "0.79",
+            "MetaTitle": "Isey Skyr Blueberry Pie 400 Gram - PLUS",
+            "MetaDescription": "Bestel Isey Skyr Blueberry Pie 400 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "OriginalPrice": "2.99",
             "NewPrice": "0",
             "Quantity": 0,
             "LineItemId": "",

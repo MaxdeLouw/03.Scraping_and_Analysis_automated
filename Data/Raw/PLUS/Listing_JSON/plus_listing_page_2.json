@@ -17,7 +17,7 @@
               "List": [
                 {
                   "Name": "Deze week in de aanbieding",
-                  "Quantity": "22",
+                  "Quantity": "28",
                   "IsSelected": false,
                   "URL": "&tn_fk_ae-aanbieding-filtering=Deze%20week%20in%20de%20aanbieding"
                 }
@@ -321,6 +321,79 @@
       "List": [
         {
           "PLP_Str": {
+            "SKU": "155099",
+            "Brand": "Campina",
+            "Name": "Campina Halfvolle milde yoghurt",
+            "Product_Subtitle": "Per 1000 ml",
+            "Slug": "campina-halfvolle-milde-yoghurt-pak-1000-ml-155099",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/155099_M/79218df89d8ad8c37ff39b87da342dc4/155099.png",
+            "ImageLabel": "",
+            "MetaTitle": "Campina Halfvolle milde yoghurt 1000 Milliliter - PLUS",
+            "MetaDescription": "Bestel Campina Halfvolle milde yoghurt 1000 Milliliter online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "OriginalPrice": "1.89",
+            "NewPrice": "0.0",
+            "Quantity": 0,
+            "LineItemId": "",
+            "IsProductOverMajorityAge": false,
+            "Logos": {
+              "PLPInUpperLeft": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPAboveTitle": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPBehindSizeUnit": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              }
+            },
+            "EAN": "",
+            "Packging": "Pak",
+            "Categories": {
+              "List": [
+                {
+                  "Name": "Zuivel, eieren, boter"
+                },
+                {
+                  "Name": "Verse zuivel"
+                },
+                {
+                  "Name": "Yoghurt"
+                }
+              ]
+            },
+            "IsAvailable": true,
+            "PromotionLabel": "",
+            "PromotionBasedLabel": "",
+            "PromotionStartDate": "1900-01-01",
+            "PromotionEndDate": "1900-01-01",
+            "IsFreeDeliveryOffer": false,
+            "IsOfflineSaleOnly": false,
+            "MaxOrderLimit": 199,
+            "CitrusAdId": "",
+            "IsLocalItem": false
+          },
+          "BadgeQuantity": 0
+        },
+        {
+          "PLP_Str": {
             "SKU": "546911",
             "Brand": "Melkan",
             "Name": "Melkan Magere vruchtenyoghurt perzik",
@@ -331,7 +404,7 @@
             "MetaTitle": "Melkan Magere vruchtenyoghurt perzik 1000 Milliliter - PLUS",
             "MetaDescription": "Bestel Melkan Magere vruchtenyoghurt perzik 1000 Milliliter online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
             "OriginalPrice": "1.45",
-            "NewPrice": "0.0",
+            "NewPrice": "0",
             "Quantity": 0,
             "LineItemId": "",
             "IsProductOverMajorityAge": false,
@@ -761,79 +834,6 @@
         },
         {
           "PLP_Str": {
-            "SKU": "640059",
-            "Brand": "Almhof",
-            "Name": "Almhof Roomyoghurt maracuja-perzik",
-            "Product_Subtitle": "Per 500 g",
-            "Slug": "almhof-roomyoghurt-maracuja-perzik-beker-500-g-640059",
-            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/640059_M/499961e585eaecd5d2fc783c9d7cafa1/640059.png",
-            "ImageLabel": "",
-            "MetaTitle": "Almhof Roomyoghurt maracuja-perzik 500 Gram - PLUS",
-            "MetaDescription": "Bestel Almhof Roomyoghurt maracuja-perzik 500 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
-            "OriginalPrice": "2.59",
-            "NewPrice": "0",
-            "Quantity": 0,
-            "LineItemId": "",
-            "IsProductOverMajorityAge": false,
-            "Logos": {
-              "PLPInUpperLeft": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              },
-              "PLPAboveTitle": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              },
-              "PLPBehindSizeUnit": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              }
-            },
-            "EAN": "",
-            "Packging": "Beker",
-            "Categories": {
-              "List": [
-                {
-                  "Name": "Zuivel, eieren, boter"
-                },
-                {
-                  "Name": "Verse zuivel"
-                },
-                {
-                  "Name": "Yoghurt"
-                }
-              ]
-            },
-            "IsAvailable": true,
-            "PromotionLabel": "",
-            "PromotionBasedLabel": "",
-            "PromotionStartDate": "1900-01-01",
-            "PromotionEndDate": "1900-01-01",
-            "IsFreeDeliveryOffer": false,
-            "IsOfflineSaleOnly": false,
-            "MaxOrderLimit": 199,
-            "CitrusAdId": "",
-            "IsLocalItem": false
-          },
-          "BadgeQuantity": 0
-        },
-        {
-          "PLP_Str": {
             "SKU": "222826",
             "Brand": "PLUS",
             "Name": "PLUS Griekse stijl yoghurt aardbei",
@@ -907,6 +907,79 @@
         },
         {
           "PLP_Str": {
+            "SKU": "640059",
+            "Brand": "Almhof",
+            "Name": "Almhof Roomyoghurt maracuja-perzik",
+            "Product_Subtitle": "Per 500 g",
+            "Slug": "almhof-roomyoghurt-maracuja-perzik-beker-500-g-640059",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/640059_M/499961e585eaecd5d2fc783c9d7cafa1/640059.png",
+            "ImageLabel": "",
+            "MetaTitle": "Almhof Roomyoghurt maracuja-perzik 500 Gram - PLUS",
+            "MetaDescription": "Bestel Almhof Roomyoghurt maracuja-perzik 500 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "OriginalPrice": "2.59",
+            "NewPrice": "0",
+            "Quantity": 0,
+            "LineItemId": "",
+            "IsProductOverMajorityAge": false,
+            "Logos": {
+              "PLPInUpperLeft": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPAboveTitle": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPBehindSizeUnit": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              }
+            },
+            "EAN": "",
+            "Packging": "Beker",
+            "Categories": {
+              "List": [
+                {
+                  "Name": "Zuivel, eieren, boter"
+                },
+                {
+                  "Name": "Verse zuivel"
+                },
+                {
+                  "Name": "Yoghurt"
+                }
+              ]
+            },
+            "IsAvailable": true,
+            "PromotionLabel": "",
+            "PromotionBasedLabel": "",
+            "PromotionStartDate": "1900-01-01",
+            "PromotionEndDate": "1900-01-01",
+            "IsFreeDeliveryOffer": false,
+            "IsOfflineSaleOnly": false,
+            "MaxOrderLimit": 199,
+            "CitrusAdId": "",
+            "IsLocalItem": false
+          },
+          "BadgeQuantity": 0
+        },
+        {
+          "PLP_Str": {
             "SKU": "185983",
             "Brand": "Biologisch PLUS",
             "Name": "Biologisch PLUS Magere yoghurt",
@@ -952,6 +1025,79 @@
             },
             "EAN": "",
             "Packging": "Pak",
+            "Categories": {
+              "List": [
+                {
+                  "Name": "Zuivel, eieren, boter"
+                },
+                {
+                  "Name": "Verse zuivel"
+                },
+                {
+                  "Name": "Yoghurt"
+                }
+              ]
+            },
+            "IsAvailable": true,
+            "PromotionLabel": "",
+            "PromotionBasedLabel": "",
+            "PromotionStartDate": "1900-01-01",
+            "PromotionEndDate": "1900-01-01",
+            "IsFreeDeliveryOffer": false,
+            "IsOfflineSaleOnly": false,
+            "MaxOrderLimit": 199,
+            "CitrusAdId": "",
+            "IsLocalItem": false
+          },
+          "BadgeQuantity": 0
+        },
+        {
+          "PLP_Str": {
+            "SKU": "160752",
+            "Brand": "Melkan",
+            "Name": "Melkan Griekse stijl yoghurt 10%",
+            "Product_Subtitle": "Per 150 g",
+            "Slug": "melkan-griekse-stijl-yoghurt-10-kuipje-150-g-160752",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/160752_M/38fb3fa1fd340059d9d5f792fb3066b2/160752.png",
+            "ImageLabel": "",
+            "MetaTitle": "Melkan Griekse stijl yoghurt 10% 150 Gram - PLUS",
+            "MetaDescription": "Bestel Melkan Griekse stijl yoghurt 10% 150 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "OriginalPrice": "0.79",
+            "NewPrice": "0",
+            "Quantity": 0,
+            "LineItemId": "",
+            "IsProductOverMajorityAge": false,
+            "Logos": {
+              "PLPInUpperLeft": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPAboveTitle": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPBehindSizeUnit": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              }
+            },
+            "EAN": "",
+            "Packging": "Kuipje",
             "Categories": {
               "List": [
                 {
@@ -1044,152 +1190,6 @@
             "PromotionStartDate": "2026-06-24",
             "PromotionEndDate": "2026-06-30",
             "IsFreeDeliveryOffer": true,
-            "IsOfflineSaleOnly": false,
-            "MaxOrderLimit": 199,
-            "CitrusAdId": "",
-            "IsLocalItem": false
-          },
-          "BadgeQuantity": 0
-        },
-        {
-          "PLP_Str": {
-            "SKU": "160752",
-            "Brand": "Melkan",
-            "Name": "Melkan Griekse stijl yoghurt 10%",
-            "Product_Subtitle": "Per 150 g",
-            "Slug": "melkan-griekse-stijl-yoghurt-10-kuipje-150-g-160752",
-            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/160752_M/38fb3fa1fd340059d9d5f792fb3066b2/160752.png",
-            "ImageLabel": "",
-            "MetaTitle": "Melkan Griekse stijl yoghurt 10% 150 Gram - PLUS",
-            "MetaDescription": "Bestel Melkan Griekse stijl yoghurt 10% 150 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
-            "OriginalPrice": "0.79",
-            "NewPrice": "0",
-            "Quantity": 0,
-            "LineItemId": "",
-            "IsProductOverMajorityAge": false,
-            "Logos": {
-              "PLPInUpperLeft": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              },
-              "PLPAboveTitle": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              },
-              "PLPBehindSizeUnit": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              }
-            },
-            "EAN": "",
-            "Packging": "Kuipje",
-            "Categories": {
-              "List": [
-                {
-                  "Name": "Zuivel, eieren, boter"
-                },
-                {
-                  "Name": "Verse zuivel"
-                },
-                {
-                  "Name": "Yoghurt"
-                }
-              ]
-            },
-            "IsAvailable": true,
-            "PromotionLabel": "",
-            "PromotionBasedLabel": "",
-            "PromotionStartDate": "1900-01-01",
-            "PromotionEndDate": "1900-01-01",
-            "IsFreeDeliveryOffer": false,
-            "IsOfflineSaleOnly": false,
-            "MaxOrderLimit": 199,
-            "CitrusAdId": "",
-            "IsLocalItem": false
-          },
-          "BadgeQuantity": 0
-        },
-        {
-          "PLP_Str": {
-            "SKU": "531567",
-            "Brand": "Melkunie",
-            "Name": "Melkunie Breaker Stracciatella Yoghurt",
-            "Product_Subtitle": "Per 200 g",
-            "Slug": "melkunie-breaker-stracciatella-yoghurt-stuk-200-g-531567",
-            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/531567_M/a94acdad7229493daa819775c0b1b3f6/531567.png",
-            "ImageLabel": "",
-            "MetaTitle": "Melkunie Breaker Stracciatella Yoghurt 200 Gram - PLUS",
-            "MetaDescription": "Bestel Melkunie Breaker Stracciatella Yoghurt 200 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
-            "OriginalPrice": "1.69",
-            "NewPrice": "0",
-            "Quantity": 0,
-            "LineItemId": "",
-            "IsProductOverMajorityAge": false,
-            "Logos": {
-              "PLPInUpperLeft": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              },
-              "PLPAboveTitle": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              },
-              "PLPBehindSizeUnit": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              }
-            },
-            "EAN": "",
-            "Packging": "Stuk",
-            "Categories": {
-              "List": [
-                {
-                  "Name": "Zuivel, eieren, boter"
-                },
-                {
-                  "Name": "Verse zuivel"
-                },
-                {
-                  "Name": "Yoghurt"
-                }
-              ]
-            },
-            "IsAvailable": true,
-            "PromotionLabel": "",
-            "PromotionBasedLabel": "",
-            "PromotionStartDate": "1900-01-01",
-            "PromotionEndDate": "1900-01-01",
-            "IsFreeDeliveryOffer": false,
             "IsOfflineSaleOnly": false,
             "MaxOrderLimit": 199,
             "CitrusAdId": "",

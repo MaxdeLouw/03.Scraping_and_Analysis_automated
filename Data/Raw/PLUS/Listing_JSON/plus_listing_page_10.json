@@ -17,7 +17,7 @@
               "List": [
                 {
                   "Name": "Deze week in de aanbieding",
-                  "Quantity": "22",
+                  "Quantity": "28",
                   "IsSelected": false,
                   "URL": "&tn_fk_ae-aanbieding-filtering=Deze%20week%20in%20de%20aanbieding"
                 }
@@ -321,6 +321,298 @@
       "List": [
         {
           "PLP_Str": {
+            "SKU": "916843",
+            "Brand": "Isey Skyr",
+            "Name": "Isey Skyr Lemon cheesecake",
+            "Product_Subtitle": "Per 170 g",
+            "Slug": "isey-skyr-lemon-cheesecake-beker-170-g-916843",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/916843_M/958184dd0394d47ade755b33ea0313bd/916843.png",
+            "ImageLabel": "",
+            "MetaTitle": "Isey Skyr Lemon cheesecake 170 Gram - PLUS",
+            "MetaDescription": "Bestel Isey Skyr Lemon cheesecake 170 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "OriginalPrice": "1.89",
+            "NewPrice": "0.0",
+            "Quantity": 0,
+            "LineItemId": "",
+            "IsProductOverMajorityAge": false,
+            "Logos": {
+              "PLPInUpperLeft": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPAboveTitle": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPBehindSizeUnit": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              }
+            },
+            "EAN": "",
+            "Packging": "Beker",
+            "Categories": {
+              "List": [
+                {
+                  "Name": "Zuivel, eieren, boter"
+                },
+                {
+                  "Name": "Verse zuivel"
+                },
+                {
+                  "Name": "Yoghurt"
+                }
+              ]
+            },
+            "IsAvailable": true,
+            "PromotionLabel": "",
+            "PromotionBasedLabel": "",
+            "PromotionStartDate": "1900-01-01",
+            "PromotionEndDate": "1900-01-01",
+            "IsFreeDeliveryOffer": false,
+            "IsOfflineSaleOnly": false,
+            "MaxOrderLimit": 199,
+            "CitrusAdId": "",
+            "IsLocalItem": false
+          },
+          "BadgeQuantity": 0
+        },
+        {
+          "PLP_Str": {
+            "SKU": "768800",
+            "Brand": "Arla",
+            "Name": "Arla Bio volle yoghurt",
+            "Product_Subtitle": "Per 1000 ml",
+            "Slug": "arla-bio-volle-yoghurt-pak-1000-ml-768800",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/768800_M/e0b1e9d77182b7e2d1d7cad40c89ca57/768800.png",
+            "ImageLabel": "",
+            "MetaTitle": "Arla Bio volle yoghurt 1000 Milliliter - PLUS",
+            "MetaDescription": "Bestel Arla Bio volle yoghurt 1000 Milliliter online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "OriginalPrice": "1.99",
+            "NewPrice": "0",
+            "Quantity": 0,
+            "LineItemId": "",
+            "IsProductOverMajorityAge": false,
+            "Logos": {
+              "PLPInUpperLeft": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPAboveTitle": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPBehindSizeUnit": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              }
+            },
+            "EAN": "",
+            "Packging": "Pak",
+            "Categories": {
+              "List": [
+                {
+                  "Name": "Zuivel, eieren, boter"
+                },
+                {
+                  "Name": "Verse zuivel"
+                },
+                {
+                  "Name": "Yoghurt"
+                }
+              ]
+            },
+            "IsAvailable": true,
+            "PromotionLabel": "",
+            "PromotionBasedLabel": "",
+            "PromotionStartDate": "1900-01-01",
+            "PromotionEndDate": "1900-01-01",
+            "IsFreeDeliveryOffer": false,
+            "IsOfflineSaleOnly": false,
+            "MaxOrderLimit": 199,
+            "CitrusAdId": "",
+            "IsLocalItem": false
+          },
+          "BadgeQuantity": 0
+        },
+        {
+          "PLP_Str": {
+            "SKU": "421425",
+            "Brand": "Alpro",
+            "Name": "Alpro Variatie Yoghurt Zonder Suikers",
+            "Product_Subtitle": "Per 500 g",
+            "Slug": "alpro-variatie-yoghurt-zonder-suikers-beker-500-g-421425",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/421425_M/73a15fd4d7ae3dc9f0404256d41dbb84/421425.png",
+            "ImageLabel": "",
+            "MetaTitle": "Alpro Variatie Yoghurt Zonder Suikers 500 Gram - PLUS",
+            "MetaDescription": "Bestel Alpro Variatie Yoghurt Zonder Suikers 500 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "OriginalPrice": "2.49",
+            "NewPrice": "0",
+            "Quantity": 0,
+            "LineItemId": "",
+            "IsProductOverMajorityAge": false,
+            "Logos": {
+              "PLPInUpperLeft": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPAboveTitle": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPBehindSizeUnit": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              }
+            },
+            "EAN": "",
+            "Packging": "Beker",
+            "Categories": {
+              "List": [
+                {
+                  "Name": "Zuivel, eieren, boter"
+                },
+                {
+                  "Name": "Verse zuivel"
+                },
+                {
+                  "Name": "Yoghurt"
+                }
+              ]
+            },
+            "IsAvailable": true,
+            "PromotionLabel": "",
+            "PromotionBasedLabel": "",
+            "PromotionStartDate": "1900-01-01",
+            "PromotionEndDate": "1900-01-01",
+            "IsFreeDeliveryOffer": false,
+            "IsOfflineSaleOnly": false,
+            "MaxOrderLimit": 199,
+            "CitrusAdId": "",
+            "IsLocalItem": false
+          },
+          "BadgeQuantity": 0
+        },
+        {
+          "PLP_Str": {
+            "SKU": "477265",
+            "Brand": "Biologisch PLUS",
+            "Name": "Biologisch PLUS Biogarde roeryoghurt 3.5%",
+            "Product_Subtitle": "Per 500 g",
+            "Slug": "biologisch-plus-biogarde-roeryoghurt-3-5-kuipje-500-g-477265",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/477265_M/d470160726ba42110bad27937a944405/477265.png",
+            "ImageLabel": "",
+            "MetaTitle": "Biologisch PLUS Biogarde roeryoghurt 3.5% 500 Gram - PLUS",
+            "MetaDescription": "Bestel Biologisch PLUS Biogarde roeryoghurt 3.5% 500 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "OriginalPrice": "1.59",
+            "NewPrice": "0",
+            "Quantity": 0,
+            "LineItemId": "",
+            "IsProductOverMajorityAge": false,
+            "Logos": {
+              "PLPInUpperLeft": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPAboveTitle": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPBehindSizeUnit": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              }
+            },
+            "EAN": "",
+            "Packging": "Kuipje",
+            "Categories": {
+              "List": [
+                {
+                  "Name": "Zuivel, eieren, boter"
+                },
+                {
+                  "Name": "Verse zuivel"
+                },
+                {
+                  "Name": "Yoghurt"
+                }
+              ]
+            },
+            "IsAvailable": true,
+            "PromotionLabel": "",
+            "PromotionBasedLabel": "",
+            "PromotionStartDate": "1900-01-01",
+            "PromotionEndDate": "1900-01-01",
+            "IsFreeDeliveryOffer": false,
+            "IsOfflineSaleOnly": false,
+            "MaxOrderLimit": 199,
+            "CitrusAdId": "",
+            "IsLocalItem": false
+          },
+          "BadgeQuantity": 0
+        },
+        {
+          "PLP_Str": {
             "SKU": "700192",
             "Brand": "Activia",
             "Name": "Activia Yoghurt Granen",
@@ -331,7 +623,7 @@
             "MetaTitle": "Activia Yoghurt Granen 4 Stuks - PLUS",
             "MetaDescription": "Bestel Activia Yoghurt Granen 4 Stuks online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
             "OriginalPrice": "2.99",
-            "NewPrice": "0.0",
+            "NewPrice": "0",
             "Quantity": 0,
             "LineItemId": "",
             "IsProductOverMajorityAge": false,
@@ -467,79 +759,6 @@
         },
         {
           "PLP_Str": {
-            "SKU": "811501",
-            "Brand": "Melkan",
-            "Name": "Melkan roomyoghurt aardbei",
-            "Product_Subtitle": "Per 1 kg",
-            "Slug": "melkan-roomyoghurt-aardbei-emmer-1-kg-811501",
-            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/811501_M/7c7fbac81313aa17aae5cf8d5a33304b/811501.png",
-            "ImageLabel": "",
-            "MetaTitle": "Melkan roomyoghurt aardbei 1 Kilogram - PLUS",
-            "MetaDescription": "Bestel Melkan roomyoghurt aardbei 1 Kilogram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
-            "OriginalPrice": "2.39",
-            "NewPrice": "0",
-            "Quantity": 0,
-            "LineItemId": "",
-            "IsProductOverMajorityAge": false,
-            "Logos": {
-              "PLPInUpperLeft": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              },
-              "PLPAboveTitle": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              },
-              "PLPBehindSizeUnit": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              }
-            },
-            "EAN": "",
-            "Packging": "Emmer",
-            "Categories": {
-              "List": [
-                {
-                  "Name": "Zuivel, eieren, boter"
-                },
-                {
-                  "Name": "Verse zuivel"
-                },
-                {
-                  "Name": "Yoghurt"
-                }
-              ]
-            },
-            "IsAvailable": true,
-            "PromotionLabel": "",
-            "PromotionBasedLabel": "",
-            "PromotionStartDate": "1900-01-01",
-            "PromotionEndDate": "1900-01-01",
-            "IsFreeDeliveryOffer": false,
-            "IsOfflineSaleOnly": false,
-            "MaxOrderLimit": 199,
-            "CitrusAdId": "",
-            "IsLocalItem": false
-          },
-          "BadgeQuantity": 0
-        },
-        {
-          "PLP_Str": {
             "SKU": "307278",
             "Brand": "Isey Skyr",
             "Name": "Isey Skyr Skyr manderin pie",
@@ -585,79 +804,6 @@
             },
             "EAN": "",
             "Packging": "Kuipje",
-            "Categories": {
-              "List": [
-                {
-                  "Name": "Zuivel, eieren, boter"
-                },
-                {
-                  "Name": "Verse zuivel"
-                },
-                {
-                  "Name": "Yoghurt"
-                }
-              ]
-            },
-            "IsAvailable": true,
-            "PromotionLabel": "",
-            "PromotionBasedLabel": "",
-            "PromotionStartDate": "1900-01-01",
-            "PromotionEndDate": "1900-01-01",
-            "IsFreeDeliveryOffer": false,
-            "IsOfflineSaleOnly": false,
-            "MaxOrderLimit": 199,
-            "CitrusAdId": "",
-            "IsLocalItem": false
-          },
-          "BadgeQuantity": 0
-        },
-        {
-          "PLP_Str": {
-            "SKU": "647156",
-            "Brand": "Arla",
-            "Name": "Arla Lactofree volle yoghurt",
-            "Product_Subtitle": "Per 1000 ml",
-            "Slug": "arla-lactofree-volle-yoghurt-pak-1000-ml-647156",
-            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/647156_M/d2399a05e7dab80b6a789d5bb487db64/647156.png",
-            "ImageLabel": "",
-            "MetaTitle": "Arla Lactofree volle yoghurt 1000 Milliliter - PLUS",
-            "MetaDescription": "Bestel Arla Lactofree volle yoghurt 1000 Milliliter online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
-            "OriginalPrice": "2.29",
-            "NewPrice": "0",
-            "Quantity": 0,
-            "LineItemId": "",
-            "IsProductOverMajorityAge": false,
-            "Logos": {
-              "PLPInUpperLeft": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              },
-              "PLPAboveTitle": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              },
-              "PLPBehindSizeUnit": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              }
-            },
-            "EAN": "",
-            "Packging": "Pak",
             "Categories": {
               "List": [
                 {
@@ -759,89 +905,16 @@
         },
         {
           "PLP_Str": {
-            "SKU": "322577",
-            "Brand": "Zuivelhoeve",
-            "Name": "Zuivelhoeve Boer'n Yoghurt muesli naturel",
-            "Product_Subtitle": "Per 170 g",
-            "Slug": "zuivelhoeve-boer-n-yoghurt-muesli-naturel-beker-170-g-322577",
-            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/322577_M/25533b1300e8470b1384ae0cef7fd4cb/322577.png",
-            "ImageLabel": "",
-            "MetaTitle": "Zuivelhoeve Boer'n Yoghurt muesli naturel 170 Gram - PLUS",
-            "MetaDescription": "Bestel Zuivelhoeve Boer'n Yoghurt muesli naturel 170 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
-            "OriginalPrice": "1.89",
-            "NewPrice": "1.0",
-            "Quantity": 0,
-            "LineItemId": "",
-            "IsProductOverMajorityAge": false,
-            "Logos": {
-              "PLPInUpperLeft": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              },
-              "PLPAboveTitle": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              },
-              "PLPBehindSizeUnit": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              }
-            },
-            "EAN": "",
-            "Packging": "Beker",
-            "Categories": {
-              "List": [
-                {
-                  "Name": "Zuivel, eieren, boter"
-                },
-                {
-                  "Name": "Verse zuivel"
-                },
-                {
-                  "Name": "Yoghurt"
-                }
-              ]
-            },
-            "IsAvailable": true,
-            "PromotionLabel": "",
-            "PromotionBasedLabel": "",
-            "PromotionStartDate": "2026-06-24",
-            "PromotionEndDate": "2026-06-30",
-            "IsFreeDeliveryOffer": false,
-            "IsOfflineSaleOnly": false,
-            "MaxOrderLimit": 199,
-            "CitrusAdId": "",
-            "IsLocalItem": false
-          },
-          "BadgeQuantity": 0
-        },
-        {
-          "PLP_Str": {
-            "SKU": "225730",
+            "SKU": "647156",
             "Brand": "Arla",
-            "Name": "Arla Lactofree Griekse stijl yoghurt",
-            "Product_Subtitle": "Per 450 g",
-            "Slug": "arla-lactofree-griekse-stijl-yoghurt-beker-450-g-225730",
-            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/225730_M/161a5c7cec66aaabcc0fa4d1ed595535/225730.png",
+            "Name": "Arla Lactofree volle yoghurt",
+            "Product_Subtitle": "Per 1000 ml",
+            "Slug": "arla-lactofree-volle-yoghurt-pak-1000-ml-647156",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/647156_M/d2399a05e7dab80b6a789d5bb487db64/647156.png",
             "ImageLabel": "",
-            "MetaTitle": "Arla Lactofree Griekse stijl yoghurt 450 Gram - PLUS",
-            "MetaDescription": "Bestel Arla Lactofree Griekse stijl yoghurt 450 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
-            "OriginalPrice": "2.19",
+            "MetaTitle": "Arla Lactofree volle yoghurt 1000 Milliliter - PLUS",
+            "MetaDescription": "Bestel Arla Lactofree volle yoghurt 1000 Milliliter online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "OriginalPrice": "2.29",
             "NewPrice": "0",
             "Quantity": 0,
             "LineItemId": "",
@@ -876,7 +949,7 @@
               }
             },
             "EAN": "",
-            "Packging": "Beker",
+            "Packging": "Pak",
             "Categories": {
               "List": [
                 {
@@ -978,88 +1051,15 @@
         },
         {
           "PLP_Str": {
-            "SKU": "670732",
-            "Brand": "Isey Skyr",
-            "Name": "Isey Skyr Mandarin pie",
-            "Product_Subtitle": "Per 140 g",
-            "Slug": "isey-skyr-mandarin-pie-stazak-140-g-670732",
-            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/670732_M/3489142687a6c9925851ac82cfe66edc/670732.png",
+            "SKU": "811501",
+            "Brand": "Melkan",
+            "Name": "Melkan roomyoghurt aardbei",
+            "Product_Subtitle": "Per 1 kg",
+            "Slug": "melkan-roomyoghurt-aardbei-emmer-1-kg-811501",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/811501_M/7c7fbac81313aa17aae5cf8d5a33304b/811501.png",
             "ImageLabel": "",
-            "MetaTitle": "Isey Skyr Mandarin pie 140 Gram - PLUS",
-            "MetaDescription": "Bestel Isey Skyr Mandarin pie 140 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
-            "OriginalPrice": "1.99",
-            "NewPrice": "0",
-            "Quantity": 0,
-            "LineItemId": "",
-            "IsProductOverMajorityAge": false,
-            "Logos": {
-              "PLPInUpperLeft": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              },
-              "PLPAboveTitle": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              },
-              "PLPBehindSizeUnit": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              }
-            },
-            "EAN": "",
-            "Packging": "Stazak",
-            "Categories": {
-              "List": [
-                {
-                  "Name": "Zuivel, eieren, boter"
-                },
-                {
-                  "Name": "Verse zuivel"
-                },
-                {
-                  "Name": "Yoghurt"
-                }
-              ]
-            },
-            "IsAvailable": true,
-            "PromotionLabel": "",
-            "PromotionBasedLabel": "",
-            "PromotionStartDate": "1900-01-01",
-            "PromotionEndDate": "1900-01-01",
-            "IsFreeDeliveryOffer": false,
-            "IsOfflineSaleOnly": false,
-            "MaxOrderLimit": 199,
-            "CitrusAdId": "",
-            "IsLocalItem": false
-          },
-          "BadgeQuantity": 0
-        },
-        {
-          "PLP_Str": {
-            "SKU": "840217",
-            "Brand": "Activia",
-            "Name": "Activia Yoghurt Naturel",
-            "Product_Subtitle": "Per 4 st",
-            "Slug": "activia-yoghurt-naturel-set-4-st-840217",
-            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/840217_M/44243c144f8d23d21508a34b70cbea0c/840217.png",
-            "ImageLabel": "",
-            "MetaTitle": "Activia Yoghurt Naturel 4 Stuks - PLUS",
-            "MetaDescription": "Bestel Activia Yoghurt Naturel 4 Stuks online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "MetaTitle": "Melkan roomyoghurt aardbei 1 Kilogram - PLUS",
+            "MetaDescription": "Bestel Melkan roomyoghurt aardbei 1 Kilogram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
             "OriginalPrice": "2.39",
             "NewPrice": "0",
             "Quantity": 0,
@@ -1095,7 +1095,7 @@
               }
             },
             "EAN": "",
-            "Packging": "Set",
+            "Packging": "Emmer",
             "Categories": {
               "List": [
                 {
@@ -1124,16 +1124,16 @@
         },
         {
           "PLP_Str": {
-            "SKU": "670730",
-            "Brand": "Isey Skyr",
-            "Name": "Isey Skyr Framboos Granaatappel",
-            "Product_Subtitle": "Per 140 g",
-            "Slug": "isey-skyr-framboos-granaatappel-stazak-140-g-670730",
-            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/670730_M/59f115b5360e0bf8f435c99e1849a7b1/670730.png",
+            "SKU": "225730",
+            "Brand": "Arla",
+            "Name": "Arla Lactofree Griekse stijl yoghurt",
+            "Product_Subtitle": "Per 450 g",
+            "Slug": "arla-lactofree-griekse-stijl-yoghurt-beker-450-g-225730",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/225730_M/161a5c7cec66aaabcc0fa4d1ed595535/225730.png",
             "ImageLabel": "",
-            "MetaTitle": "Isey Skyr Framboos Granaatappel 140 Gram - PLUS",
-            "MetaDescription": "Bestel Isey Skyr Framboos Granaatappel 140 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
-            "OriginalPrice": "1.89",
+            "MetaTitle": "Arla Lactofree Griekse stijl yoghurt 450 Gram - PLUS",
+            "MetaDescription": "Bestel Arla Lactofree Griekse stijl yoghurt 450 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "OriginalPrice": "2.19",
             "NewPrice": "0",
             "Quantity": 0,
             "LineItemId": "",
@@ -1168,7 +1168,7 @@
               }
             },
             "EAN": "",
-            "Packging": "Stazak",
+            "Packging": "Beker",
             "Categories": {
               "List": [
                 {

@@ -1,168 +1,168 @@
 Source_File,Date_Added,Supermarket,Product_Category,Product_ID,Product_Name,Product_Price,Price_Per_Unit,Energy_kj_100_g,Fats_100_g,Carbs_100_g,Sugars_100_g,Protein_100_g,Salt_100_g
-154058.json,2026-06-25 19:51:39.237486,Plus,Yoghurt,154058,Melkan Yoghurt snack banaan,1.49,7.45,405.0,3.3,13.2,11.3,3.4,0.15
-155099.json,2026-06-25 19:51:39.237979,Plus,Yoghurt,155099,Campina Halfvolle milde yoghurt,1.89,1.89,206.0,1.5,3.8,3.8,4.0,0.11
-155129.json,2026-06-25 19:51:39.238362,Plus,Yoghurt,155129,Campina Magere yoghurt,1.69,1.69,161.0,0.0,3.7,3.7,4.4,0.12
-155170.json,2026-06-25 19:51:39.238812,Plus,Yoghurt,155170,Campina Vanille yoghurt,1.99,1.99,317.0,1.6,11.0,10.0,3.1,0.09
-155323.json,2026-06-25 19:51:39.239238,Plus,Yoghurt,155323,Campina Volle yoghurt,1.95,1.95,262.0,3.1,3.7,3.7,3.9,0.11
-155455.json,2026-06-25 19:51:39.239593,Plus,Yoghurt,155455,Campina Volle yoghurt,1.29,2.58,250.0,3.0,3.5,3.5,3.8,0.12
-155463.json,2026-06-25 19:51:39.240056,Plus,Yoghurt,155463,Campina Magere yoghurt,1.19,2.38,167.0,0.0,4.0,4.0,4.7,0.14
-155643.json,2026-06-25 19:51:39.240527,Plus,Yoghurt,155643,Melkan Yoghurt snack aardbei,1.49,7.45,369.0,3.1,12.1,11.0,2.6,0.125
-159996.json,2026-06-25 19:51:39.240941,Plus,Yoghurt,159996,Zuivelmeester Volle yoghurt,1.38,1.38,265.0,3.0,4.0,4.0,3.9,0.11
-160752.json,2026-06-25 19:51:39.241567,Plus,Yoghurt,160752,Melkan Griekse stijl yoghurt 10%,0.79,5.27,492.0,10.0,4.2,4.2,3.0,0.1
-160882.json,2026-06-25 19:51:39.241929,Plus,Yoghurt,160882,Almhof Roeryoghurt naturel,1.89,3.78,303.0,3.5,5.1,5.1,4.3,0.15
-169847.json,2026-06-25 19:51:39.242372,Plus,Yoghurt,169847,Optimel Yoghurt aardbei 0% vet,2.59,2.59,154.0,0.0,4.7,3.4,3.3,0.14
-169871.json,2026-06-25 19:51:39.242730,Plus,Yoghurt,169871,Optimel Yoghurt perzik 0% vet,2.49,2.49,155.0,0.0,4.9,3.6,3.3,0.12
-177684.json,2026-06-25 19:51:39.243150,Plus,Yoghurt,177684,Arla Skyr vanille yoghurt 0% vet XL,4.19,4.19,306.0,0.0,8.3,7.5,8.6,0.12
-185931.json,2026-06-25 19:51:39.243568,Plus,Yoghurt,185931,Campina Yoghurt Griekse stijl naturel 2% vet,3.39,3.39,267.0,2.0,4.1,4.1,6.4,0.25
-185983.json,2026-06-25 19:51:39.243904,Plus,Yoghurt,185983,Biologisch PLUS Magere yoghurt,1.49,1.49,153.0,0.4,4.0,4.0,4.1,0.12
-185987.json,2026-06-25 19:51:39.244326,Plus,Yoghurt,185987,Biologisch PLUS Volle yoghurt,1.79,1.79,249.0,3.1,3.9,3.9,4.0,0.115
-185989.json,2026-06-25 19:51:39.244776,Plus,Yoghurt,185989,Biologisch PLUS Milde halfvolle yoghurt biologisch,1.65,1.65,204.0,1.6,4.0,4.0,4.5,0.118
-203732.json,2026-06-25 19:51:39.245230,Plus,Yoghurt,203732,PLUS Magere yoghurt,1.39,1.39,170.0,0.1,4.3,4.3,4.5,0.125
-203734.json,2026-06-25 19:51:39.245636,Plus,Yoghurt,203734,PLUS Volle Yoghurt,1.69,1.69,255.0,3.0,3.7,3.7,3.9,0.11
-203736.json,2026-06-25 19:51:39.246118,Plus,Yoghurt,203736,PLUS Halfvolle yoghurt,1.49,1.49,233.0,1.6,4.6,4.6,4.6,0.12
-222661.json,2026-06-25 19:51:39.246558,Plus,Yoghurt,222661,Campina Griekse stijl yoghurt 10% vet,3.49,3.49,518.0,10.0,3.8,3.8,4.3,0.15
-222822.json,2026-06-25 19:51:39.246952,Plus,Yoghurt,222822,Dodoni Griekse yoghurt 10%,4.99,4.99,,,,,,
-222826.json,2026-06-25 19:51:39.247294,Plus,Yoghurt,222826,PLUS Griekse stijl yoghurt aardbei,1.15,7.67,365.0,3.0,9.6,9.1,4.1,0.14
-223753.json,2026-06-25 19:51:39.247713,Plus,Yoghurt,223753,Dodoni Griekse yoghurt 0%,4.95,4.95,,,,,,
-223755.json,2026-06-25 19:51:39.248014,Plus,Yoghurt,223755,Dodoni Griekse yoghurt 10%,1.49,8.76,520.0,10.0,2.9,2.9,5.9,0.18
-225730.json,2026-06-25 19:51:39.248435,Plus,Yoghurt,225730,Arla Lactofree Griekse stijl yoghurt,2.19,4.87,437.0,8.0,4.2,4.2,3.5,0.13
-229606.json,2026-06-25 19:51:39.248816,Plus,Yoghurt,229606,Nestlé Kit Kat yoghurt vanille,1.99,8.65,702.0,7.7,19.6,17.2,4.5,0.17
-243408.json,2026-06-25 19:51:39.249256,Plus,Yoghurt,243408,"Melkan Griekse stijl 0,1%",0.79,5.27,175.0,0.1,4.9,4.9,5.2,0.11
-249606.json,2026-06-25 19:51:39.249703,Plus,Yoghurt,249606,Almhof Hoekje Venetië pistache,1.49,9.93,635.0,6.0,19.0,17.9,4.6,0.16
-284191.json,2026-06-25 19:51:39.250160,Plus,Yoghurt,284191,Arla Skyr aardbei yoghurt 0% vet,2.19,4.87,293.0,0.0,7.4,6.9,8.8,0.14
-284193.json,2026-06-25 19:51:39.250621,Plus,Yoghurt,284193,Melkunie Protein yoghurt mango,1.79,8.95,299.0,0.6,5.5,5.1,10.0,0.11
-284195.json,2026-06-25 19:51:39.251055,Plus,Yoghurt,284195,Melkunie Protein yoghurt aardbei,1.79,8.95,300.0,0.6,5.6,5.3,10.0,0.11
-284445.json,2026-06-25 19:51:39.251390,Plus,Yoghurt,284445,Almhof Roomyoghurt Mumbai mango,2.59,5.18,578.0,8.1,12.9,12.4,2.7,0.09
-287927.json,2026-06-25 19:51:39.251855,Plus,Yoghurt,287927,Optimel Yoghurt Griekse stijl vanille 0% vet,2.49,5.53,231.0,0.0,3.9,3.6,8.3,0.09
-298242.json,2026-06-25 19:51:39.252285,Plus,Yoghurt,298242,BIO+ Griekse Stijl Yoghurt 10% Vet,2.99,2.99,515.0,10.0,4.0,4.0,4.5,0.2
-299103.json,2026-06-25 19:51:39.252725,Plus,Yoghurt,299103,Zuivelhoeve Boer'n Yoghurt Aardbei,2.99,3.99,366.0,3.5,9.5,9.0,4.3,0.15
-299105.json,2026-06-25 19:51:39.253195,Plus,Yoghurt,299105,Zuivelhoeve Boer'n Yoghurt Bosvruchten,2.99,3.99,362.0,3.6,8.9,8.4,4.4,0.15
-299249.json,2026-06-25 19:51:39.253633,Plus,Yoghurt,299249,BIO+ Yoghurt Griekse stijl 10% vet,1.72,3.44,515.0,10.0,4.0,4.0,4.5,0.2
-299302.json,2026-06-25 19:51:39.254066,Plus,Yoghurt,299302,Almhof Yoghurt Griekse stijl 0% vet,2.29,5.09,231.0,0.0,3.8,3.8,9.8,0.12
-299304.json,2026-06-25 19:51:39.254419,Plus,Yoghurt,299304,Almhof Yoghurt Griekse stijl 10% vet,2.39,5.31,499.0,10.0,3.7,3.7,3.2,0.11
-305891.json,2026-06-25 19:51:39.254838,Plus,Yoghurt,305891,Almhof Hoekje kers,1.49,9.93,419.0,2.5,14.6,14.1,3.6,0.13
-306015.json,2026-06-25 19:51:39.255279,Plus,Yoghurt,306015,Almhof Hoekje choco balls,1.49,9.93,589.0,6.4,15.1,13.7,4.7,0.17
-307278.json,2026-06-25 19:51:39.255617,Plus,Yoghurt,307278,Isey Skyr Skyr manderin pie,1.89,11.12,300.0,2.1,4.1,3.6,8.9,0.14
-322356.json,2026-06-25 19:51:39.256035,Plus,Yoghurt,322356,Melkunie Breaker Aardbei Yoghurt,1.59,7.95,379.0,3.0,12.0,11.0,3.1,0.12
-322360.json,2026-06-25 19:51:39.256373,Plus,Yoghurt,322360,Melkunie Breaker Perzik Zonnebloempit Yoghurt,1.59,7.95,405.0,4.0,11.0,9.2,3.6,0.09
-322362.json,2026-06-25 19:51:39.256843,Plus,Yoghurt,322362,Melkunie Breaker Banaan Yoghurt,1.59,7.95,369.0,3.0,11.0,9.5,3.1,0.09
-322577.json,2026-06-25 19:51:39.257371,Plus,Yoghurt,322577,Zuivelhoeve Boer'n Yoghurt muesli naturel,1.89,11.12,448.0,5.3,8.9,4.7,5.6,0.22
-322579.json,2026-06-25 19:51:39.257827,Plus,Yoghurt,322579,Zuivelhoeve Boer'n Yoghurt muesli vanille,1.89,11.12,559.0,4.9,17.0,12.0,4.9,0.22
-322587.json,2026-06-25 19:51:39.258193,Plus,Yoghurt,322587,Zuivelhoeve Boer'n Yoghurt muesli aardbei,1.89,11.12,544.0,4.9,16.0,11.0,4.9,0.22
-322589.json,2026-06-25 19:51:39.258614,Plus,Yoghurt,322589,Zuivelhoeve Boer'n Yoghurt muesli bosvruchten,1.89,11.12,542.0,4.9,16.0,11.0,4.7,0.22
-322821.json,2026-06-25 19:51:39.258935,Plus,Yoghurt,322821,Arla Lactofree halfvolle yoghurt,2.49,2.49,179.0,1.5,2.2,2.2,4.3,0.09
-322946.json,2026-06-25 19:51:39.259276,Plus,Yoghurt,322946,Optimel Yoghurt Griekse stijl kers 0% vet,2.49,5.53,228.0,0.0,4.6,3.9,7.5,0.09
-322966.json,2026-06-25 19:51:39.259708,Plus,Yoghurt,322966,Elinas Griekse stijl yoghurt aardbei 4-pack,2.29,3.82,561.0,7.4,13.7,13.2,2.7,0.1
-367573.json,2026-06-25 19:51:39.260072,Plus,Yoghurt,367573,Melkunie Breaker vanille Yoghurt,1.59,7.95,376.0,3.1,12.0,10.0,3.2,0.1
-375211.json,2026-06-25 19:51:39.260432,Plus,Yoghurt,375211,Alpro Plantaardige Variatie Yoghurt Perzik,2.69,5.38,290.0,2.0,8.3,8.2,3.6,0.17
-393151.json,2026-06-25 19:51:39.260862,Plus,Yoghurt,393151,Arla Bio milde halfvolle yoghurt,1.99,1.99,214.0,1.6,4.5,4.5,3.9,0.13
-402691.json,2026-06-25 19:51:39.261207,Plus,Yoghurt,402691,Melkan Griekse yoghurt 5% lactose vrij,1.99,3.98,323.0,5.0,4.6,4.6,3.5,0.1
-421425.json,2026-06-25 19:51:39.261844,Plus,Yoghurt,421425,Alpro Variatie Yoghurt Zonder Suikers,2.49,4.98,179.0,2.3,0.0,0.0,4.0,0.24
-421427.json,2026-06-25 19:51:39.262265,Plus,Yoghurt,421427,Alpro Plantaardige Variatie Yoghurt Aardbei,2.29,4.58,288.0,2.1,8.1,7.9,3.6,0.23
-425328.json,2026-06-25 19:51:39.262687,Plus,Yoghurt,425328,"Campina High Protein Greek 1,5%",3.69,3.69,313.0,1.5,4.0,4.0,10.0,0.1
-425330.json,2026-06-25 19:51:39.263102,Plus,Yoghurt,425330,Campina High Protein Greek 5%,3.79,3.79,441.0,5.1,4.2,4.2,9.5,0.1
-426304.json,2026-06-25 19:51:39.263439,Plus,Yoghurt,426304,Zuivelhoeve Boer'n Yoghurt Muesli Mango Passie,1.89,11.12,565.0,5.0,17.0,12.0,4.9,0.23
-428538.json,2026-06-25 19:51:39.263880,Plus,Yoghurt,428538,Arla Skyr naturel yoghurt 0% vet XL,3.99,3.99,255.0,0.0,4.0,4.0,10.0,0.14
-45377.json,2026-06-25 19:51:39.264342,Plus,Yoghurt,45377,Optimel Yoghurt vanille 0% vet,2.49,2.49,147.0,0.0,4.3,3.2,3.3,0.12
-458905.json,2026-06-25 19:51:39.264798,Plus,Yoghurt,458905,Melkan Turkse stijl yoghurt 8% vet,2.39,2.39,475.0,8.1,5.8,5.8,4.5,0.01
-458975.json,2026-06-25 19:51:39.265161,Plus,Yoghurt,458975,Arla Bio skyr naturel yoghurt,2.59,5.76,269.0,0.0,4.0,4.0,11.0,0.14
-463192.json,2026-06-25 19:51:39.265592,Plus,Yoghurt,463192,Arla Skyr Aardbei,1.59,7.95,,,,,,
-463194.json,2026-06-25 19:51:39.265885,Plus,Yoghurt,463194,Arla Skyr Naturel,1.49,7.45,255.0,0.0,4.0,4.0,10.0,0.14
-463196.json,2026-06-25 19:51:39.266208,Plus,Yoghurt,463196,Arla Skyr Vanille,1.59,7.95,301.0,0.0,8.3,7.5,8.6,0.12
-477265.json,2026-06-25 19:51:39.266533,Plus,Yoghurt,477265,Biologisch PLUS Biogarde roeryoghurt 3.5%,1.59,3.18,271.0,3.5,4.3,4.3,4.0,0.1
-477267.json,2026-06-25 19:51:39.267048,Plus,Yoghurt,477267,"Biologisch PLUS Biogarde stand yoghurt 1,5%",1.49,2.98,197.0,1.5,4.3,4.3,4.0,0.1
-478541.json,2026-06-25 19:51:39.267629,Plus,Yoghurt,478541,XXL Fit Yoghurt Granola Mango,1.99,9.95,358.0,1.5,7.6,4.5,10.0,0.11
-478543.json,2026-06-25 19:51:39.268001,Plus,Yoghurt,478543,Danone Skyr Naturel 0% vet,3.29,4.11,216.0,0.1,3.4,3.4,9.0,0.09
-478545.json,2026-06-25 19:51:39.268402,Plus,Yoghurt,478545,Activia Vezels Haver Walnoot,3.19,6.38,410.0,3.1,12.4,11.0,3.9,0.1
-484593.json,2026-06-25 19:51:39.268874,Plus,Yoghurt,484593,Melkan Yoghurt Griekse Stijl 10% 1000GR,1.79,1.79,467.0,10.0,2.2,2.2,3.5,0.1
-523130.json,2026-06-25 19:51:39.269203,Plus,Yoghurt,523130,Isey Skyr Aardbei - Witte Chocola,2.99,7.48,354.0,3.7,4.3,3.7,8.5,0.09
-525799.json,2026-06-25 19:51:39.269695,Plus,Yoghurt,525799,Melkan Vanilleyoghurt,1.49,1.49,324.0,1.6,12.0,11.0,3.0,0.107
-527497.json,2026-06-25 19:51:39.270055,Plus,Yoghurt,527497,Melkan yoghurt Griekse stijl 2%,1.95,1.95,241.0,2.0,4.7,4.7,5.1,0.11
-531567.json,2026-06-25 19:51:39.270384,Plus,Yoghurt,531567,Melkunie Breaker Stracciatella Yoghurt,1.69,8.45,422.0,4.0,12.0,11.0,3.2,0.09
-546902.json,2026-06-25 19:51:39.270806,Plus,Yoghurt,546902,Melkan Magere vruchtenyoghurt bosvruchten,1.59,1.59,260.0,0.08,12.0,10.5,3.0,0.09
-546911.json,2026-06-25 19:51:39.271158,Plus,Yoghurt,546911,Melkan Magere vruchtenyoghurt perzik,1.45,1.45,261.0,0.06,11.9,10.6,2.97,0.09
-546923.json,2026-06-25 19:51:39.271584,Plus,Yoghurt,546923,Melkan Magere vruchtenyoghurt aardbei,1.49,1.49,259.0,0.08,11.9,10.5,3.0,0.09
-560253.json,2026-06-25 19:51:39.271946,Plus,Yoghurt,560253,Isey Skyr Air Stracciatella 125g,1.69,13.52,308.0,2.9,3.4,2.7,8.4,0.13
-570027.json,2026-06-25 19:51:39.272396,Plus,Yoghurt,570027,Melkunie Breaker cheesecake framboos Yoghurt,1.69,8.45,374.0,3.0,11.0,10.0,3.2,0.1
-579012.json,2026-06-25 19:51:39.272754,Plus,Yoghurt,579012,Zuivelmeester Magere yoghurt,0.85,0.85,170.0,0.1,4.0,4.0,3.9,0.11
-586654.json,2026-06-25 19:51:39.273090,Plus,Yoghurt,586654,Den Eelder Boeren milde halfvolle yoghurt,1.89,1.89,210.0,1.5,4.5,4.5,3.5,0.1
-618251.json,2026-06-25 19:51:39.273507,Plus,Yoghurt,618251,Zuivelhoeve Boer'n Yoghurt Vanille,2.99,3.99,390.0,3.5,11.0,11.0,4.3,0.15
-640050.json,2026-06-25 19:51:39.274155,Plus,Yoghurt,640050,Almhof Roomyoghurt aardbei,2.59,5.18,576.0,8.1,12.7,12.1,2.7,0.09
-640059.json,2026-06-25 19:51:39.274563,Plus,Yoghurt,640059,Almhof Roomyoghurt maracuja-perzik,2.59,5.18,590.0,8.2,13.5,12.9,2.7,0.09
-640230.json,2026-06-25 19:51:39.274921,Plus,Yoghurt,640230,Activia Yoghurt Aardbei,2.99,0.75,372.0,2.8,12.0,11.7,3.7,0.13
-640239.json,2026-06-25 19:51:39.275367,Plus,Yoghurt,640239,Optimel Yoghurt bosvruchten 0% vet,2.49,2.49,158.0,0.0,4.8,3.6,3.4,0.12
-647156.json,2026-06-25 19:51:39.275762,Plus,Yoghurt,647156,Arla Lactofree volle yoghurt,2.29,2.29,227.0,3.1,1.8,1.8,4.1,0.09
-647905.json,2026-06-25 19:51:39.276110,Plus,Yoghurt,647905,Isey Skyr Blueberry Pie,2.99,7.48,263.0,0.3,5.2,4.3,9.6,0.14
-648951.json,2026-06-25 19:51:39.276541,Plus,Yoghurt,648951,Den Eelder Boeren vanilleyoghurt,2.35,2.35,350.0,3.6,13.0,13.0,3.3,0.1
-648955.json,2026-06-25 19:51:39.276943,Plus,Yoghurt,648955,Den Eelder Boeren volle yoghurt,2.19,2.19,250.0,4.0,4.0,3.9,3.5,0.1
-648959.json,2026-06-25 19:51:39.277329,Plus,Yoghurt,648959,Den Eelder Geitenyoghurt,1.89,3.78,263.0,3.9,3.5,2.2,3.4,0.1
-655017.json,2026-06-25 19:51:39.277720,Plus,Yoghurt,655017,Activia Yoghurt Pruim,2.89,0.72,414.0,3.4,12.9,12.0,3.4,0.1
-668670.json,2026-06-25 19:51:39.278219,Plus,Yoghurt,668670,Melkan Skyr ijslandse yoghurt,1.59,3.18,262.0,0.2,4.0,4.0,11.0,0.1
-668816.json,2026-06-25 19:51:39.278762,Plus,Yoghurt,668816,Melkan Skyr vanille,1.89,3.78,308.0,0.18,8.27,7.64,9.46,0.09
-670730.json,2026-06-25 19:51:39.279169,Plus,Yoghurt,670730,Isey Skyr Framboos Granaatappel,1.89,13.50,314.0,2.2,4.3,3.8,9.4,0.14
-670732.json,2026-06-25 19:51:39.279515,Plus,Yoghurt,670732,Isey Skyr Mandarin pie,1.99,14.21,300.0,2.1,4.1,3.6,8.9,0.14
-700192.json,2026-06-25 19:51:39.279889,Plus,Yoghurt,700192,Activia Yoghurt Granen,2.99,0.75,379.0,2.9,11.3,10.5,3.9,0.1
-726914.json,2026-06-25 19:51:39.280328,Plus,Yoghurt,726914,Arla Skyr naturel yoghurt 0% vet,1.99,4.42,255.0,0.0,4.0,4.0,10.0,0.14
-740366.json,2026-06-25 19:51:39.280691,Plus,Yoghurt,740366,Zuivelmeester Halfvolle Yoghurt,0.95,0.95,233.0,1.6,4.6,4.6,4.6,0.12
-753056.json,2026-06-25 19:51:39.281153,Plus,Yoghurt,753056,Pur Natur Biologische yoghurt natuur,3.69,3.69,260.0,3.0,4.5,4.5,4.4,0.13
-753058.json,2026-06-25 19:51:39.281542,Plus,Yoghurt,753058,Pur Natur Biologische yoghurt natuur,2.19,4.38,303.0,3.8,5.1,5.1,4.3,0.13
-766784.json,2026-06-25 19:51:39.281923,Plus,Yoghurt,766784,Arla Skyr vanille yoghurt 0% vet,2.19,4.87,301.0,0.0,8.3,7.5,8.6,0.12
-766833.json,2026-06-25 19:51:39.282304,Plus,Yoghurt,766833,Melkunie Protein kwark aardbei,1.59,7.95,305.0,0.2,6.6,6.3,10.0,0.12
-768800.json,2026-06-25 19:51:39.282756,Plus,Yoghurt,768800,Arla Bio volle yoghurt,1.99,1.99,251.0,3.0,3.9,3.8,3.4,0.11
-772765.json,2026-06-25 19:51:39.283141,Plus,Yoghurt,772765,Melkan Griekse stijl yoghurt 10% vet,1.69,3.38,492.0,10.0,4.2,4.2,3.0,0.1
-796320.json,2026-06-25 19:51:39.283544,Plus,Yoghurt,796320,Campina High Protein Griekse Stijl Yogh 5%,2.19,4.87,414.0,5.0,3.3,3.3,9.3,0.07
-796324.json,2026-06-25 19:51:39.283843,Plus,Yoghurt,796324,"Campina High Protein Griekse Stijl Yogh 1,5%",2.09,4.64,299.0,1.5,3.4,3.4,10.0,0.07
-796326.json,2026-06-25 19:51:39.284249,Plus,Yoghurt,796326,Campina Extra Proteine Volle Yoghurt,2.29,2.29,309.0,3.0,5.1,5.1,5.5,0.15
-796328.json,2026-06-25 19:51:39.284715,Plus,Yoghurt,796328,Campina Extra Proteine Halfvolle Yoghurt,1.99,1.99,259.0,1.5,5.1,5.1,5.5,0.15
-796330.json,2026-06-25 19:51:39.285068,Plus,Yoghurt,796330,Campina Extra Proteine Magere Yoghurt,1.99,1.99,205.0,0.1,5.0,5.0,5.5,0.15
-796332.json,2026-06-25 19:51:39.285430,Plus,Yoghurt,796332,Optimel Yoghurt vezels Mango Kiwi Banaan,2.49,5.53,235.0,0.0,6.0,3.8,4.5,0.18
-796334.json,2026-06-25 19:51:39.285901,Plus,Yoghurt,796334,Optimel Yoghurt vezels Aardbei Bosbes,2.49,5.53,235.0,0.0,6.0,3.5,4.5,0.2
-796346.json,2026-06-25 19:51:39.286229,Plus,Yoghurt,796346,Almhof Roomyoghurt Meloen Limited,2.59,5.18,582.0,8.0,13.4,12.8,2.7,0.1
-796362.json,2026-06-25 19:51:39.286644,Plus,Yoghurt,796362,XXL Fit Yoghurt Strawberry,3.99,5.32,258.0,0.9,3.2,2.8,10.0,0.11
-796366.json,2026-06-25 19:51:39.286977,Plus,Yoghurt,796366,XXL Fit Yoghurt Mango,3.99,5.32,264.0,0.9,3.5,3.1,10.0,0.11
-796370.json,2026-06-25 19:51:39.287473,Plus,Yoghurt,796370,Melkan Yoghurt Griekse stijl 0%,1.69,3.38,175.0,0.1,4.9,4.9,5.2,0.11
-802504.json,2026-06-25 19:51:39.287831,Plus,Yoghurt,802504,Optimel Yoghurt Proteïne Perzik,2.49,5.53,231.0,0.0,4.0,3.7,8.5,0.13
-802506.json,2026-06-25 19:51:39.288172,Plus,Yoghurt,802506,Optimel Yoghurt Proteïne bosbes vanille,2.49,5.53,221.0,0.0,3.7,3.5,8.7,0.14
-804301.json,2026-06-25 19:51:39.288515,Plus,Yoghurt,804301,Danio Duo karamelsaus,0.99,8.39,548.0,5.4,18.1,17.3,2.4,0.28
-807204.json,2026-06-25 19:51:39.288919,Plus,Yoghurt,807204,Melkunie Melkunie Breaker Zero Peach,1.69,8.45,265.0,3.0,6.8,4.0,3.2,0.1
-809299.json,2026-06-25 19:51:39.289301,Plus,Yoghurt,809299,Melkunie Breaker Kers Zonnebloempitten Yoghurt,1.59,7.95,404.0,4.0,11.0,9.2,3.6,0.11
-810594.json,2026-06-25 19:51:39.289685,Plus,Yoghurt,810594,Danio Duo chocolade balletjes,0.99,9.90,613.0,7.8,15.7,14.1,3.3,0.14
-811402.json,2026-06-25 19:51:39.290068,Plus,Yoghurt,811402,Danone Skyr Vanille,2.19,4.87,297.0,0.1,9.2,8.6,8.0,0.1
-811404.json,2026-06-25 19:51:39.290474,Plus,Yoghurt,811404,Danone Skyr Naturel,1.99,4.42,216.0,0.1,3.4,3.4,9.0,0.09
-811497.json,2026-06-25 19:51:39.290831,Plus,Yoghurt,811497,Melkan Skyr naturel,2.97,2.97,267.0,0.0,4.7,4.7,11.0,0.11
-811499.json,2026-06-25 19:51:39.291192,Plus,Yoghurt,811499,Melkan roomyoghurt stracciatella,2.39,2.39,439.0,5.3,10.8,10.8,3.4,0.12
-811501.json,2026-06-25 19:51:39.291554,Plus,Yoghurt,811501,Melkan roomyoghurt aardbei,2.39,2.39,366.0,4.0,9.13,9.13,3.5,0.14
-814805.json,2026-06-25 19:51:39.291896,Plus,Yoghurt,814805,Melkunie Breaker appeltaart Yoghurt,1.69,8.45,379.0,3.1,12.0,11.0,3.2,0.1
-816369.json,2026-06-25 19:51:39.292264,Plus,Yoghurt,816369,Melkunie Breaker zero aardbei Yoghurt,1.69,8.45,268.0,3.0,6.7,3.9,3.2,0.11
-816371.json,2026-06-25 19:51:39.292626,Plus,Yoghurt,816371,Melkunie Breaker zero banaan Yoghurt,1.69,8.45,279.0,3.0,7.3,4.5,3.3,0.11
-816373.json,2026-06-25 19:51:39.293035,Plus,Yoghurt,816373,Melkunie Breaker Yoghurt Lemon Cheesecake,1.79,8.95,277.0,3.1,6.8,4.2,3.3,0.19
-816377.json,2026-06-25 19:51:39.293345,Plus,Yoghurt,816377,XXL Fit Yoghurt granola vanille,1.99,9.95,348.0,1.5,7.1,4.0,10.0,0.11
-816379.json,2026-06-25 19:51:39.293791,Plus,Yoghurt,816379,Isey Skyr Air cherry - chocolate,1.69,13.52,343.0,3.1,4.7,4.3,8.7,0.14
-816383.json,2026-06-25 19:51:39.294268,Plus,Yoghurt,816383,Isey Skyr Pouch peach,1.89,13.50,300.0,2.1,4.1,3.7,8.9,0.14
-816896.json,2026-06-25 19:51:39.294777,Plus,Yoghurt,816896,Arla Skyr peach & passionfr 0% vet,2.19,4.87,293.0,0.0,7.8,7.1,8.5,0.12
-816902.json,2026-06-25 19:51:39.295255,Plus,Yoghurt,816902,Melkan Griekse stijl passievrucht,2.45,2.45,608.0,8.2,14.0,10.5,2.9,0.12
-816904.json,2026-06-25 19:51:39.295651,Plus,Yoghurt,816904,Melkan Griekse stijl aardbei,2.45,2.45,608.0,8.3,13.8,10.6,2.9,0.11
-831088.json,2026-06-25 19:51:39.295998,Plus,Yoghurt,831088,Almhof Halfvolle fruityoghurt perzik,2.49,4.98,375.0,1.3,13.7,13.1,4.6,0.16
-831093.json,2026-06-25 19:51:39.296395,Plus,Yoghurt,831093,Almhof Roomyoghurt walnoot-Griekse honing,2.59,5.18,615.0,8.8,13.4,12.6,2.9,0.1
-840217.json,2026-06-25 19:51:39.296792,Plus,Yoghurt,840217,Activia Yoghurt Naturel,2.39,0.60,276.0,3.5,4.7,4.7,3.9,0.1
-842589.json,2026-06-25 19:51:39.297162,Plus,Yoghurt,842589,Elinas Griekse stijl yoghurt honing 4-pack,2.29,3.82,612.0,7.5,16.5,16.2,2.7,0.1
-842636.json,2026-06-25 19:51:39.297579,Plus,Yoghurt,842636,Alpro Plantaardige Variatie Yoghurt Naturel,2.39,4.78,216.0,2.3,2.3,2.2,4.0,0.24
-845965.json,2026-06-25 19:51:39.297975,Plus,Yoghurt,845965,Activia Yoghurt Muesli Naturel,2.89,0.72,392.0,2.9,12.0,10.7,3.9,0.1
-869443.json,2026-06-25 19:51:39.298395,Plus,Yoghurt,869443,Almhof Halfvolle fruityoghurt kers,2.19,4.38,369.0,1.3,13.4,12.6,4.6,0.16
-869493.json,2026-06-25 19:51:39.298812,Plus,Yoghurt,869493,Zuivelmeester Roeryoghurt,0.78,1.56,242.0,1.5,5.9,5.9,4.6,0.17
-869523.json,2026-06-25 19:51:39.299136,Plus,Yoghurt,869523,Alpro Plantaardige Variatie Yoghurt Vanille,2.79,5.58,279.0,2.2,7.5,7.5,3.7,0.2
-890883.json,2026-06-25 19:51:39.299486,Plus,Yoghurt,890883,Almhof Roomyoghurt stracciatella,2.59,5.18,646.0,10.0,12.3,11.7,2.9,0.1
-898358.json,2026-06-25 19:51:39.299764,Plus,Yoghurt,898358,Alpro Plantaardige Variatie Yoghurt Bosbes,2.69,5.38,288.0,2.1,8.1,7.9,3.7,0.16
-916843.json,2026-06-25 19:51:39.300189,Plus,Yoghurt,916843,Isey Skyr Lemon cheesecake,1.89,11.12,251.0,0.2,4.8,3.8,9.5,0.2
-918405.json,2026-06-25 19:51:39.300582,Plus,Yoghurt,918405,XXL Fit Fit duo pudding karamel,1.89,9.45,363.0,0.9,8.7,6.4,10.0,0.16
-935812.json,2026-06-25 19:51:39.300998,Plus,Yoghurt,935812,XXL Fit Yoghurt granola aardbei,1.99,9.95,353.0,1.5,7.4,4.2,10.0,0.11
-947687.json,2026-06-25 19:51:39.301430,Plus,Yoghurt,947687,Melkan Soja yoghurt bosbes,1.89,3.78,341.0,2.1,11.5,11.0,3.7,0.08
-947689.json,2026-06-25 19:51:39.301868,Plus,Yoghurt,947689,Melkan Soja yoghurt original,0.78,1.56,180.0,2.3,0.34,0.34,4.7,0.08
-957334.json,2026-06-25 19:51:39.302291,Plus,Yoghurt,957334,Melkan Plantaardige kokosyoghurt,1.59,3.98,338.0,6.3,4.9,0.6,0.6,0.035
-957991.json,2026-06-25 19:51:39.302725,Plus,Yoghurt,957991,Isey Skyr Mango Matcha,1.89,11.12,314.0,2.2,4.3,4.0,9.3,0.15
-958020.json,2026-06-25 19:51:39.303064,Plus,Yoghurt,958020,Dodoni Griekse yoghurt 10%,2.99,5.98,,,,,,
-965090.json,2026-06-25 19:51:39.303488,Plus,Yoghurt,965090,Melkan Protein pouch vanille,1.49,7.45,293.0,0.2,4.8,3.3,12.0,0.11
-965092.json,2026-06-25 19:51:39.303893,Plus,Yoghurt,965092,Melkan Protein pouch aarbei,1.49,7.45,306.0,0.1,5.2,3.56,12.0,0.11
-984283.json,2026-06-25 19:51:39.304291,Plus,Yoghurt,984283,Almhof Roomyoghurt Spaanse sinaasappel,2.59,5.18,578.0,8.1,12.4,11.7,2.7,0.1
-997576.json,2026-06-25 19:51:39.304646,Plus,Yoghurt,997576,Almhof 0% vet yoghurt Aardbei,1.95,3.90,284.0,0.0,11.4,10.8,4.4,0.12
-997578.json,2026-06-25 19:51:39.305073,Plus,Yoghurt,997578,Almhof 0% vet yoghurt Perzik Maracuja,1.95,3.90,285.0,0.0,11.4,10.8,4.4,0.12
+154058.json,2026-06-26 10:55:41.328923,Plus,Yoghurt,154058,Melkan Yoghurt snack banaan,1.49,7.45,405.0,3.3,13.2,11.3,3.4,0.15
+155099.json,2026-06-26 10:55:41.337829,Plus,Yoghurt,155099,Campina Halfvolle milde yoghurt,1.89,1.89,206.0,1.5,3.8,3.8,4.0,0.11
+155129.json,2026-06-26 10:55:41.344155,Plus,Yoghurt,155129,Campina Magere yoghurt,1.69,1.69,161.0,0.0,3.7,3.7,4.4,0.12
+155170.json,2026-06-26 10:55:41.350278,Plus,Yoghurt,155170,Campina Vanille yoghurt,1.99,1.99,317.0,1.6,11.0,10.0,3.1,0.09
+155323.json,2026-06-26 10:55:41.356256,Plus,Yoghurt,155323,Campina Volle yoghurt,1.95,1.95,262.0,3.1,3.7,3.7,3.9,0.11
+155455.json,2026-06-26 10:55:41.362393,Plus,Yoghurt,155455,Campina Volle yoghurt,1.29,2.58,250.0,3.0,3.5,3.5,3.8,0.12
+155463.json,2026-06-26 10:55:41.368338,Plus,Yoghurt,155463,Campina Magere yoghurt,1.19,2.38,167.0,0.0,4.0,4.0,4.7,0.14
+155643.json,2026-06-26 10:55:41.374234,Plus,Yoghurt,155643,Melkan Yoghurt snack aardbei,1.49,7.45,369.0,3.1,12.1,11.0,2.6,0.125
+159996.json,2026-06-26 10:55:41.380434,Plus,Yoghurt,159996,Zuivelmeester Volle yoghurt,1.38,1.38,265.0,3.0,4.0,4.0,3.9,0.11
+160752.json,2026-06-26 10:55:41.387102,Plus,Yoghurt,160752,Melkan Griekse stijl yoghurt 10%,0.79,5.27,492.0,10.0,4.2,4.2,3.0,0.1
+160882.json,2026-06-26 10:55:41.393530,Plus,Yoghurt,160882,Almhof Roeryoghurt naturel,1.89,3.78,303.0,3.5,5.1,5.1,4.3,0.15
+169847.json,2026-06-26 10:55:41.399390,Plus,Yoghurt,169847,Optimel Yoghurt aardbei 0% vet,2.59,2.59,154.0,0.0,4.7,3.4,3.3,0.14
+169871.json,2026-06-26 10:55:41.405316,Plus,Yoghurt,169871,Optimel Yoghurt perzik 0% vet,2.49,2.49,155.0,0.0,4.9,3.6,3.3,0.12
+177684.json,2026-06-26 10:55:41.411166,Plus,Yoghurt,177684,Arla Skyr vanille yoghurt 0% vet XL,4.19,4.19,306.0,0.0,8.3,7.5,8.6,0.12
+185931.json,2026-06-26 10:55:41.416815,Plus,Yoghurt,185931,Campina Yoghurt Griekse stijl naturel 2% vet,3.39,3.39,267.0,2.0,4.1,4.1,6.4,0.25
+185983.json,2026-06-26 10:55:41.422527,Plus,Yoghurt,185983,Biologisch PLUS Magere yoghurt,1.49,1.49,153.0,0.4,4.0,4.0,4.1,0.12
+185987.json,2026-06-26 10:55:41.428671,Plus,Yoghurt,185987,Biologisch PLUS Volle yoghurt,1.79,1.79,249.0,3.1,3.9,3.9,4.0,0.115
+185989.json,2026-06-26 10:55:41.434738,Plus,Yoghurt,185989,Biologisch PLUS Milde halfvolle yoghurt biologisch,1.65,1.65,204.0,1.6,4.0,4.0,4.5,0.118
+203732.json,2026-06-26 10:55:41.440850,Plus,Yoghurt,203732,PLUS Magere yoghurt,1.39,1.39,170.0,0.1,4.3,4.3,4.5,0.125
+203734.json,2026-06-26 10:55:41.447119,Plus,Yoghurt,203734,PLUS Volle Yoghurt,1.69,1.69,255.0,3.0,3.7,3.7,3.9,0.11
+203736.json,2026-06-26 10:55:41.453095,Plus,Yoghurt,203736,PLUS Halfvolle yoghurt,1.49,1.49,233.0,1.6,4.6,4.6,4.6,0.12
+222661.json,2026-06-26 10:55:41.459257,Plus,Yoghurt,222661,Campina Griekse stijl yoghurt 10% vet,3.49,3.49,518.0,10.0,3.8,3.8,4.3,0.15
+222822.json,2026-06-26 10:55:41.464899,Plus,Yoghurt,222822,Dodoni Griekse yoghurt 10%,4.99,4.99,,,,,,
+222826.json,2026-06-26 10:55:41.470468,Plus,Yoghurt,222826,PLUS Griekse stijl yoghurt aardbei,1.15,7.67,365.0,3.0,9.6,9.1,4.1,0.14
+223753.json,2026-06-26 10:55:41.476138,Plus,Yoghurt,223753,Dodoni Griekse yoghurt 0%,4.95,4.95,,,,,,
+223755.json,2026-06-26 10:55:41.481684,Plus,Yoghurt,223755,Dodoni Griekse yoghurt 10%,1.49,8.76,520.0,10.0,2.9,2.9,5.9,0.18
+225730.json,2026-06-26 10:55:41.487774,Plus,Yoghurt,225730,Arla Lactofree Griekse stijl yoghurt,2.19,4.87,437.0,8.0,4.2,4.2,3.5,0.13
+229606.json,2026-06-26 10:55:41.493603,Plus,Yoghurt,229606,Nestlé Kit Kat yoghurt vanille,1.99,8.65,702.0,7.7,19.6,17.2,4.5,0.17
+243408.json,2026-06-26 10:55:41.499017,Plus,Yoghurt,243408,"Melkan Griekse stijl 0,1%",0.79,5.27,175.0,0.1,4.9,4.9,5.2,0.11
+249606.json,2026-06-26 10:55:41.505183,Plus,Yoghurt,249606,Almhof Hoekje Venetië pistache,1.49,9.93,635.0,6.0,19.0,17.9,4.6,0.16
+284191.json,2026-06-26 10:55:41.511095,Plus,Yoghurt,284191,Arla Skyr aardbei yoghurt 0% vet,2.19,4.87,293.0,0.0,7.4,6.9,8.8,0.14
+284193.json,2026-06-26 10:55:41.516699,Plus,Yoghurt,284193,Melkunie Protein yoghurt mango,1.79,8.95,299.0,0.6,5.5,5.1,10.0,0.11
+284195.json,2026-06-26 10:55:41.522568,Plus,Yoghurt,284195,Melkunie Protein yoghurt aardbei,1.79,8.95,300.0,0.6,5.6,5.3,10.0,0.11
+284445.json,2026-06-26 10:55:41.528183,Plus,Yoghurt,284445,Almhof Roomyoghurt Mumbai mango,2.59,5.18,578.0,8.1,12.9,12.4,2.7,0.09
+287927.json,2026-06-26 10:55:41.533916,Plus,Yoghurt,287927,Optimel Yoghurt Griekse stijl vanille 0% vet,2.49,5.53,231.0,0.0,3.9,3.6,8.3,0.09
+298242.json,2026-06-26 10:55:41.539743,Plus,Yoghurt,298242,BIO+ Griekse Stijl Yoghurt 10% Vet,2.99,2.99,515.0,10.0,4.0,4.0,4.5,0.2
+299103.json,2026-06-26 10:55:41.545897,Plus,Yoghurt,299103,Zuivelhoeve Boer'n Yoghurt Aardbei,2.99,3.99,366.0,3.5,9.5,9.0,4.3,0.15
+299105.json,2026-06-26 10:55:41.551819,Plus,Yoghurt,299105,Zuivelhoeve Boer'n Yoghurt Bosvruchten,2.99,3.99,362.0,3.6,8.9,8.4,4.4,0.15
+299249.json,2026-06-26 10:55:41.557886,Plus,Yoghurt,299249,BIO+ Yoghurt Griekse stijl 10% vet,1.72,3.44,515.0,10.0,4.0,4.0,4.5,0.2
+299302.json,2026-06-26 10:55:41.564108,Plus,Yoghurt,299302,Almhof Yoghurt Griekse stijl 0% vet,2.29,5.09,231.0,0.0,3.8,3.8,9.8,0.12
+299304.json,2026-06-26 10:55:41.569808,Plus,Yoghurt,299304,Almhof Yoghurt Griekse stijl 10% vet,2.39,5.31,499.0,10.0,3.7,3.7,3.2,0.11
+305891.json,2026-06-26 10:55:41.576084,Plus,Yoghurt,305891,Almhof Hoekje kers,1.49,9.93,419.0,2.5,14.6,14.1,3.6,0.13
+306015.json,2026-06-26 10:55:41.581941,Plus,Yoghurt,306015,Almhof Hoekje choco balls,1.49,9.93,589.0,6.4,15.1,13.7,4.7,0.17
+307278.json,2026-06-26 10:55:41.587865,Plus,Yoghurt,307278,Isey Skyr Skyr manderin pie,1.89,11.12,300.0,2.1,4.1,3.6,8.9,0.14
+322356.json,2026-06-26 10:55:41.593989,Plus,Yoghurt,322356,Melkunie Breaker Aardbei Yoghurt,1.59,7.95,379.0,3.0,12.0,11.0,3.1,0.12
+322360.json,2026-06-26 10:55:41.599681,Plus,Yoghurt,322360,Melkunie Breaker Perzik Zonnebloempit Yoghurt,1.59,7.95,405.0,4.0,11.0,9.2,3.6,0.09
+322362.json,2026-06-26 10:55:41.605319,Plus,Yoghurt,322362,Melkunie Breaker Banaan Yoghurt,1.59,7.95,369.0,3.0,11.0,9.5,3.1,0.09
+322577.json,2026-06-26 10:55:41.611229,Plus,Yoghurt,322577,Zuivelhoeve Boer'n Yoghurt muesli naturel,1.89,11.12,448.0,5.3,8.9,4.7,5.6,0.22
+322579.json,2026-06-26 10:55:41.617865,Plus,Yoghurt,322579,Zuivelhoeve Boer'n Yoghurt muesli vanille,1.89,11.12,559.0,4.9,17.0,12.0,4.9,0.22
+322587.json,2026-06-26 10:55:41.623869,Plus,Yoghurt,322587,Zuivelhoeve Boer'n Yoghurt muesli aardbei,1.89,11.12,544.0,4.9,16.0,11.0,4.9,0.22
+322589.json,2026-06-26 10:55:41.629950,Plus,Yoghurt,322589,Zuivelhoeve Boer'n Yoghurt muesli bosvruchten,1.89,11.12,542.0,4.9,16.0,11.0,4.7,0.22
+322821.json,2026-06-26 10:55:41.635707,Plus,Yoghurt,322821,Arla Lactofree halfvolle yoghurt,2.49,2.49,179.0,1.5,2.2,2.2,4.3,0.09
+322946.json,2026-06-26 10:55:41.641554,Plus,Yoghurt,322946,Optimel Yoghurt Griekse stijl kers 0% vet,2.49,5.53,228.0,0.0,4.6,3.9,7.5,0.09
+322966.json,2026-06-26 10:55:41.647761,Plus,Yoghurt,322966,Elinas Griekse stijl yoghurt aardbei 4-pack,2.29,3.82,561.0,7.4,13.7,13.2,2.7,0.1
+367573.json,2026-06-26 10:55:41.653413,Plus,Yoghurt,367573,Melkunie Breaker vanille Yoghurt,1.59,7.95,376.0,3.1,12.0,10.0,3.2,0.1
+375211.json,2026-06-26 10:55:41.659097,Plus,Yoghurt,375211,Alpro Plantaardige Variatie Yoghurt Perzik,2.69,5.38,290.0,2.0,8.3,8.2,3.6,0.17
+393151.json,2026-06-26 10:55:41.665585,Plus,Yoghurt,393151,Arla Bio milde halfvolle yoghurt,1.99,1.99,214.0,1.6,4.5,4.5,3.9,0.13
+402691.json,2026-06-26 10:55:41.671337,Plus,Yoghurt,402691,Melkan Griekse yoghurt 5% lactose vrij,1.99,3.98,323.0,5.0,4.6,4.6,3.5,0.1
+421425.json,2026-06-26 10:55:41.677495,Plus,Yoghurt,421425,Alpro Variatie Yoghurt Zonder Suikers,2.49,4.98,179.0,2.3,0.0,0.0,4.0,0.24
+421427.json,2026-06-26 10:55:41.684878,Plus,Yoghurt,421427,Alpro Plantaardige Variatie Yoghurt Aardbei,2.29,4.58,288.0,2.1,8.1,7.9,3.6,0.23
+425328.json,2026-06-26 10:55:41.691712,Plus,Yoghurt,425328,"Campina High Protein Greek 1,5%",3.69,3.69,313.0,1.5,4.0,4.0,10.0,0.1
+425330.json,2026-06-26 10:55:41.698107,Plus,Yoghurt,425330,Campina High Protein Greek 5%,3.79,3.79,441.0,5.1,4.2,4.2,9.5,0.1
+426304.json,2026-06-26 10:55:41.703732,Plus,Yoghurt,426304,Zuivelhoeve Boer'n Yoghurt Muesli Mango Passie,1.89,11.12,565.0,5.0,17.0,12.0,4.9,0.23
+428538.json,2026-06-26 10:55:41.709827,Plus,Yoghurt,428538,Arla Skyr naturel yoghurt 0% vet XL,3.99,3.99,255.0,0.0,4.0,4.0,10.0,0.14
+45377.json,2026-06-26 10:55:41.715697,Plus,Yoghurt,45377,Optimel Yoghurt vanille 0% vet,2.49,2.49,147.0,0.0,4.3,3.2,3.3,0.12
+458905.json,2026-06-26 10:55:41.721983,Plus,Yoghurt,458905,Melkan Turkse stijl yoghurt 8% vet,2.39,2.39,475.0,8.1,5.8,5.8,4.5,0.01
+458975.json,2026-06-26 10:55:41.728037,Plus,Yoghurt,458975,Arla Bio skyr naturel yoghurt,2.59,5.76,269.0,0.0,4.0,4.0,11.0,0.14
+463192.json,2026-06-26 10:55:41.734245,Plus,Yoghurt,463192,Arla Skyr Aardbei,1.59,7.95,,,,,,
+463194.json,2026-06-26 10:55:41.740672,Plus,Yoghurt,463194,Arla Skyr Naturel,1.49,7.45,255.0,0.0,4.0,4.0,10.0,0.14
+463196.json,2026-06-26 10:55:41.746798,Plus,Yoghurt,463196,Arla Skyr Vanille,1.59,7.95,301.0,0.0,8.3,7.5,8.6,0.12
+477265.json,2026-06-26 10:55:41.752993,Plus,Yoghurt,477265,Biologisch PLUS Biogarde roeryoghurt 3.5%,1.59,3.18,271.0,3.5,4.3,4.3,4.0,0.1
+477267.json,2026-06-26 10:55:41.759356,Plus,Yoghurt,477267,"Biologisch PLUS Biogarde stand yoghurt 1,5%",1.49,2.98,197.0,1.5,4.3,4.3,4.0,0.1
+478541.json,2026-06-26 10:55:41.765328,Plus,Yoghurt,478541,XXL Fit Yoghurt Granola Mango,1.99,9.95,358.0,1.5,7.6,4.5,10.0,0.11
+478543.json,2026-06-26 10:55:41.771067,Plus,Yoghurt,478543,Danone Skyr Naturel 0% vet,3.29,4.11,216.0,0.1,3.4,3.4,9.0,0.09
+478545.json,2026-06-26 10:55:41.776470,Plus,Yoghurt,478545,Activia Vezels Haver Walnoot,3.19,6.38,410.0,3.1,12.4,11.0,3.9,0.1
+484593.json,2026-06-26 10:55:41.781897,Plus,Yoghurt,484593,Melkan Yoghurt Griekse Stijl 10% 1000GR,1.79,1.79,467.0,10.0,2.2,2.2,3.5,0.1
+523130.json,2026-06-26 10:55:41.788313,Plus,Yoghurt,523130,Isey Skyr Aardbei - Witte Chocola,2.99,7.48,354.0,3.7,4.3,3.7,8.5,0.09
+525799.json,2026-06-26 10:55:41.794490,Plus,Yoghurt,525799,Melkan Vanilleyoghurt,1.49,1.49,324.0,1.6,12.0,11.0,3.0,0.107
+527497.json,2026-06-26 10:55:41.800599,Plus,Yoghurt,527497,Melkan yoghurt Griekse stijl 2%,1.95,1.95,241.0,2.0,4.7,4.7,5.1,0.11
+531567.json,2026-06-26 10:55:41.806614,Plus,Yoghurt,531567,Melkunie Breaker Stracciatella Yoghurt,1.69,8.45,422.0,4.0,12.0,11.0,3.2,0.09
+546902.json,2026-06-26 10:55:41.812400,Plus,Yoghurt,546902,Melkan Magere vruchtenyoghurt bosvruchten,1.59,1.59,260.0,0.08,12.0,10.5,3.0,0.09
+546911.json,2026-06-26 10:55:41.818875,Plus,Yoghurt,546911,Melkan Magere vruchtenyoghurt perzik,1.45,1.45,261.0,0.06,11.9,10.6,2.97,0.09
+546923.json,2026-06-26 10:55:41.825329,Plus,Yoghurt,546923,Melkan Magere vruchtenyoghurt aardbei,1.49,1.49,259.0,0.08,11.9,10.5,3.0,0.09
+560253.json,2026-06-26 10:55:41.831626,Plus,Yoghurt,560253,Isey Skyr Air Stracciatella 125g,1.69,13.52,308.0,2.9,3.4,2.7,8.4,0.13
+570027.json,2026-06-26 10:55:41.837822,Plus,Yoghurt,570027,Melkunie Breaker cheesecake framboos Yoghurt,1.69,8.45,374.0,3.0,11.0,10.0,3.2,0.1
+579012.json,2026-06-26 10:55:41.844126,Plus,Yoghurt,579012,Zuivelmeester Magere yoghurt,0.85,0.85,170.0,0.1,4.0,4.0,3.9,0.11
+586654.json,2026-06-26 10:55:41.850471,Plus,Yoghurt,586654,Den Eelder Boeren milde halfvolle yoghurt,1.89,1.89,210.0,1.5,4.5,4.5,3.5,0.1
+618251.json,2026-06-26 10:55:41.856387,Plus,Yoghurt,618251,Zuivelhoeve Boer'n Yoghurt Vanille,2.99,3.99,390.0,3.5,11.0,11.0,4.3,0.15
+640050.json,2026-06-26 10:55:41.862182,Plus,Yoghurt,640050,Almhof Roomyoghurt aardbei,2.59,5.18,576.0,8.1,12.7,12.1,2.7,0.09
+640059.json,2026-06-26 10:55:41.868699,Plus,Yoghurt,640059,Almhof Roomyoghurt maracuja-perzik,2.59,5.18,590.0,8.2,13.5,12.9,2.7,0.09
+640230.json,2026-06-26 10:55:41.875361,Plus,Yoghurt,640230,Activia Yoghurt Aardbei,2.99,0.75,372.0,2.8,12.0,11.7,3.7,0.13
+640239.json,2026-06-26 10:55:41.882083,Plus,Yoghurt,640239,Optimel Yoghurt bosvruchten 0% vet,2.49,2.49,158.0,0.0,4.8,3.6,3.4,0.12
+647156.json,2026-06-26 10:55:41.888262,Plus,Yoghurt,647156,Arla Lactofree volle yoghurt,2.29,2.29,227.0,3.1,1.8,1.8,4.1,0.09
+647905.json,2026-06-26 10:55:41.894318,Plus,Yoghurt,647905,Isey Skyr Blueberry Pie,2.99,7.48,263.0,0.3,5.2,4.3,9.6,0.14
+648951.json,2026-06-26 10:55:41.900955,Plus,Yoghurt,648951,Den Eelder Boeren vanilleyoghurt,2.35,2.35,350.0,3.6,13.0,13.0,3.3,0.1
+648955.json,2026-06-26 10:55:41.907207,Plus,Yoghurt,648955,Den Eelder Boeren volle yoghurt,2.19,2.19,250.0,4.0,4.0,3.9,3.5,0.1
+648959.json,2026-06-26 10:55:41.914250,Plus,Yoghurt,648959,Den Eelder Geitenyoghurt,1.89,3.78,263.0,3.9,3.5,2.2,3.4,0.1
+655017.json,2026-06-26 10:55:41.920338,Plus,Yoghurt,655017,Activia Yoghurt Pruim,2.89,0.72,414.0,3.4,12.9,12.0,3.4,0.1
+668670.json,2026-06-26 10:55:41.926376,Plus,Yoghurt,668670,Melkan Skyr ijslandse yoghurt,1.59,3.18,262.0,0.2,4.0,4.0,11.0,0.1
+668816.json,2026-06-26 10:55:41.933248,Plus,Yoghurt,668816,Melkan Skyr vanille,1.89,3.78,308.0,0.18,8.27,7.64,9.46,0.09
+670730.json,2026-06-26 10:55:41.939865,Plus,Yoghurt,670730,Isey Skyr Framboos Granaatappel,1.89,13.50,314.0,2.2,4.3,3.8,9.4,0.14
+670732.json,2026-06-26 10:55:41.946332,Plus,Yoghurt,670732,Isey Skyr Mandarin pie,1.99,14.21,300.0,2.1,4.1,3.6,8.9,0.14
+700192.json,2026-06-26 10:55:41.952302,Plus,Yoghurt,700192,Activia Yoghurt Granen,2.99,0.75,379.0,2.9,11.3,10.5,3.9,0.1
+726914.json,2026-06-26 10:55:41.958333,Plus,Yoghurt,726914,Arla Skyr naturel yoghurt 0% vet,1.99,4.42,255.0,0.0,4.0,4.0,10.0,0.14
+740366.json,2026-06-26 10:55:41.964221,Plus,Yoghurt,740366,Zuivelmeester Halfvolle Yoghurt,0.95,0.95,233.0,1.6,4.6,4.6,4.6,0.12
+753056.json,2026-06-26 10:55:41.970317,Plus,Yoghurt,753056,Pur Natur Biologische yoghurt natuur,3.69,3.69,260.0,3.0,4.5,4.5,4.4,0.13
+753058.json,2026-06-26 10:55:41.976191,Plus,Yoghurt,753058,Pur Natur Biologische yoghurt natuur,2.19,4.38,303.0,3.8,5.1,5.1,4.3,0.13
+766784.json,2026-06-26 10:55:41.981821,Plus,Yoghurt,766784,Arla Skyr vanille yoghurt 0% vet,2.19,4.87,301.0,0.0,8.3,7.5,8.6,0.12
+766833.json,2026-06-26 10:55:41.987525,Plus,Yoghurt,766833,Melkunie Protein kwark aardbei,1.59,7.95,305.0,0.2,6.6,6.3,10.0,0.12
+768800.json,2026-06-26 10:55:41.993556,Plus,Yoghurt,768800,Arla Bio volle yoghurt,1.99,1.99,251.0,3.0,3.9,3.8,3.4,0.11
+772765.json,2026-06-26 10:55:41.999428,Plus,Yoghurt,772765,Melkan Griekse stijl yoghurt 10% vet,1.69,3.38,492.0,10.0,4.2,4.2,3.0,0.1
+796320.json,2026-06-26 10:55:42.005440,Plus,Yoghurt,796320,Campina High Protein Griekse Stijl Yogh 5%,2.19,4.87,414.0,5.0,3.3,3.3,9.3,0.07
+796324.json,2026-06-26 10:55:42.011450,Plus,Yoghurt,796324,"Campina High Protein Griekse Stijl Yogh 1,5%",2.09,4.64,299.0,1.5,3.4,3.4,10.0,0.07
+796326.json,2026-06-26 10:55:42.017115,Plus,Yoghurt,796326,Campina Extra Proteine Volle Yoghurt,2.29,2.29,309.0,3.0,5.1,5.1,5.5,0.15
+796328.json,2026-06-26 10:55:42.023067,Plus,Yoghurt,796328,Campina Extra Proteine Halfvolle Yoghurt,1.99,1.99,259.0,1.5,5.1,5.1,5.5,0.15
+796330.json,2026-06-26 10:55:42.029231,Plus,Yoghurt,796330,Campina Extra Proteine Magere Yoghurt,1.99,1.99,205.0,0.1,5.0,5.0,5.5,0.15
+796332.json,2026-06-26 10:55:42.035247,Plus,Yoghurt,796332,Optimel Yoghurt vezels Mango Kiwi Banaan,2.49,5.53,235.0,0.0,6.0,3.8,4.5,0.18
+796334.json,2026-06-26 10:55:42.041170,Plus,Yoghurt,796334,Optimel Yoghurt vezels Aardbei Bosbes,2.49,5.53,235.0,0.0,6.0,3.5,4.5,0.2
+796346.json,2026-06-26 10:55:42.046905,Plus,Yoghurt,796346,Almhof Roomyoghurt Meloen Limited,2.59,5.18,582.0,8.0,13.4,12.8,2.7,0.1
+796362.json,2026-06-26 10:55:42.052513,Plus,Yoghurt,796362,XXL Fit Yoghurt Strawberry,3.99,5.32,258.0,0.9,3.2,2.8,10.0,0.11
+796366.json,2026-06-26 10:55:42.058273,Plus,Yoghurt,796366,XXL Fit Yoghurt Mango,3.99,5.32,264.0,0.9,3.5,3.1,10.0,0.11
+796370.json,2026-06-26 10:55:42.064298,Plus,Yoghurt,796370,Melkan Yoghurt Griekse stijl 0%,1.69,3.38,175.0,0.1,4.9,4.9,5.2,0.11
+802504.json,2026-06-26 10:55:42.070220,Plus,Yoghurt,802504,Optimel Yoghurt Proteïne Perzik,2.49,5.53,231.0,0.0,4.0,3.7,8.5,0.13
+802506.json,2026-06-26 10:55:42.076427,Plus,Yoghurt,802506,Optimel Yoghurt Proteïne bosbes vanille,2.49,5.53,221.0,0.0,3.7,3.5,8.7,0.14
+804301.json,2026-06-26 10:55:42.082272,Plus,Yoghurt,804301,Danio Duo karamelsaus,0.99,8.39,548.0,5.4,18.1,17.3,2.4,0.28
+807204.json,2026-06-26 10:55:42.088099,Plus,Yoghurt,807204,Melkunie Melkunie Breaker Zero Peach,1.69,8.45,265.0,3.0,6.8,4.0,3.2,0.1
+809299.json,2026-06-26 10:55:42.094411,Plus,Yoghurt,809299,Melkunie Breaker Kers Zonnebloempitten Yoghurt,1.59,7.95,404.0,4.0,11.0,9.2,3.6,0.11
+810594.json,2026-06-26 10:55:42.100300,Plus,Yoghurt,810594,Danio Duo chocolade balletjes,0.99,9.90,613.0,7.8,15.7,14.1,3.3,0.14
+811402.json,2026-06-26 10:55:42.106035,Plus,Yoghurt,811402,Danone Skyr Vanille,2.19,4.87,297.0,0.1,9.2,8.6,8.0,0.1
+811404.json,2026-06-26 10:55:42.111799,Plus,Yoghurt,811404,Danone Skyr Naturel,1.99,4.42,216.0,0.1,3.4,3.4,9.0,0.09
+811497.json,2026-06-26 10:55:42.117634,Plus,Yoghurt,811497,Melkan Skyr naturel,2.97,2.97,267.0,0.0,4.7,4.7,11.0,0.11
+811499.json,2026-06-26 10:55:42.123502,Plus,Yoghurt,811499,Melkan roomyoghurt stracciatella,2.39,2.39,439.0,5.3,10.8,10.8,3.4,0.12
+811501.json,2026-06-26 10:55:42.129519,Plus,Yoghurt,811501,Melkan roomyoghurt aardbei,2.39,2.39,366.0,4.0,9.13,9.13,3.5,0.14
+814805.json,2026-06-26 10:55:42.136143,Plus,Yoghurt,814805,Melkunie Breaker appeltaart Yoghurt,1.69,8.45,379.0,3.1,12.0,11.0,3.2,0.1
+816369.json,2026-06-26 10:55:42.141846,Plus,Yoghurt,816369,Melkunie Breaker zero aardbei Yoghurt,1.69,8.45,268.0,3.0,6.7,3.9,3.2,0.11
+816371.json,2026-06-26 10:55:42.147508,Plus,Yoghurt,816371,Melkunie Breaker zero banaan Yoghurt,1.69,8.45,279.0,3.0,7.3,4.5,3.3,0.11
+816373.json,2026-06-26 10:55:42.153298,Plus,Yoghurt,816373,Melkunie Breaker Yoghurt Lemon Cheesecake,1.79,8.95,277.0,3.1,6.8,4.2,3.3,0.19
+816377.json,2026-06-26 10:55:42.158870,Plus,Yoghurt,816377,XXL Fit Yoghurt granola vanille,1.99,9.95,348.0,1.5,7.1,4.0,10.0,0.11
+816379.json,2026-06-26 10:55:42.164605,Plus,Yoghurt,816379,Isey Skyr Air cherry - chocolate,1.69,13.52,343.0,3.1,4.7,4.3,8.7,0.14
+816383.json,2026-06-26 10:55:42.170614,Plus,Yoghurt,816383,Isey Skyr Pouch peach,1.89,13.50,300.0,2.1,4.1,3.7,8.9,0.14
+816896.json,2026-06-26 10:55:42.176538,Plus,Yoghurt,816896,Arla Skyr peach & passionfr 0% vet,2.19,4.87,293.0,0.0,7.8,7.1,8.5,0.12
+816902.json,2026-06-26 10:55:42.182300,Plus,Yoghurt,816902,Melkan Griekse stijl passievrucht,2.45,2.45,608.0,8.2,14.0,10.5,2.9,0.12
+816904.json,2026-06-26 10:55:42.188399,Plus,Yoghurt,816904,Melkan Griekse stijl aardbei,2.45,2.45,608.0,8.3,13.8,10.6,2.9,0.11
+831088.json,2026-06-26 10:55:42.194495,Plus,Yoghurt,831088,Almhof Halfvolle fruityoghurt perzik,2.49,4.98,375.0,1.3,13.7,13.1,4.6,0.16
+831093.json,2026-06-26 10:55:42.201008,Plus,Yoghurt,831093,Almhof Roomyoghurt walnoot-Griekse honing,2.59,5.18,615.0,8.8,13.4,12.6,2.9,0.1
+840217.json,2026-06-26 10:55:42.206666,Plus,Yoghurt,840217,Activia Yoghurt Naturel,2.39,0.60,276.0,3.5,4.7,4.7,3.9,0.1
+842589.json,2026-06-26 10:55:42.212548,Plus,Yoghurt,842589,Elinas Griekse stijl yoghurt honing 4-pack,2.29,3.82,612.0,7.5,16.5,16.2,2.7,0.1
+842636.json,2026-06-26 10:55:42.218606,Plus,Yoghurt,842636,Alpro Plantaardige Variatie Yoghurt Naturel,2.39,4.78,216.0,2.3,2.3,2.2,4.0,0.24
+845965.json,2026-06-26 10:55:42.224918,Plus,Yoghurt,845965,Activia Yoghurt Muesli Naturel,2.89,0.72,392.0,2.9,12.0,10.7,3.9,0.1
+869443.json,2026-06-26 10:55:42.230696,Plus,Yoghurt,869443,Almhof Halfvolle fruityoghurt kers,2.19,4.38,369.0,1.3,13.4,12.6,4.6,0.16
+869493.json,2026-06-26 10:55:42.236210,Plus,Yoghurt,869493,Zuivelmeester Roeryoghurt,0.78,1.56,242.0,1.5,5.9,5.9,4.6,0.17
+869523.json,2026-06-26 10:55:42.242750,Plus,Yoghurt,869523,Alpro Plantaardige Variatie Yoghurt Vanille,2.79,5.58,279.0,2.2,7.5,7.5,3.7,0.2
+890883.json,2026-06-26 10:55:42.249016,Plus,Yoghurt,890883,Almhof Roomyoghurt stracciatella,2.59,5.18,646.0,10.0,12.3,11.7,2.9,0.1
+898358.json,2026-06-26 10:55:42.254596,Plus,Yoghurt,898358,Alpro Plantaardige Variatie Yoghurt Bosbes,2.69,5.38,288.0,2.1,8.1,7.9,3.7,0.16
+916843.json,2026-06-26 10:55:42.260861,Plus,Yoghurt,916843,Isey Skyr Lemon cheesecake,1.89,11.12,251.0,0.2,4.8,3.8,9.5,0.2
+918405.json,2026-06-26 10:55:42.266706,Plus,Yoghurt,918405,XXL Fit Fit duo pudding karamel,1.89,9.45,363.0,0.9,8.7,6.4,10.0,0.16
+935812.json,2026-06-26 10:55:42.272518,Plus,Yoghurt,935812,XXL Fit Yoghurt granola aardbei,1.99,9.95,353.0,1.5,7.4,4.2,10.0,0.11
+947687.json,2026-06-26 10:55:42.278223,Plus,Yoghurt,947687,Melkan Soja yoghurt bosbes,1.89,3.78,341.0,2.1,11.5,11.0,3.7,0.08
+947689.json,2026-06-26 10:55:42.284225,Plus,Yoghurt,947689,Melkan Soja yoghurt original,0.78,1.56,180.0,2.3,0.34,0.34,4.7,0.08
+957334.json,2026-06-26 10:55:42.290333,Plus,Yoghurt,957334,Melkan Plantaardige kokosyoghurt,1.59,3.98,338.0,6.3,4.9,0.6,0.6,0.035
+957991.json,2026-06-26 10:55:42.296832,Plus,Yoghurt,957991,Isey Skyr Mango Matcha,1.89,11.12,314.0,2.2,4.3,4.0,9.3,0.15
+958020.json,2026-06-26 10:55:42.302666,Plus,Yoghurt,958020,Dodoni Griekse yoghurt 10%,2.99,5.98,,,,,,
+965090.json,2026-06-26 10:55:42.308474,Plus,Yoghurt,965090,Melkan Protein pouch vanille,1.49,7.45,293.0,0.2,4.8,3.3,12.0,0.11
+965092.json,2026-06-26 10:55:42.314473,Plus,Yoghurt,965092,Melkan Protein pouch aarbei,1.49,7.45,306.0,0.1,5.2,3.56,12.0,0.11
+984283.json,2026-06-26 10:55:42.320465,Plus,Yoghurt,984283,Almhof Roomyoghurt Spaanse sinaasappel,2.59,5.18,578.0,8.1,12.4,11.7,2.7,0.1
+997576.json,2026-06-26 10:55:42.326416,Plus,Yoghurt,997576,Almhof 0% vet yoghurt Aardbei,1.95,3.90,284.0,0.0,11.4,10.8,4.4,0.12
+997578.json,2026-06-26 10:55:42.332117,Plus,Yoghurt,997578,Almhof 0% vet yoghurt Perzik Maracuja,1.95,3.90,285.0,0.0,11.4,10.8,4.4,0.12

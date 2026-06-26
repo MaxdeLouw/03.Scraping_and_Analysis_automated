@@ -6,27 +6,51 @@ PLUS + JUMBO YOGHURT REPORT
 
 This query returned 5 rows.
 
-Source_File Date_Added Supermarket Product_Category  Product_ID                    Product_Name   Brand  Product_Price  Price_Per_Unit  Weight_g  Price_Per_kg  Energy_kcal_100_g  Fats_In_Product_g  Carbs_In_Product_g  Sugars_In_Product_g  Protein_In_Product_g  Salt_In_Product_g
-154058.json 2026-06-25        PLUS          Yoghurt      154058     Melkan_Yoghurt_snack_banaan  Melkan            1.5             7.4     200.0           7.5               96.8                6.6                26.4                 22.6                   6.8                0.3
-155099.json 2026-06-25        PLUS          Yoghurt      155099 Campina_Halfvolle_milde_yoghurt Campina            1.9             1.9    1000.0           1.9               49.2               15.0                38.0                 38.0                  40.0                1.1
-155129.json 2026-06-25        PLUS          Yoghurt      155129          Campina_Magere_yoghurt Campina            1.7             1.7    1000.0           1.7               38.5                0.0                37.0                 37.0                  44.0                1.2
-155170.json 2026-06-25        PLUS          Yoghurt      155170         Campina_Vanille_yoghurt Campina            2.0             2.0    1000.0           2.0               75.8               16.0               110.0                100.0                  31.0                0.9
-155323.json 2026-06-25        PLUS          Yoghurt      155323           Campina_Volle_yoghurt Campina            2.0             2.0    1000.0           2.0               62.6               31.0                37.0                 37.0                  39.0                1.1
+                                     Source_File Date_Added Supermarket Product_Category Product_ID                      Product_Name   Brand  Product_Price  Price_Per_Unit  Weight_g  Price_Per_kg  Energy_kcal_100_g  Fats_In_Product_g  Carbs_In_Product_g  Sugars_In_Product_g  Protein_In_Product_g  Salt_In_Product_g
+activia-yoghurt-aardbei-4-x-125-g-228598STK.html 2026-06-26       Jumbo          Yoghurt  228598STK Activia_Yoghurt_Aardbei_4_x_125_g Activia            3.0             6.0     500.0           6.0               88.9               14.0                60.0                 58.5                  18.5                0.6
+ activia-yoghurt-granen-4-x-125-g-302972STK.html 2026-06-26       Jumbo          Yoghurt  302972STK  Activia_Yoghurt_Granen_4_x_125_g Activia            3.0             6.0     500.0           6.0               90.6               14.5                56.5                 52.5                  19.5                0.5
+ activia-yoghurt-muesli-4-x-125-g-302975STK.html 2026-06-26       Jumbo          Yoghurt  302975STK  Activia_Yoghurt_Muesli_4_x_125_g Activia            2.9             5.8     500.0           5.8               93.7               14.5                60.0                 53.5                  19.5                0.5
+activia-yoghurt-naturel-4-x-125-g-491422TUB.html 2026-06-26       Jumbo          Yoghurt  491422TUB Activia_Yoghurt_Naturel_4_x_125_g Activia            2.4             4.8     500.0           4.8               66.0               17.5                23.5                 23.5                  19.5                0.5
+  activia-yoghurt-pruim-4-x-125-g-709840PAK.html 2026-06-26       Jumbo          Yoghurt  709840PAK   Activia_Yoghurt_Pruim_4_x_125_g Activia            2.9             5.8     500.0           5.8               98.9               17.0                64.5                 60.0                  17.0                0.5
 
 02. Check items per supermarket
 -------------------------------
 
-This query returned 1 rows.
+This query returned 2 rows.
 
 Supermarket  product_count
        PLUS            163
+      Jumbo            150
 
 03. Check biggest brands per supermarket
 ----------------------------------------
 
-This query returned 22 rows.
+This query returned 45 rows.
 
 Supermarket         Brand  product_count
+      Jumbo          Ísey             20
+      Jumbo      Melkunie             17
+      Jumbo       Campina             15
+      Jumbo        Almhof             15
+      Jumbo          Arla             14
+      Jumbo         Alpro             11
+      Jumbo         Jumbo              9
+      Jumbo   Zuivelhoeve              7
+      Jumbo       Optimel              7
+      Jumbo         HiPRO              6
+      Jumbo       Activia              6
+      Jumbo        Dodoni              5
+      Jumbo     Danoontje              3
+      Jumbo           den              2
+      Jumbo           XXL              2
+      Jumbo     Halfvolle              2
+      Jumbo           Den              2
+      Jumbo        Danone              2
+      Jumbo         Volle              1
+      Jumbo           Pur              1
+      Jumbo        Magere              1
+      Jumbo      Katharos              1
+      Jumbo          Isey              1
        PLUS        Melkan             26
        PLUS        Almhof             17
        PLUS      Melkunie             15
@@ -53,9 +77,10 @@ Supermarket         Brand  product_count
 04. Check for empty columns
 ---------------------------
 
-This query returned 1 rows.
+This query returned 2 rows.
 
 Supermarket  total_products  products_with_price  products_with_unit_price  products_with_weight  products_with_energy  products_with_protein
+      Jumbo             150                  150                       150                   150                   150                    143
        PLUS             163                  163                       163                   163                   163                    163
 
 05. Look for the most expensive products
@@ -63,24 +88,24 @@ Supermarket  total_products  products_with_price  products_with_unit_price  prod
 
 This query returned 5 rows.
 
-Supermarket Brand                     Product_Name  Product_Price  Price_Per_kg  Weight_g
-       PLUS  Isey           Isey_Skyr_Mandarin_pie            2.0          14.3     140.0
-       PLUS  Isey Isey_Skyr_Air_Stracciatella_125g            1.7          13.6     125.0
-       PLUS  Isey  Isey_Skyr_Framboos_Granaatappel            1.9          13.6     140.0
-       PLUS  Isey Isey_Skyr_Air_cherry_-_chocolate            1.7          13.6     125.0
-       PLUS  Isey            Isey_Skyr_Pouch_peach            1.9          13.6     140.0
+Supermarket     Brand                                       Product_Name  Product_Price  Price_Per_kg  Weight_g
+      Jumbo Danoontje        Danoontje_Yoghurt_Tussendoortje_Aardbei_70g            1.0          14.3      70.0
+      Jumbo Danoontje Danoontje_Yoghurt_Tussendoortje_Appel_Aardbei_70_g            1.0          14.3      70.0
+      Jumbo Danoontje         Danoontje_Yoghurt_Tussendoortje_Banaan_70g            1.0          14.3      70.0
+       PLUS      Isey                             Isey_Skyr_Mandarin_pie            2.0          14.3     140.0
+      Jumbo      Ísey              Ísey_Skyr_Air_Chocolate-Coconut_125_g            1.7          13.6     125.0
 
 06. The most expensive brands
 -----------------------------
 
 This query returned 5 rows.
 
-      Brand  Average_kg_Price
-       Isey              12.0
-Zuivelhoeve               9.0
-     Nestlé               9.0
-     Dodoni               9.0
-        XXL               8.0
+    Brand  Average_kg_Price
+Danoontje              14.0
+     Ísey              12.0
+     Isey              12.0
+      XXL               9.0
+   Nestlé               9.0
 
 07. Cheapest Products
 ---------------------
@@ -88,49 +113,74 @@ Zuivelhoeve               9.0
 This query returned 5 rows.
 
 Supermarket         Brand                    Product_Name  Product_Price  Price_Per_kg  Weight_g
+      Jumbo        Magere              Magere_yoghurt_1_L            0.8           0.8    1000.0
        PLUS Zuivelmeester    Zuivelmeester_Magere_yoghurt            0.8           0.8    1000.0
+      Jumbo     Halfvolle           Halfvolle_Yoghurt_1_L            1.0           1.0    1000.0
        PLUS Zuivelmeester Zuivelmeester_Halfvolle_Yoghurt            1.0           1.0    1000.0
        PLUS         Danio   Danio_Duo_chocolade_balletjes            1.0           1.0    1000.0
-       PLUS Zuivelmeester     Zuivelmeester_Volle_yoghurt            1.4           1.4    1000.0
-       PLUS          PLUS             PLUS_Magere_yoghurt            1.4           1.4    1000.0
 
 08. Checking number of house brand products compared to others
 --------------------------------------------------------------
 
-This query returned 2 rows.
+This query returned 4 rows.
 
 Supermarket  brand_type  product_count  Average_Unit_Price
+      Jumbo House Brand             13            2.261538
+      Jumbo Other Brand            137            6.723358
        PLUS House Brand              9            2.633333
        PLUS Other Brand            154            5.526623
 
 09. Checking prices of same brands at both supermarkets
 -------------------------------------------------------
 
-This query returned 22 rows.
+This query returned 45 rows.
 
 Supermarket         Brand  product_count  AVG(Price_Per_kg)
+      Jumbo       Activia              6           5.533333
        PLUS       Activia              6           6.966667
+      Jumbo        Almhof             15           5.840000
        PLUS        Almhof             17           5.764706
+      Jumbo         Alpro             11           4.990909
        PLUS         Alpro              6           5.133333
+      Jumbo          Arla             14           4.050000
        PLUS          Arla             14           4.450000
        PLUS          BIO+              2           3.200000
        PLUS    Biologisch              5           2.220000
+      Jumbo       Campina             15           2.860000
        PLUS       Campina             15           2.860000
        PLUS         Danio              2           4.750000
+      Jumbo        Danone              2           9.950000
        PLUS        Danone              3           4.466667
+      Jumbo     Danoontje              3          14.300000
+      Jumbo           Den              2           2.850000
        PLUS           Den              4           2.575000
+      Jumbo        Dodoni              5           6.560000
        PLUS        Dodoni              1           8.800000
        PLUS        Elinas              2           3.800000
+      Jumbo     Halfvolle              2           1.250000
+      Jumbo         HiPRO              6           8.866667
+      Jumbo          Isey              1          11.100000
        PLUS          Isey             10          11.730000
+      Jumbo         Jumbo              9           2.744444
+      Jumbo      Katharos              1           4.000000
+      Jumbo        Magere              1           0.800000
        PLUS        Melkan             26           3.561538
+      Jumbo      Melkunie             17           7.823529
        PLUS      Melkunie             15           8.400000
        PLUS        Nestlé              1           8.700000
+      Jumbo       Optimel              7           3.428571
        PLUS       Optimel             10           4.370000
        PLUS          PLUS              4           3.150000
+      Jumbo           Pur              1           3.700000
        PLUS           Pur              2           4.050000
+      Jumbo         Volle              1           1.400000
+      Jumbo           XXL              2          10.000000
        PLUS           XXL              6           8.350000
+      Jumbo   Zuivelhoeve              7           8.114286
        PLUS   Zuivelhoeve              8           8.500000
        PLUS Zuivelmeester              4           1.200000
+      Jumbo           den              2           2.300000
+      Jumbo          Ísey             20          11.705000
 
 10. Best price for protein
 --------------------------
@@ -138,11 +188,11 @@ Supermarket         Brand  product_count  AVG(Price_Per_kg)
 This query returned 5 rows.
 
 Supermarket         Brand                    Product_Name  Weight_g  Product_Price  Protein_In_Product_g  Protein_per_Euro
+      Jumbo        Magere              Magere_yoghurt_1_L    1000.0            0.8                  48.0             60.00
        PLUS Zuivelmeester    Zuivelmeester_Magere_yoghurt    1000.0            0.8                  39.0             48.75
+      Jumbo     Halfvolle           Halfvolle_Yoghurt_1_L    1000.0            1.0                  48.0             48.00
        PLUS Zuivelmeester Zuivelmeester_Halfvolle_Yoghurt    1000.0            1.0                  46.0             46.00
        PLUS        Melkan             Melkan_Skyr_naturel    1000.0            3.0                 110.0             36.67
-       PLUS        Melkan   Melkan_Skyr_ijslandse_yoghurt     500.0            1.6                  55.0             34.38
-       PLUS         Danio   Danio_Duo_chocolade_balletjes    1000.0            1.0                  33.0             33.00
 
 11. Cheapest kcals
 ------------------
@@ -161,34 +211,34 @@ Supermarket         Brand                            Product_Name  Weight_g  Pro
 
 This query returned 5 rows.
 
-Supermarket  Brand                               Product_Name  Sugars_In_Product_g  Weight_g  percentage_sugar  Product_Price
-       PLUS Almhof             Almhof_Hoekje_Venetië_pistache                 26.9     150.1              17.9            1.5
-       PLUS  Danio                      Danio_Duo_karamelsaus                 20.4     118.0              17.3            1.0
-       PLUS Nestlé             Nestlé_Kit_Kat_yoghurt_vanille                 39.6     230.1              17.2            2.0
-       PLUS Elinas Elinas_Griekse_stijl_yoghurt_honing_4-pack                 97.1     599.5              16.2            2.3
-       PLUS Almhof                         Almhof_Hoekje_kers                 21.2     150.1              14.1            1.5
+Supermarket  Brand                                                      Product_Name  Sugars_In_Product_g  Weight_g  percentage_sugar  Product_Price
+      Jumbo Almhof Almhof_Hoekje_Yoghurt_Pistache_Smaak_met_Krokante_Amandelen_150_g                 26.9     150.1              17.9            1.5
+       PLUS Almhof                                    Almhof_Hoekje_Venetië_pistache                 26.9     150.1              17.9            1.5
+      Jumbo Danone                                 Danone_M&M's_Vanilleyoghurt_120_g                 21.1     120.0              17.6            1.3
+       PLUS  Danio                                             Danio_Duo_karamelsaus                 20.4     118.0              17.3            1.0
+       PLUS Nestlé                                    Nestlé_Kit_Kat_yoghurt_vanille                 39.6     230.1              17.2            2.0
 
 13. Sugar lightest
 ------------------
 
 This query returned 5 rows.
 
-Supermarket  Brand                          Product_Name  Sugars_In_Product_g  Weight_g  percentage_sugar  Product_Price
-       PLUS  Alpro Alpro_Variatie_Yoghurt_Zonder_Suikers                  0.0     500.0               0.0            2.5
-       PLUS Melkan          Melkan_Soja_yoghurt_original                  1.7     500.0               0.3            0.8
-       PLUS Melkan      Melkan_Plantaardige_kokosyoghurt                  2.4     399.5               0.6            1.6
-       PLUS   Arla          Arla_Lactofree_volle_yoghurt                 18.0    1000.0               1.8            2.3
-       PLUS   Arla      Arla_Lactofree_halfvolle_yoghurt                 22.0    1000.0               2.2            2.5
+Supermarket  Brand                                                      Product_Name  Sugars_In_Product_g  Weight_g  percentage_sugar  Product_Price
+      Jumbo  Alpro            Alpro_Mild_&_Creamy_No_Sugars_Soyaproduct_Nature_755_g                  0.0     755.1               0.0            3.0
+      Jumbo  Alpro   Alpro_Mild_&_Creamy_Zonder_Suikers_Variatie_Op_Yoghurt_4_x_755g                  0.0    3020.2               0.0           12.0
+      Jumbo  Alpro Alpro_Plantaardige_Variatie_Op_Yoghurt_Naturel_Zonder_Suiker_500g                  0.0     500.0               0.0            2.5
+       PLUS  Alpro                             Alpro_Variatie_Yoghurt_Zonder_Suikers                  0.0     500.0               0.0            2.5
+       PLUS Melkan                                      Melkan_Soja_yoghurt_original                  1.7     500.0               0.3            0.8
 
 14. Highest protein, lowest sugar
 ---------------------------------
 
 This query returned 5 rows.
 
-Supermarket   Brand                        Product_Name  Product_Price  Protein_In_Product_g  Sugars_In_Product_g  protein_g_per_euro
-       PLUS  Melkan                 Melkan_Skyr_naturel            3.0                 110.0                 47.0               36.67
-       PLUS Campina     Campina_High_Protein_Greek_1,5%            3.7                 100.0                 40.0               27.03
-       PLUS    Arla Arla_Skyr_naturel_yoghurt_0%_vet_XL            4.0                 100.0                 40.0               25.00
-       PLUS Campina       Campina_High_Protein_Greek_5%            3.8                  95.0                 42.0               25.00
-       PLUS    Arla Arla_Skyr_vanille_yoghurt_0%_vet_XL            4.2                  86.0                 75.0               20.48
+Supermarket  Brand                                                    Product_Name  Product_Price  Protein_In_Product_g  Sugars_In_Product_g  protein_g_per_euro
+      Jumbo  HiPRO                      HiPRO_Protein_Kwark_Bosvruchten_6_x__200_g           11.9                 148.8                 33.6               12.50
+      Jumbo  HiPRO                            HiPRO_Protein_Kwark_Banaan_6_x_200_g           11.9                 148.8                 39.6               12.50
+      Jumbo  Alpro Alpro_Mild_&_Creamy_Zonder_Suikers_Variatie_Op_Yoghurt_4_x_755g           12.0                 120.8                  0.0               10.07
+       PLUS Melkan                                             Melkan_Skyr_naturel            3.0                 110.0                 47.0               36.67
+      Jumbo   Arla                         Arla_Skyr_Naturel_Yoghurt_0%_vet_XL_1kg            4.0                 100.0                 40.0               25.00
 

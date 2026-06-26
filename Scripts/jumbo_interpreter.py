@@ -120,7 +120,7 @@ def parse_jumbo_folder(input_folder):
 def main():
     project_root = Path(__file__).resolve().parents[1]
 
-    product_folder = project_root / "Data" / "Raw" / "Individual_products"
+    product_folder = project_root / "Data" / "Raw" / "Jumbo" / "Individual_products"
     output_path = project_root / "Data" / "Raw" / "jumbo_product_data.csv"
 
     product_df = parse_jumbo_folder(product_folder)

@@ -17,7 +17,7 @@
               "List": [
                 {
                   "Name": "Deze week in de aanbieding",
-                  "Quantity": "22",
+                  "Quantity": "28",
                   "IsSelected": false,
                   "URL": "&tn_fk_ae-aanbieding-filtering=Deze%20week%20in%20de%20aanbieding"
                 }
@@ -395,17 +395,17 @@
         },
         {
           "PLP_Str": {
-            "SKU": "421427",
-            "Brand": "Alpro",
-            "Name": "Alpro Plantaardige Variatie Yoghurt Aardbei",
-            "Product_Subtitle": "Per 500 g",
-            "Slug": "alpro-plantaardige-variatie-yoghurt-aardbei-beker-500-g-421427",
-            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/421427_M/a1bb006ec19fa5b7b81f954bdef965c2/421427.png",
+            "SKU": "796334",
+            "Brand": "Optimel",
+            "Name": "Optimel Yoghurt vezels Aardbei Bosbes",
+            "Product_Subtitle": "Per 450 g",
+            "Slug": "optimel-yoghurt-vezels-aardbei-bosbes-kuipje-450-g-796334",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/796334_M/73ef2a7cb433c57963035d0b6196b3ef/796334.png",
             "ImageLabel": "",
-            "MetaTitle": "Alpro Plantaardige Variatie Yoghurt Aardbei 500 Gram - PLUS",
-            "MetaDescription": "Bestel Alpro Plantaardige Variatie Yoghurt Aardbei 500 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
-            "OriginalPrice": "2.29",
-            "NewPrice": "0",
+            "MetaTitle": "Optimel Yoghurt vezels Aardbei Bosbes 450 Gram - PLUS",
+            "MetaDescription": "Bestel Optimel Yoghurt vezels Aardbei Bosbes 450 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "OriginalPrice": "2.49",
+            "NewPrice": "0.0",
             "Quantity": 0,
             "LineItemId": "",
             "IsProductOverMajorityAge": false,
@@ -439,7 +439,7 @@
               }
             },
             "EAN": "",
-            "Packging": "Beker",
+            "Packging": "Kuipje",
             "Categories": {
               "List": [
                 {
@@ -454,14 +454,14 @@
               ]
             },
             "IsAvailable": true,
-            "PromotionLabel": "",
+            "PromotionLabel": "GRATIS BEZORGING BIJ 10.00 EURO",
             "PromotionBasedLabel": "",
-            "PromotionStartDate": "1900-01-01",
-            "PromotionEndDate": "1900-01-01",
-            "IsFreeDeliveryOffer": false,
+            "PromotionStartDate": "2026-06-24",
+            "PromotionEndDate": "2026-06-30",
+            "IsFreeDeliveryOffer": true,
             "IsOfflineSaleOnly": false,
             "MaxOrderLimit": 199,
-            "CitrusAdId": "display_gDjhrTggLvqizgOfOyugZ0t_cckKCAoGNDIxNDI3EgAaDAiChJDSBhCTrPeYASICCAE=",
+            "CitrusAdId": "display_iDgGaXG2coIsDRHEdyWcVV82WM0KCAoGNzk2MzM0EgAaCwjZq5PSBhDQ0Mk5IgIIAQ==",
             "IsLocalItem": false
           },
           "BadgeQuantity": 0
@@ -542,17 +542,17 @@
         },
         {
           "PLP_Str": {
-            "SKU": "842636",
-            "Brand": "Alpro",
-            "Name": "Alpro Plantaardige Variatie Yoghurt Naturel",
-            "Product_Subtitle": "Per 500 g",
-            "Slug": "alpro-plantaardige-variatie-yoghurt-naturel-beker-500-g-842636",
-            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/842636_M/a808431192f64e8137e3601db4ed0d19/842636.png",
+            "SKU": "796328",
+            "Brand": "Campina",
+            "Name": "Campina Extra Proteine Halfvolle Yoghurt",
+            "Product_Subtitle": "Per 1000 ml",
+            "Slug": "campina-extra-proteine-halfvolle-yoghurt-pak-1000-ml-796328",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/796328_M/a15ed9efb54ad7b6b9b4548f050877bc/796328.png",
             "ImageLabel": "",
-            "MetaTitle": "Alpro Plantaardige Variatie Yoghurt Naturel 500 Gram - PLUS",
-            "MetaDescription": "Bestel Alpro Plantaardige Variatie Yoghurt Naturel 500 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
-            "OriginalPrice": "2.39",
-            "NewPrice": "0",
+            "MetaTitle": "Campina Extra Proteine Halfvolle Yoghurt 1000 Milliliter - PLUS",
+            "MetaDescription": "Bestel Campina Extra Proteine Halfvolle Yoghurt 1000 Milliliter online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "OriginalPrice": "1.99",
+            "NewPrice": "0.0",
             "Quantity": 0,
             "LineItemId": "",
             "IsProductOverMajorityAge": false,
@@ -586,7 +586,7 @@
               }
             },
             "EAN": "",
-            "Packging": "Beker",
+            "Packging": "Pak",
             "Categories": {
               "List": [
                 {
@@ -601,14 +601,14 @@
               ]
             },
             "IsAvailable": true,
-            "PromotionLabel": "",
+            "PromotionLabel": "GRATIS BEZORGING BIJ 10.00 EURO",
             "PromotionBasedLabel": "",
-            "PromotionStartDate": "1900-01-01",
-            "PromotionEndDate": "1900-01-01",
-            "IsFreeDeliveryOffer": false,
+            "PromotionStartDate": "2026-06-24",
+            "PromotionEndDate": "2026-06-30",
+            "IsFreeDeliveryOffer": true,
             "IsOfflineSaleOnly": false,
             "MaxOrderLimit": 199,
-            "CitrusAdId": "display_qz0OjxRy6-yg4LztpL84i1xPXjkKCAoGODQyNjM2EgAaDAiChJDSBhCVw_iYASICCAE=",
+            "CitrusAdId": "display_6UkNJ21JrO97YvC-GR-g-F1etrAKCAoGNzk2MzI4EgAaCwjZq5PSBhDc6cs5IgIIAQ==",
             "IsLocalItem": false
           },
           "BadgeQuantity": 0
@@ -683,6 +683,79 @@
             "IsOfflineSaleOnly": false,
             "MaxOrderLimit": 199,
             "CitrusAdId": "",
+            "IsLocalItem": false
+          },
+          "BadgeQuantity": 0
+        },
+        {
+          "PLP_Str": {
+            "SKU": "796330",
+            "Brand": "Campina",
+            "Name": "Campina Extra Proteine Magere Yoghurt",
+            "Product_Subtitle": "Per 1000 ml",
+            "Slug": "campina-extra-proteine-magere-yoghurt-pak-1000-ml-796330",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/796330_M/5243ca287a6837330fa5a9459d359b81/796330.png",
+            "ImageLabel": "",
+            "MetaTitle": "Campina Extra Proteine Magere Yoghurt 1000 Milliliter - PLUS",
+            "MetaDescription": "Bestel Campina Extra Proteine Magere Yoghurt 1000 Milliliter online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "OriginalPrice": "1.99",
+            "NewPrice": "0.0",
+            "Quantity": 0,
+            "LineItemId": "",
+            "IsProductOverMajorityAge": false,
+            "Logos": {
+              "PLPInUpperLeft": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPAboveTitle": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPBehindSizeUnit": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              }
+            },
+            "EAN": "",
+            "Packging": "Pak",
+            "Categories": {
+              "List": [
+                {
+                  "Name": "Zuivel, eieren, boter"
+                },
+                {
+                  "Name": "Verse zuivel"
+                },
+                {
+                  "Name": "Yoghurt"
+                }
+              ]
+            },
+            "IsAvailable": true,
+            "PromotionLabel": "GRATIS BEZORGING BIJ 10.00 EURO",
+            "PromotionBasedLabel": "",
+            "PromotionStartDate": "2026-06-24",
+            "PromotionEndDate": "2026-06-30",
+            "IsFreeDeliveryOffer": true,
+            "IsOfflineSaleOnly": false,
+            "MaxOrderLimit": 199,
+            "CitrusAdId": "display_DPFSLUzbzSgy8TOlHUHi07BXPeQKCAoGNzk2MzMwEgAaCwjZq5PSBhDQpMw5IgIIAQ==",
             "IsLocalItem": false
           },
           "BadgeQuantity": 0
@@ -910,79 +983,6 @@
         },
         {
           "PLP_Str": {
-            "SKU": "322356",
-            "Brand": "Melkunie",
-            "Name": "Melkunie Breaker Aardbei Yoghurt",
-            "Product_Subtitle": "Per 200 g",
-            "Slug": "melkunie-breaker-aardbei-yoghurt-stuk-200-g-322356",
-            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/322356_M/74cd3f933edcdcf592fd42458888a6e1/322356.png",
-            "ImageLabel": "",
-            "MetaTitle": "Melkunie Breaker Aardbei Yoghurt 200 Gram - PLUS",
-            "MetaDescription": "Bestel Melkunie Breaker Aardbei Yoghurt 200 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
-            "OriginalPrice": "1.59",
-            "NewPrice": "0",
-            "Quantity": 0,
-            "LineItemId": "",
-            "IsProductOverMajorityAge": false,
-            "Logos": {
-              "PLPInUpperLeft": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              },
-              "PLPAboveTitle": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              },
-              "PLPBehindSizeUnit": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              }
-            },
-            "EAN": "",
-            "Packging": "Stuk",
-            "Categories": {
-              "List": [
-                {
-                  "Name": "Zuivel, eieren, boter"
-                },
-                {
-                  "Name": "Verse zuivel"
-                },
-                {
-                  "Name": "Yoghurt"
-                }
-              ]
-            },
-            "IsAvailable": true,
-            "PromotionLabel": "",
-            "PromotionBasedLabel": "",
-            "PromotionStartDate": "1900-01-01",
-            "PromotionEndDate": "1900-01-01",
-            "IsFreeDeliveryOffer": false,
-            "IsOfflineSaleOnly": false,
-            "MaxOrderLimit": 199,
-            "CitrusAdId": "",
-            "IsLocalItem": false
-          },
-          "BadgeQuantity": 0
-        },
-        {
-          "PLP_Str": {
             "SKU": "155323",
             "Brand": "Campina",
             "Name": "Campina Volle yoghurt",
@@ -1056,16 +1056,16 @@
         },
         {
           "PLP_Str": {
-            "SKU": "185987",
-            "Brand": "Biologisch PLUS",
-            "Name": "Biologisch PLUS Volle yoghurt",
-            "Product_Subtitle": "Per 1000 ml",
-            "Slug": "biologisch-plus-volle-yoghurt-pak-1000-ml-185987",
-            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/185987_M/66e2f8431e519ef065eb7d10f5f89051/185987.png",
+            "SKU": "322356",
+            "Brand": "Melkunie",
+            "Name": "Melkunie Breaker Aardbei Yoghurt",
+            "Product_Subtitle": "Per 200 g",
+            "Slug": "melkunie-breaker-aardbei-yoghurt-stuk-200-g-322356",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/322356_M/74cd3f933edcdcf592fd42458888a6e1/322356.png",
             "ImageLabel": "",
-            "MetaTitle": "Biologisch PLUS Volle yoghurt 1000 Milliliter - PLUS",
-            "MetaDescription": "Bestel Biologisch PLUS Volle yoghurt 1000 Milliliter online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
-            "OriginalPrice": "1.79",
+            "MetaTitle": "Melkunie Breaker Aardbei Yoghurt 200 Gram - PLUS",
+            "MetaDescription": "Bestel Melkunie Breaker Aardbei Yoghurt 200 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "OriginalPrice": "1.59",
             "NewPrice": "0",
             "Quantity": 0,
             "LineItemId": "",
@@ -1100,7 +1100,7 @@
               }
             },
             "EAN": "",
-            "Packging": "Pak",
+            "Packging": "Stuk",
             "Categories": {
               "List": [
                 {
@@ -1129,16 +1129,16 @@
         },
         {
           "PLP_Str": {
-            "SKU": "155099",
-            "Brand": "Campina",
-            "Name": "Campina Halfvolle milde yoghurt",
+            "SKU": "185987",
+            "Brand": "Biologisch PLUS",
+            "Name": "Biologisch PLUS Volle yoghurt",
             "Product_Subtitle": "Per 1000 ml",
-            "Slug": "campina-halfvolle-milde-yoghurt-pak-1000-ml-155099",
-            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/155099_M/79218df89d8ad8c37ff39b87da342dc4/155099.png",
+            "Slug": "biologisch-plus-volle-yoghurt-pak-1000-ml-185987",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/185987_M/66e2f8431e519ef065eb7d10f5f89051/185987.png",
             "ImageLabel": "",
-            "MetaTitle": "Campina Halfvolle milde yoghurt 1000 Milliliter - PLUS",
-            "MetaDescription": "Bestel Campina Halfvolle milde yoghurt 1000 Milliliter online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
-            "OriginalPrice": "1.89",
+            "MetaTitle": "Biologisch PLUS Volle yoghurt 1000 Milliliter - PLUS",
+            "MetaDescription": "Bestel Biologisch PLUS Volle yoghurt 1000 Milliliter online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "OriginalPrice": "1.79",
             "NewPrice": "0",
             "Quantity": 0,
             "LineItemId": "",

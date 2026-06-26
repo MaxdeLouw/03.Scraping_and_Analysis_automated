@@ -17,7 +17,7 @@
               "List": [
                 {
                   "Name": "Deze week in de aanbieding",
-                  "Quantity": "22",
+                  "Quantity": "28",
                   "IsSelected": false,
                   "URL": "&tn_fk_ae-aanbieding-filtering=Deze%20week%20in%20de%20aanbieding"
                 }
@@ -321,16 +321,16 @@
       "List": [
         {
           "PLP_Str": {
-            "SKU": "816377",
+            "SKU": "796362",
             "Brand": "XXL Fit",
-            "Name": "XXL Fit Yoghurt granola vanille",
-            "Product_Subtitle": "Per 200 g",
-            "Slug": "xxl-fit-yoghurt-granola-vanille-beker-200-g-816377",
-            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/816377_M/73b4438e804b2dd88826ddd10985b654/816377.png",
+            "Name": "XXL Fit Yoghurt Strawberry",
+            "Product_Subtitle": "Per 750 g",
+            "Slug": "xxl-fit-yoghurt-strawberry-emmer-750-g-796362",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/796362_M/44d3ffeae4f13da16cd363b13f7feadf/796362.png",
             "ImageLabel": "",
-            "MetaTitle": "XXL Fit Yoghurt granola vanille 200 Gram - PLUS",
-            "MetaDescription": "Bestel XXL Fit Yoghurt granola vanille 200 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
-            "OriginalPrice": "1.99",
+            "MetaTitle": "XXL Fit Yoghurt Strawberry 750 Gram - PLUS",
+            "MetaDescription": "Bestel XXL Fit Yoghurt Strawberry 750 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "OriginalPrice": "3.99",
             "NewPrice": "0.0",
             "Quantity": 0,
             "LineItemId": "",
@@ -365,7 +365,7 @@
               }
             },
             "EAN": "",
-            "Packging": "Beker",
+            "Packging": "Emmer",
             "Categories": {
               "List": [
                 {
@@ -467,15 +467,15 @@
         },
         {
           "PLP_Str": {
-            "SKU": "154058",
-            "Brand": "Melkan",
-            "Name": "Melkan Yoghurt snack banaan",
+            "SKU": "463194",
+            "Brand": "Arla",
+            "Name": "Arla Skyr Naturel",
             "Product_Subtitle": "Per 200 g",
-            "Slug": "melkan-yoghurt-snack-banaan-stazak-200-g-154058",
-            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/154058_M/2616838705bff0ce7b6ea9a1bb3389d0/154058.png",
+            "Slug": "arla-skyr-naturel-kuipje-200-g-463194",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/463194_M/d6e908fbeb101b322a8318173b4cd76c/463194.png",
             "ImageLabel": "",
-            "MetaTitle": "Melkan Yoghurt snack banaan 200 Gram - PLUS",
-            "MetaDescription": "Bestel Melkan Yoghurt snack banaan 200 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "MetaTitle": "Arla Skyr Naturel 200 Gram - PLUS",
+            "MetaDescription": "Bestel Arla Skyr Naturel 200 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
             "OriginalPrice": "1.49",
             "NewPrice": "0",
             "Quantity": 0,
@@ -483,14 +483,13 @@
             "IsProductOverMajorityAge": false,
             "Logos": {
               "PLPInUpperLeft": {
-                "List": [
-                  {
-                    "Name": "Laagblijver",
-                    "LongDescription": "Laagblijver",
-                    "URL": "https://images.ctfassets.net/s0lodsnpsezb/L_QUxHX0xBQUdCTElKVkVS_M/7cb565a0915afed22256044f7eab44b4/laagblijvers.webp",
-                    "Order": 129
-                  }
-                ]
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
               },
               "PLPAboveTitle": {
                 "List": [],
@@ -512,7 +511,7 @@
               }
             },
             "EAN": "",
-            "Packging": "Stazak",
+            "Packging": "Kuipje",
             "Categories": {
               "List": [
                 {
@@ -586,80 +585,6 @@
             },
             "EAN": "",
             "Packging": "Kuipje",
-            "Categories": {
-              "List": [
-                {
-                  "Name": "Zuivel, eieren, boter"
-                },
-                {
-                  "Name": "Verse zuivel"
-                },
-                {
-                  "Name": "Yoghurt"
-                }
-              ]
-            },
-            "IsAvailable": true,
-            "PromotionLabel": "",
-            "PromotionBasedLabel": "",
-            "PromotionStartDate": "1900-01-01",
-            "PromotionEndDate": "1900-01-01",
-            "IsFreeDeliveryOffer": false,
-            "IsOfflineSaleOnly": false,
-            "MaxOrderLimit": 199,
-            "CitrusAdId": "",
-            "IsLocalItem": false
-          },
-          "BadgeQuantity": 0
-        },
-        {
-          "PLP_Str": {
-            "SKU": "155643",
-            "Brand": "Melkan",
-            "Name": "Melkan Yoghurt snack aardbei",
-            "Product_Subtitle": "Per 200 g",
-            "Slug": "melkan-yoghurt-snack-aardbei-stazak-200-g-155643",
-            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/155643_M/31df42e6c6783bc18c114c7d626e3dfd/155643.png",
-            "ImageLabel": "",
-            "MetaTitle": "Melkan Yoghurt snack aardbei 200 Gram - PLUS",
-            "MetaDescription": "Bestel Melkan Yoghurt snack aardbei 200 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
-            "OriginalPrice": "1.49",
-            "NewPrice": "0",
-            "Quantity": 0,
-            "LineItemId": "",
-            "IsProductOverMajorityAge": false,
-            "Logos": {
-              "PLPInUpperLeft": {
-                "List": [
-                  {
-                    "Name": "Laagblijver",
-                    "LongDescription": "Laagblijver",
-                    "URL": "https://images.ctfassets.net/s0lodsnpsezb/L_QUxHX0xBQUdCTElKVkVS_M/7cb565a0915afed22256044f7eab44b4/laagblijvers.webp",
-                    "Order": 129
-                  }
-                ]
-              },
-              "PLPAboveTitle": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              },
-              "PLPBehindSizeUnit": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              }
-            },
-            "EAN": "",
-            "Packging": "Stazak",
             "Categories": {
               "List": [
                 {
@@ -835,29 +760,30 @@
         },
         {
           "PLP_Str": {
-            "SKU": "618251",
-            "Brand": "Zuivelhoeve",
-            "Name": "Zuivelhoeve Boer'n Yoghurt Vanille",
-            "Product_Subtitle": "Per 750 g",
-            "Slug": "zuivelhoeve-boer-n-yoghurt-vanille-emmer-750-g-618251",
-            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/618251_M/b8a789213f3303612d1170cb5efd7eae/618251.png",
+            "SKU": "154058",
+            "Brand": "Melkan",
+            "Name": "Melkan Yoghurt snack banaan",
+            "Product_Subtitle": "Per 200 g",
+            "Slug": "melkan-yoghurt-snack-banaan-stazak-200-g-154058",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/154058_M/2616838705bff0ce7b6ea9a1bb3389d0/154058.png",
             "ImageLabel": "",
-            "MetaTitle": "Zuivelhoeve Boer'n Yoghurt Vanille 750 Gram - PLUS",
-            "MetaDescription": "Bestel Zuivelhoeve Boer'n Yoghurt Vanille 750 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
-            "OriginalPrice": "2.99",
+            "MetaTitle": "Melkan Yoghurt snack banaan 200 Gram - PLUS",
+            "MetaDescription": "Bestel Melkan Yoghurt snack banaan 200 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "OriginalPrice": "1.49",
             "NewPrice": "0",
             "Quantity": 0,
             "LineItemId": "",
             "IsProductOverMajorityAge": false,
             "Logos": {
               "PLPInUpperLeft": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
+                "List": [
+                  {
+                    "Name": "Laagblijver",
+                    "LongDescription": "Laagblijver",
+                    "URL": "https://images.ctfassets.net/s0lodsnpsezb/L_QUxHX0xBQUdCTElKVkVS_M/7cb565a0915afed22256044f7eab44b4/laagblijvers.webp",
+                    "Order": 129
+                  }
+                ]
               },
               "PLPAboveTitle": {
                 "List": [],
@@ -879,7 +805,81 @@
               }
             },
             "EAN": "",
-            "Packging": "Emmer",
+            "Packging": "Stazak",
+            "Categories": {
+              "List": [
+                {
+                  "Name": "Zuivel, eieren, boter"
+                },
+                {
+                  "Name": "Verse zuivel"
+                },
+                {
+                  "Name": "Yoghurt"
+                }
+              ]
+            },
+            "IsAvailable": true,
+            "PromotionLabel": "",
+            "PromotionBasedLabel": "",
+            "PromotionStartDate": "1900-01-01",
+            "PromotionEndDate": "1900-01-01",
+            "IsFreeDeliveryOffer": false,
+            "IsOfflineSaleOnly": false,
+            "MaxOrderLimit": 199,
+            "CitrusAdId": "",
+            "IsLocalItem": false
+          },
+          "BadgeQuantity": 0
+        },
+        {
+          "PLP_Str": {
+            "SKU": "155643",
+            "Brand": "Melkan",
+            "Name": "Melkan Yoghurt snack aardbei",
+            "Product_Subtitle": "Per 200 g",
+            "Slug": "melkan-yoghurt-snack-aardbei-stazak-200-g-155643",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/155643_M/31df42e6c6783bc18c114c7d626e3dfd/155643.png",
+            "ImageLabel": "",
+            "MetaTitle": "Melkan Yoghurt snack aardbei 200 Gram - PLUS",
+            "MetaDescription": "Bestel Melkan Yoghurt snack aardbei 200 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "OriginalPrice": "1.49",
+            "NewPrice": "0",
+            "Quantity": 0,
+            "LineItemId": "",
+            "IsProductOverMajorityAge": false,
+            "Logos": {
+              "PLPInUpperLeft": {
+                "List": [
+                  {
+                    "Name": "Laagblijver",
+                    "LongDescription": "Laagblijver",
+                    "URL": "https://images.ctfassets.net/s0lodsnpsezb/L_QUxHX0xBQUdCTElKVkVS_M/7cb565a0915afed22256044f7eab44b4/laagblijvers.webp",
+                    "Order": 129
+                  }
+                ]
+              },
+              "PLPAboveTitle": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPBehindSizeUnit": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              }
+            },
+            "EAN": "",
+            "Packging": "Stazak",
             "Categories": {
               "List": [
                 {
@@ -981,16 +981,16 @@
         },
         {
           "PLP_Str": {
-            "SKU": "947687",
-            "Brand": "Melkan",
-            "Name": "Melkan Soja yoghurt bosbes",
-            "Product_Subtitle": "Per 500 g",
-            "Slug": "melkan-soja-yoghurt-bosbes-kuipje-500-g-947687",
-            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/947687_M/99e59951189e4494895b5a2723534f7e/947687.png",
+            "SKU": "816377",
+            "Brand": "XXL Fit",
+            "Name": "XXL Fit Yoghurt granola vanille",
+            "Product_Subtitle": "Per 200 g",
+            "Slug": "xxl-fit-yoghurt-granola-vanille-beker-200-g-816377",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/816377_M/73b4438e804b2dd88826ddd10985b654/816377.png",
             "ImageLabel": "",
-            "MetaTitle": "Melkan Soja yoghurt bosbes 500 Gram - PLUS",
-            "MetaDescription": "Bestel Melkan Soja yoghurt bosbes 500 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
-            "OriginalPrice": "1.89",
+            "MetaTitle": "XXL Fit Yoghurt granola vanille 200 Gram - PLUS",
+            "MetaDescription": "Bestel XXL Fit Yoghurt granola vanille 200 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "OriginalPrice": "1.99",
             "NewPrice": "0",
             "Quantity": 0,
             "LineItemId": "",
@@ -1025,7 +1025,7 @@
               }
             },
             "EAN": "",
-            "Packging": "Kuipje",
+            "Packging": "Beker",
             "Categories": {
               "List": [
                 {
@@ -1054,16 +1054,16 @@
         },
         {
           "PLP_Str": {
-            "SKU": "796366",
-            "Brand": "XXL Fit",
-            "Name": "XXL Fit Yoghurt Mango",
+            "SKU": "618251",
+            "Brand": "Zuivelhoeve",
+            "Name": "Zuivelhoeve Boer'n Yoghurt Vanille",
             "Product_Subtitle": "Per 750 g",
-            "Slug": "xxl-fit-yoghurt-mango-emmer-750-g-796366",
-            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/796366_M/69b7b8a025c9e446fbcccaf103891369/796366.png",
+            "Slug": "zuivelhoeve-boer-n-yoghurt-vanille-emmer-750-g-618251",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/618251_M/b8a789213f3303612d1170cb5efd7eae/618251.png",
             "ImageLabel": "",
-            "MetaTitle": "XXL Fit Yoghurt Mango 750 Gram - PLUS",
-            "MetaDescription": "Bestel XXL Fit Yoghurt Mango 750 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
-            "OriginalPrice": "3.99",
+            "MetaTitle": "Zuivelhoeve Boer'n Yoghurt Vanille 750 Gram - PLUS",
+            "MetaDescription": "Bestel Zuivelhoeve Boer'n Yoghurt Vanille 750 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "OriginalPrice": "2.99",
             "NewPrice": "0",
             "Quantity": 0,
             "LineItemId": "",
@@ -1127,16 +1127,16 @@
         },
         {
           "PLP_Str": {
-            "SKU": "478543",
-            "Brand": "Danone",
-            "Name": "Danone Skyr Naturel 0% vet",
-            "Product_Subtitle": "Per 800 g",
-            "Slug": "danone-skyr-naturel-0-vet-beker-800-g-478543",
-            "ImageURL": "",
+            "SKU": "947687",
+            "Brand": "Melkan",
+            "Name": "Melkan Soja yoghurt bosbes",
+            "Product_Subtitle": "Per 500 g",
+            "Slug": "melkan-soja-yoghurt-bosbes-kuipje-500-g-947687",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/947687_M/99e59951189e4494895b5a2723534f7e/947687.png",
             "ImageLabel": "",
-            "MetaTitle": "Danone Skyr Naturel 0% vet 800 Gram - PLUS",
-            "MetaDescription": "Bestel Danone Skyr Naturel 0% vet 800 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
-            "OriginalPrice": "3.29",
+            "MetaTitle": "Melkan Soja yoghurt bosbes 500 Gram - PLUS",
+            "MetaDescription": "Bestel Melkan Soja yoghurt bosbes 500 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "OriginalPrice": "1.89",
             "NewPrice": "0",
             "Quantity": 0,
             "LineItemId": "",
@@ -1171,7 +1171,7 @@
               }
             },
             "EAN": "",
-            "Packging": "Beker",
+            "Packging": "Kuipje",
             "Categories": {
               "List": [
                 {

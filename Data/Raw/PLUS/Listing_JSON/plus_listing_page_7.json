@@ -17,7 +17,7 @@
               "List": [
                 {
                   "Name": "Deze week in de aanbieding",
-                  "Quantity": "22",
+                  "Quantity": "28",
                   "IsSelected": false,
                   "URL": "&tn_fk_ae-aanbieding-filtering=Deze%20week%20in%20de%20aanbieding"
                 }
@@ -321,6 +321,79 @@
       "List": [
         {
           "PLP_Str": {
+            "SKU": "766833",
+            "Brand": "Melkunie",
+            "Name": "Melkunie Protein kwark aardbei",
+            "Product_Subtitle": "Per 200 g",
+            "Slug": "melkunie-protein-kwark-aardbei-beker-200-g-766833",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/766833_M/6d025a94bb35c996e3e48b934304811b/766833.png",
+            "ImageLabel": "",
+            "MetaTitle": "Melkunie Protein kwark aardbei 200 Gram - PLUS",
+            "MetaDescription": "Bestel Melkunie Protein kwark aardbei 200 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "OriginalPrice": "1.59",
+            "NewPrice": "0.0",
+            "Quantity": 0,
+            "LineItemId": "",
+            "IsProductOverMajorityAge": false,
+            "Logos": {
+              "PLPInUpperLeft": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPAboveTitle": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPBehindSizeUnit": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              }
+            },
+            "EAN": "",
+            "Packging": "Beker",
+            "Categories": {
+              "List": [
+                {
+                  "Name": "Zuivel, eieren, boter"
+                },
+                {
+                  "Name": "Verse zuivel"
+                },
+                {
+                  "Name": "Yoghurt"
+                }
+              ]
+            },
+            "IsAvailable": true,
+            "PromotionLabel": "",
+            "PromotionBasedLabel": "",
+            "PromotionStartDate": "1900-01-01",
+            "PromotionEndDate": "1900-01-01",
+            "IsFreeDeliveryOffer": false,
+            "IsOfflineSaleOnly": false,
+            "MaxOrderLimit": 199,
+            "CitrusAdId": "",
+            "IsLocalItem": false
+          },
+          "BadgeQuantity": 0
+        },
+        {
+          "PLP_Str": {
             "SKU": "306015",
             "Brand": "Almhof",
             "Name": "Almhof Hoekje choco balls",
@@ -331,7 +404,7 @@
             "MetaTitle": "Almhof Hoekje choco balls 150 Gram - PLUS",
             "MetaDescription": "Bestel Almhof Hoekje choco balls 150 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
             "OriginalPrice": "1.49",
-            "NewPrice": "0.0",
+            "NewPrice": "0",
             "Quantity": 0,
             "LineItemId": "",
             "IsProductOverMajorityAge": false,
@@ -468,16 +541,16 @@
         },
         {
           "PLP_Str": {
-            "SKU": "284193",
-            "Brand": "Melkunie",
-            "Name": "Melkunie Protein yoghurt mango",
-            "Product_Subtitle": "Per 200 g",
-            "Slug": "melkunie-protein-yoghurt-mango-zakje-200-g-284193",
-            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/284193_M/d0850e45fc15763a8d0b5a08058e9960/284193.png",
+            "SKU": "869443",
+            "Brand": "Almhof",
+            "Name": "Almhof Halfvolle fruityoghurt kers",
+            "Product_Subtitle": "Per 500 g",
+            "Slug": "almhof-halfvolle-fruityoghurt-kers-beker-500-g-869443",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/869443_M/37e0426faccf38b1f70c658ba36bd2e5/869443.png",
             "ImageLabel": "",
-            "MetaTitle": "Melkunie Protein yoghurt mango 200 Gram - PLUS",
-            "MetaDescription": "Bestel Melkunie Protein yoghurt mango 200 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
-            "OriginalPrice": "1.79",
+            "MetaTitle": "Almhof Halfvolle fruityoghurt kers 500 Gram - PLUS",
+            "MetaDescription": "Bestel Almhof Halfvolle fruityoghurt kers 500 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "OriginalPrice": "2.19",
             "NewPrice": "0",
             "Quantity": 0,
             "LineItemId": "",
@@ -512,7 +585,7 @@
               }
             },
             "EAN": "",
-            "Packging": "Zakje",
+            "Packging": "Beker",
             "Categories": {
               "List": [
                 {
@@ -614,17 +687,90 @@
         },
         {
           "PLP_Str": {
-            "SKU": "796328",
-            "Brand": "Campina",
-            "Name": "Campina Extra Proteine Halfvolle Yoghurt",
-            "Product_Subtitle": "Per 1000 ml",
-            "Slug": "campina-extra-proteine-halfvolle-yoghurt-pak-1000-ml-796328",
-            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/796328_M/a15ed9efb54ad7b6b9b4548f050877bc/796328.png",
+            "SKU": "284193",
+            "Brand": "Melkunie",
+            "Name": "Melkunie Protein yoghurt mango",
+            "Product_Subtitle": "Per 200 g",
+            "Slug": "melkunie-protein-yoghurt-mango-zakje-200-g-284193",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/284193_M/d0850e45fc15763a8d0b5a08058e9960/284193.png",
             "ImageLabel": "",
-            "MetaTitle": "Campina Extra Proteine Halfvolle Yoghurt 1000 Milliliter - PLUS",
-            "MetaDescription": "Bestel Campina Extra Proteine Halfvolle Yoghurt 1000 Milliliter online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "MetaTitle": "Melkunie Protein yoghurt mango 200 Gram - PLUS",
+            "MetaDescription": "Bestel Melkunie Protein yoghurt mango 200 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "OriginalPrice": "1.79",
+            "NewPrice": "0",
+            "Quantity": 0,
+            "LineItemId": "",
+            "IsProductOverMajorityAge": false,
+            "Logos": {
+              "PLPInUpperLeft": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPAboveTitle": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPBehindSizeUnit": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              }
+            },
+            "EAN": "",
+            "Packging": "Zakje",
+            "Categories": {
+              "List": [
+                {
+                  "Name": "Zuivel, eieren, boter"
+                },
+                {
+                  "Name": "Verse zuivel"
+                },
+                {
+                  "Name": "Yoghurt"
+                }
+              ]
+            },
+            "IsAvailable": true,
+            "PromotionLabel": "",
+            "PromotionBasedLabel": "",
+            "PromotionStartDate": "1900-01-01",
+            "PromotionEndDate": "1900-01-01",
+            "IsFreeDeliveryOffer": false,
+            "IsOfflineSaleOnly": false,
+            "MaxOrderLimit": 199,
+            "CitrusAdId": "",
+            "IsLocalItem": false
+          },
+          "BadgeQuantity": 0
+        },
+        {
+          "PLP_Str": {
+            "SKU": "393151",
+            "Brand": "Arla",
+            "Name": "Arla Bio milde halfvolle yoghurt",
+            "Product_Subtitle": "Per 1000 ml",
+            "Slug": "arla-bio-milde-halfvolle-yoghurt-pak-1000-ml-393151",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/393151_M/9ba45dadcaa00679d88f438ec3c18c8c/393151.png",
+            "ImageLabel": "",
+            "MetaTitle": "Arla Bio milde halfvolle yoghurt 1000 Milliliter - PLUS",
+            "MetaDescription": "Bestel Arla Bio milde halfvolle yoghurt 1000 Milliliter online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
             "OriginalPrice": "1.99",
-            "NewPrice": "0.0",
+            "NewPrice": "0",
             "Quantity": 0,
             "LineItemId": "",
             "IsProductOverMajorityAge": false,
@@ -673,11 +819,11 @@
               ]
             },
             "IsAvailable": true,
-            "PromotionLabel": "GRATIS BEZORGING BIJ 10.00 EURO",
+            "PromotionLabel": "",
             "PromotionBasedLabel": "",
-            "PromotionStartDate": "2026-06-24",
-            "PromotionEndDate": "2026-06-30",
-            "IsFreeDeliveryOffer": true,
+            "PromotionStartDate": "1900-01-01",
+            "PromotionEndDate": "1900-01-01",
+            "IsFreeDeliveryOffer": false,
             "IsOfflineSaleOnly": false,
             "MaxOrderLimit": 199,
             "CitrusAdId": "",
@@ -687,16 +833,16 @@
         },
         {
           "PLP_Str": {
-            "SKU": "796334",
-            "Brand": "Optimel",
-            "Name": "Optimel Yoghurt vezels Aardbei Bosbes",
-            "Product_Subtitle": "Per 450 g",
-            "Slug": "optimel-yoghurt-vezels-aardbei-bosbes-kuipje-450-g-796334",
-            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/796334_M/73ef2a7cb433c57963035d0b6196b3ef/796334.png",
+            "SKU": "425330",
+            "Brand": "Campina",
+            "Name": "Campina High Protein Greek 5%",
+            "Product_Subtitle": "Per 1000 g",
+            "Slug": "campina-high-protein-greek-5-kuipje-1000-g-425330",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/425330_M/ed663d3a35aec27d6a70e4607383b4cc/425330.png",
             "ImageLabel": "",
-            "MetaTitle": "Optimel Yoghurt vezels Aardbei Bosbes 450 Gram - PLUS",
-            "MetaDescription": "Bestel Optimel Yoghurt vezels Aardbei Bosbes 450 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
-            "OriginalPrice": "2.49",
+            "MetaTitle": "Campina High Protein Greek 5% 1000 Gram - PLUS",
+            "MetaDescription": "Bestel Campina High Protein Greek 5% 1000 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "OriginalPrice": "3.79",
             "NewPrice": "0.0",
             "Quantity": 0,
             "LineItemId": "",
@@ -760,16 +906,16 @@
         },
         {
           "PLP_Str": {
-            "SKU": "393151",
-            "Brand": "Arla",
-            "Name": "Arla Bio milde halfvolle yoghurt",
-            "Product_Subtitle": "Per 1000 ml",
-            "Slug": "arla-bio-milde-halfvolle-yoghurt-pak-1000-ml-393151",
-            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/393151_M/9ba45dadcaa00679d88f438ec3c18c8c/393151.png",
+            "SKU": "421427",
+            "Brand": "Alpro",
+            "Name": "Alpro Plantaardige Variatie Yoghurt Aardbei",
+            "Product_Subtitle": "Per 500 g",
+            "Slug": "alpro-plantaardige-variatie-yoghurt-aardbei-beker-500-g-421427",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/421427_M/a1bb006ec19fa5b7b81f954bdef965c2/421427.png",
             "ImageLabel": "",
-            "MetaTitle": "Arla Bio milde halfvolle yoghurt 1000 Milliliter - PLUS",
-            "MetaDescription": "Bestel Arla Bio milde halfvolle yoghurt 1000 Milliliter online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
-            "OriginalPrice": "1.99",
+            "MetaTitle": "Alpro Plantaardige Variatie Yoghurt Aardbei 500 Gram - PLUS",
+            "MetaDescription": "Bestel Alpro Plantaardige Variatie Yoghurt Aardbei 500 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "OriginalPrice": "2.29",
             "NewPrice": "0",
             "Quantity": 0,
             "LineItemId": "",
@@ -804,7 +950,80 @@
               }
             },
             "EAN": "",
-            "Packging": "Pak",
+            "Packging": "Beker",
+            "Categories": {
+              "List": [
+                {
+                  "Name": "Zuivel, eieren, boter"
+                },
+                {
+                  "Name": "Verse zuivel"
+                },
+                {
+                  "Name": "Yoghurt"
+                }
+              ]
+            },
+            "IsAvailable": true,
+            "PromotionLabel": "",
+            "PromotionBasedLabel": "",
+            "PromotionStartDate": "1900-01-01",
+            "PromotionEndDate": "1900-01-01",
+            "IsFreeDeliveryOffer": false,
+            "IsOfflineSaleOnly": false,
+            "MaxOrderLimit": 199,
+            "CitrusAdId": "",
+            "IsLocalItem": false
+          },
+          "BadgeQuantity": 0
+        },
+        {
+          "PLP_Str": {
+            "SKU": "811497",
+            "Brand": "Melkan",
+            "Name": "Melkan Skyr naturel",
+            "Product_Subtitle": "Per 1000 g",
+            "Slug": "melkan-skyr-naturel-emmer-1000-g-811497",
+            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/811497_M/d76d75a2f390ff16e51530862ea60669/811497.png",
+            "ImageLabel": "",
+            "MetaTitle": "Melkan Skyr naturel 1000 Gram - PLUS",
+            "MetaDescription": "Bestel Melkan Skyr naturel 1000 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
+            "OriginalPrice": "2.97",
+            "NewPrice": "0",
+            "Quantity": 0,
+            "LineItemId": "",
+            "IsProductOverMajorityAge": false,
+            "Logos": {
+              "PLPInUpperLeft": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPAboveTitle": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              },
+              "PLPBehindSizeUnit": {
+                "List": [],
+                "EmptyListItem": {
+                  "Name": "",
+                  "LongDescription": "",
+                  "URL": "",
+                  "Order": 0
+                }
+              }
+            },
+            "EAN": "",
+            "Packging": "Emmer",
             "Categories": {
               "List": [
                 {
@@ -906,79 +1125,6 @@
         },
         {
           "PLP_Str": {
-            "SKU": "299304",
-            "Brand": "Almhof",
-            "Name": "Almhof Yoghurt Griekse stijl 10% vet",
-            "Product_Subtitle": "Per 450 g",
-            "Slug": "almhof-yoghurt-griekse-stijl-10-vet-beker-450-g-299304",
-            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/299304_M/69373a85d273a9f2ee5f88d89f561de0/299304.png",
-            "ImageLabel": "",
-            "MetaTitle": "Almhof Yoghurt Griekse stijl 10% vet 450 Gram - PLUS",
-            "MetaDescription": "Bestel Almhof Yoghurt Griekse stijl 10% vet 450 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
-            "OriginalPrice": "2.39",
-            "NewPrice": "0",
-            "Quantity": 0,
-            "LineItemId": "",
-            "IsProductOverMajorityAge": false,
-            "Logos": {
-              "PLPInUpperLeft": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              },
-              "PLPAboveTitle": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              },
-              "PLPBehindSizeUnit": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              }
-            },
-            "EAN": "",
-            "Packging": "Beker",
-            "Categories": {
-              "List": [
-                {
-                  "Name": "Zuivel, eieren, boter"
-                },
-                {
-                  "Name": "Verse zuivel"
-                },
-                {
-                  "Name": "Yoghurt"
-                }
-              ]
-            },
-            "IsAvailable": true,
-            "PromotionLabel": "",
-            "PromotionBasedLabel": "",
-            "PromotionStartDate": "1900-01-01",
-            "PromotionEndDate": "1900-01-01",
-            "IsFreeDeliveryOffer": false,
-            "IsOfflineSaleOnly": false,
-            "MaxOrderLimit": 199,
-            "CitrusAdId": "",
-            "IsLocalItem": false
-          },
-          "BadgeQuantity": 0
-        },
-        {
-          "PLP_Str": {
             "SKU": "169847",
             "Brand": "Optimel",
             "Name": "Optimel Yoghurt aardbei 0% vet",
@@ -1043,152 +1189,6 @@
             "PromotionStartDate": "2026-06-24",
             "PromotionEndDate": "2026-06-30",
             "IsFreeDeliveryOffer": true,
-            "IsOfflineSaleOnly": false,
-            "MaxOrderLimit": 199,
-            "CitrusAdId": "",
-            "IsLocalItem": false
-          },
-          "BadgeQuantity": 0
-        },
-        {
-          "PLP_Str": {
-            "SKU": "155455",
-            "Brand": "Campina",
-            "Name": "Campina Volle yoghurt",
-            "Product_Subtitle": "Per 500 ml",
-            "Slug": "campina-volle-yoghurt-pak-500-ml-155455",
-            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/155455_M/1983339a74be2bbe50f91926e5d8f42f/155455.png",
-            "ImageLabel": "",
-            "MetaTitle": "Campina Volle yoghurt 500 Milliliter - PLUS",
-            "MetaDescription": "Bestel Campina Volle yoghurt 500 Milliliter online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
-            "OriginalPrice": "1.29",
-            "NewPrice": "0",
-            "Quantity": 0,
-            "LineItemId": "",
-            "IsProductOverMajorityAge": false,
-            "Logos": {
-              "PLPInUpperLeft": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              },
-              "PLPAboveTitle": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              },
-              "PLPBehindSizeUnit": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              }
-            },
-            "EAN": "",
-            "Packging": "Pak",
-            "Categories": {
-              "List": [
-                {
-                  "Name": "Zuivel, eieren, boter"
-                },
-                {
-                  "Name": "Verse zuivel"
-                },
-                {
-                  "Name": "Yoghurt"
-                }
-              ]
-            },
-            "IsAvailable": true,
-            "PromotionLabel": "",
-            "PromotionBasedLabel": "",
-            "PromotionStartDate": "1900-01-01",
-            "PromotionEndDate": "1900-01-01",
-            "IsFreeDeliveryOffer": false,
-            "IsOfflineSaleOnly": false,
-            "MaxOrderLimit": 199,
-            "CitrusAdId": "",
-            "IsLocalItem": false
-          },
-          "BadgeQuantity": 0
-        },
-        {
-          "PLP_Str": {
-            "SKU": "811497",
-            "Brand": "Melkan",
-            "Name": "Melkan Skyr naturel",
-            "Product_Subtitle": "Per 1000 g",
-            "Slug": "melkan-skyr-naturel-emmer-1000-g-811497",
-            "ImageURL": "https://images.ctfassets.net/s0lodsnpsezb/811497_M/d76d75a2f390ff16e51530862ea60669/811497.png",
-            "ImageLabel": "",
-            "MetaTitle": "Melkan Skyr naturel 1000 Gram - PLUS",
-            "MetaDescription": "Bestel Melkan Skyr naturel 1000 Gram online op plus.nl. Laat je boodschappen makkelijk en snel thuis bezorgen of haal het op bij jouw PLUS.",
-            "OriginalPrice": "2.97",
-            "NewPrice": "0",
-            "Quantity": 0,
-            "LineItemId": "",
-            "IsProductOverMajorityAge": false,
-            "Logos": {
-              "PLPInUpperLeft": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              },
-              "PLPAboveTitle": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              },
-              "PLPBehindSizeUnit": {
-                "List": [],
-                "EmptyListItem": {
-                  "Name": "",
-                  "LongDescription": "",
-                  "URL": "",
-                  "Order": 0
-                }
-              }
-            },
-            "EAN": "",
-            "Packging": "Emmer",
-            "Categories": {
-              "List": [
-                {
-                  "Name": "Zuivel, eieren, boter"
-                },
-                {
-                  "Name": "Verse zuivel"
-                },
-                {
-                  "Name": "Yoghurt"
-                }
-              ]
-            },
-            "IsAvailable": true,
-            "PromotionLabel": "",
-            "PromotionBasedLabel": "",
-            "PromotionStartDate": "1900-01-01",
-            "PromotionEndDate": "1900-01-01",
-            "IsFreeDeliveryOffer": false,
             "IsOfflineSaleOnly": false,
             "MaxOrderLimit": 199,
             "CitrusAdId": "",
