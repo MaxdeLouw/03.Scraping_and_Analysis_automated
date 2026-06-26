@@ -20,6 +20,7 @@ This project covers:
 
 ## Key outputs
 cleaned dataset, SQLite database, SQL report, automated pipeline.
+
 Example insight: PLUS had 163 yoghurt products and Jumbo 150 in the collected sample. While Plus' house-brand is more expensive, the average price of products is cheaper at Plus
 
 
